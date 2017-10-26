@@ -1,0 +1,21 @@
+{
+    "businesses": [
+         {
+            "company": "GMS Mine Repair & Maintenance",
+            "contact": "Scott Smith-Vice President of Sales",
+            "address": "32 Enterprise Drive",
+            "city": "Oakland",
+            "state": "MD",
+            "country": "",
+            "zip": "21550",
+            "phone1": "301-334-8186",
+            "phone2": "",
+            "fax": "301-334-8698",
+            "link": "http://www.gmsminerepair.com",
+            "website": "www.gmsminerepair.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/GMS_logo-used-150x84.jpg",
+            "description": "GMS Mine Repair & Maintenance strives to be a  leader in underground & surface mine contracting and fabrication – working in all coal regions throughout North America.  Specializing in seal installs, ground control installation, ventilation, fabrication and various other projects large and small."
+        }
+    ]
+}

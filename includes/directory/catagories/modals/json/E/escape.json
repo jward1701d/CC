@@ -1,0 +1,72 @@
+{
+    "businesses": [
+         {
+            "company": "Irvin Construction Services, Inc. (ICSI)",
+            "contact": "Regina Irvin",
+            "address": "252 Cinnamon Run",
+            "city": "Wytheville",
+            "state": "VA",
+            "country": "",
+            "zip": "24382",
+            "phone1": "276-625-7200",
+            "phone2": "",
+            "fax": "276-223-1376",
+            "link": "http://www.icsiworks.com",
+            "website": "www.icsiworks.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Irvin-COnstruction-Logo-150x49.gif",
+            "description": ""
+        },
+         {
+            "company": "MATRIX Design Group",
+            "contact": "",
+            "address": "5741 Prospect Dr",
+            "city": "Newburgh",
+            "state": "IN",
+            "country": "",
+            "zip": "47630",
+            "phone1": "812-490-1525",
+            "phone2": "",
+            "fax": "",
+            "link": "",
+            "website": "",
+            "emailaddress": "",
+             "logo": "",
+            "description": ""
+        },
+         {
+            "company": "Planar Systems",
+            "contact": "",
+            "address": "1195 NW Compton Dr",
+            "city": "Portland",
+            "state": "OR",
+            "country": "",
+            "zip": "97006",
+            "phone1": "503-748-1100",
+            "phone2": "",
+            "fax": "",
+            "link": "http://www.planarembedded.com",
+            "website": "www.planarembedded.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Planar-Logo-150x54.png",
+            "description": ""
+        },
+         {
+            "company": "Sweet Manufacturing Co.",
+            "contact": "",
+            "address": "PO Box 1086",
+            "city": "Springfield",
+            "state": "OH",
+            "country": "",
+            "zip": "45501",
+            "phone1": "937-325-1511",
+            "phone2": "",
+            "fax": "",
+            "link": "http://www.sweetmfg.com",
+            "website": "www.sweetmfg.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Sweet-Mfg.-Co.-Logo-150x42.png",
+            "description": ""
+        }
+    ]
+}

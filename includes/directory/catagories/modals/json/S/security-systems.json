@@ -1,0 +1,55 @@
+{
+    "businesses": [
+         {
+            "company": "ABCO Security Systems, Inc.",
+            "contact": "",
+            "address": "3117 KY RT 321",
+            "city": "Prestonsburg",
+            "state": "KY",
+            "country": "",
+            "zip": "41653",
+            "phone1": "606-886-6586",
+            "phone2": "800-926-6021",
+            "fax": "",
+            "link": "http://ww.abcosecuritysystems.com",
+            "website": "ww.abcosecuritysystems.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/abco_security_logo.jpg",
+            "description": ""
+        },
+        {
+            "company": "Camel Technologies",
+            "contact": "",
+            "address": "1326 Ohio Ave",
+            "city": "Dunbar",
+            "state": "WV",
+            "country": "",
+            "zip": "25064",
+            "phone1": "866-79-CAMEL",
+            "phone2": "304-776-8063",
+            "fax": "",
+            "link": "http://www.cameltechnologies.com",
+            "website": "www.cameltechnologies.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Camel-Tech-Logo-150x135.jpg",
+            "description": ""
+        },
+        {
+            "company": "Jarrett Security Solutions",
+            "contact": "",
+            "address": "4031 E Morgan Ave",
+            "city": "Evansville",
+            "state": "IN",
+            "country": "",
+            "zip": "47715",
+            "phone1": "812-475-1779",
+            "phone2": "",
+            "fax": "",
+            "link": "http://www.JarrettSecurity.com",
+            "website": "www.JarrettSecurity.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/JSS-logo-150x43.jpg",
+            "description": ""
+        }
+    ]
+}

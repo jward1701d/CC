@@ -1,0 +1,55 @@
+{
+    "businesses": [
+         {
+            "company": "BPA-Air Quality Solutions, LLC",
+            "contact": "",
+            "address": "1236 Folly Rd",
+            "city": "Charleston",
+            "state": "SC",
+            "country": "",
+            "zip": "29412",
+            "phone1": "843-795-5560",
+            "phone2": "",
+            "fax": "843-795-5892",
+            "link": "http://www.breathepureair.com",
+            "website": "www.breathepureair.com",
+            "emailaddress": "",
+             "logo": "",
+            "description": ""
+        },
+        {
+            "company": "GfG Instrumentation, Inc.",
+            "contact": "",
+            "address": "1194 Oak Valley Dr Ste 20",
+            "city": "Ann Arbor",
+            "state": "MI",
+            "country": "",
+            "zip": "48108",
+            "phone1": "734-769-0573",
+            "phone2": "",
+            "fax": "734-769-1888",
+            "link": "http://www.gfg-inc.com",
+            "website": "www.gfg-inc.com",
+            "emailaddress": "",
+             "logo": "",
+            "description": ""
+        },
+        {
+            "company": "Standards Laboratories, Inc.",
+            "contact": "",
+            "address": "147 11th Ave",
+            "city": "South Charleston",
+            "state": "WV",
+            "country": "",
+            "zip": "25303",
+            "phone1": "304-755-0536",
+            "phone2": "",
+            "fax": "",
+            "link": "http://www.standardenvironmental.net",
+            "website": "www.standardenvironmental.net",
+            "emailaddress": "",
+             "logo": "",
+            "description": ""
+        }
+    ]
+}

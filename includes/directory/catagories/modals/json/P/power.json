@@ -1,0 +1,21 @@
+{
+    "businesses": [
+         {
+            "company": "PEMCO Corporation",
+            "contact": "",
+            "address": "PO Box 1319",
+            "city": "Bluefield",
+            "state": "VA",
+            "country": "",
+            "zip": "24605",
+            "phone1": "276-326-2611",
+            "phone2": "",
+            "fax": "276-326-2616",
+            "link": "http://www.pemco.com",
+            "website": "www.pemco.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Pemco-Logo.jpg",
+            "description": ""
+        }
+    ]
+}

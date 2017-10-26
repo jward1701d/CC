@@ -1,0 +1,72 @@
+{
+    "businesses": [
+         {
+            "company": "FLSmidth Centry",
+            "contact": "",
+            "address": "9020 S. Sandy Pkw",
+            "city": "Sandy",
+            "state": "UT",
+            "country": "",
+            "zip": "84070",
+            "phone1": "801-582-2002",
+            "phone2": "",
+            "fax": "",
+            "link": "http://www.centry.net",
+            "website": "www.centry.net",
+            "emailaddress": "",
+             "logo": "",
+            "description": ""
+        },
+        {
+            "company": "McLanahan Corporation",
+            "contact": "",
+            "address": "200 Wall St",
+            "city": "Hollidaysburg",
+            "state": "PA",
+            "country": "",
+            "zip": "16648",
+            "phone1": "814-695-9807",
+            "phone2": "",
+            "fax": "814-695-6684",
+            "link": "http://www.mclanahan.com",
+            "website": "www.mclanahan.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/150-Wide-Logo.jpg",
+            "description": "Since 1835, McLanahan Corporation has provided custom engineered processing solutions for a wide variety of mineral processing applications. Their highly skilled staff designs, manufactures and services equipment used for crushing, screening, feeding, breaking, washing, classifying, dewatering, scrubbing, sizing and more."
+        },
+        {
+            "company": "Oldenburg Stamler Corp.",
+            "contact": "",
+            "address": "PO Box 307",
+            "city": "Millersburg",
+            "state": "KY",
+            "country": "",
+            "zip": "40348",
+            "phone1": "859-254-8936",
+            "phone2": "",
+            "fax": "859-484-3336",
+            "link": "",
+            "website": "",
+            "emailaddress": "",
+             "logo": "",
+            "description": ""
+        },
+        {
+            "company": "Wabash Power Equipment Company",
+            "contact": "",
+            "address": "444 Carpenter Avenue",
+            "city": "Wheeling",
+            "state": "IL",
+            "country": "",
+            "zip": "60090",
+            "phone1": "847-541-5600 ",
+            "phone2": "",
+            "fax": "847-541-1279",
+            "link": "http://www.wabashpower.com",
+            "website": "www.wabashpower.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/untitled-150x84.png",
+            "description": "Since 1950, Wabash has supplied thousands of boilers for installation around the world with unique solutions from order to start-up. We maintain a huge inventory of boilers, auxiliaries and generating equipment in our strategically placed warehouses and headquarters in Wheeling, Illinois.</br>Our power generation equipment is built for us by leading manufacturers employing professionally licensed engineers and trained, certified craftsman to meet fabrication and code standards. It is dependable and efficient, incorporating the latest proven designs, innovations and emissions technologies.</br>There is absolutely no substitute for experience. Wabash can put our 60 years of experience to work for you. We deliver powerful, personalized service. From the moment you contact us, our utmost concern is providing technical and logistical solutions that precisely meet your application from our vast in-stock inventory.</br>We understand that “downtime is money,” so we strive to deliver the fastest response time. Our engineering and sales staff analyzes your needs, offers the best immediate in-stock equipment solutions and delivers within your time frame – whether to meet an emergency, aggressive deadline, or anticipated, scheduled outage. Satisfaction is our highest concern from initial inquiry to installation, start-up and continued support 24/7.</br>You need high quality, responsive technical services. Wabash delivers through its relationships with start-up service organizations, mechanical contractors and specialized carriers.</br>Wabash Delivers … with speed, dependability, smarts, inventory, market knowledge and compassion!"
+        }
+    ]
+}

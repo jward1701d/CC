@@ -1,0 +1,72 @@
+{
+    "businesses": [
+         {
+            "company": "Benetech",
+            "contact": "Amy Smith",
+            "address": "2245 Sequoia Dr Suite 300",
+            "city": "Aurora",
+            "state": "IL",
+            "country": "",
+            "zip": "60506",
+            "phone1": "630-844-1300",
+            "phone2": "",
+            "fax": "630-844-0064",
+            "link": "http://www.benetechusa.com",
+            "website": "www.benetechusa.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Benetech-Logo-150x44.jpg",
+            "description": "To make a positive difference in the lives of our customers by providing comprehensive bulk material solutions, of best-in-class services and technologies that add value, ensure efficiency and help create a safe working environment."
+        },
+        {
+            "company": "Clarage",
+            "contact": "",
+            "address": "2335 Columbia Hwy",
+            "city": "Pulaski",
+            "state": "TN",
+            "country": "",
+            "zip": "38478",
+            "phone1": "931-363-2667",
+            "phone2": "",
+            "fax": "",
+            "link": "http://www.clarage.com",
+            "website": "www.clarage.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Clarage-Logo-150x66.png",
+            "description": ""
+        },
+        {
+            "company": "Dust Controls Technologies",
+            "contact": "",
+            "address": "16121 NE 119th St",
+            "city": "Brush Prairie",
+            "state": "WA",
+            "country": "",
+            "zip": "98606",
+            "phone1": "360-256-2479",
+            "phone2": "",
+            "fax": "360-256-6604",
+            "link": "http://www.dustcontroltech.com",
+            "website": "www.dustcontroltech.com",
+            "emailaddress": "",
+             "logo": "",
+            "description": ""
+        },
+        {
+            "company": "Schenek Process",
+            "contact": "",
+            "address": "7901 N.W. 107th Terrace",
+            "city": "Kansas Cty",
+            "state": "MO",
+            "country": "",
+            "zip": "64153",
+            "phone1": "800-821-4136",
+            "phone2": "",
+            "fax": "816-891-8336",
+            "link": "http://www.schenckamericas.com",
+            "website": "www.schenckamericas.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Schenck-Process-Logo-150x150.jpg",
+            "description": ""
+        }
+    ]
+}

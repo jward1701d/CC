@@ -1,0 +1,21 @@
+{
+    "businesses": [
+         {
+            "company": "FKC-Lake Shore",
+            "contact": " Roger Cherry",
+            "address": "1695 Allen Rd",
+            "city": "Evansville",
+            "state": "IN",
+            "country": "",
+            "zip": "47710",
+            "phone1": "812-602-2240",
+            "phone2": "877-554-8600",
+            "fax": "812-425-3186",
+            "link": "http://www.frontierkemper.com",
+            "website": "www.frontierkemper.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/FKLS-Logo.jpg",
+            "description": "FKC-Lake Shore offers design-build-install services for innovative hoisting, elevator, and vertical conveyance systems used to transport personnel and material.  Our Field Services Division provides 24/7 emergency repair of electrical and mechanical systems.  Products & Services:  Vertical Belts, Skips, Hoists, Sheaves, Elevators, Cages, Headframes, Brakeman Cars, Controls, Field Services, and Wire Rope NDT."
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "businesses": [
+         {
+            "company": "Energy Freight Systems",
+            "contact": "",
+            "address": "2070 NW 79th Ave",
+            "city": "Doral",
+            "state": "FL",
+            "country": "",
+            "zip": "33122",
+            "phone1": "305-477-1400",
+            "phone2": "",
+            "fax": "305-477-3700",
+            "link": "http://www.energyfreight.com",
+            "website": "www.energyfreight.com",
+            "emailaddress": "",
+             "logo": "",
+            "description": ""
+        },
+         {
+            "company": "Sea Cargo Air Cargo Logistics, Inc.",
+            "contact": "",
+            "address": "6500 Silver Dart Dr, Ste 303 F Box 227 Toronto AMF",
+            "city": "Mississauga",
+            "state": "ON",
+            "country": "Canada",
+            "zip": "L5P 1B1",
+            "phone1": "905-678-5499",
+            "phone2": "",
+            "fax": "905-678-5492",
+            "link": "http://www.scacli.ca",
+            "website": "www.scacli.ca",
+            "emailaddress": "",
+             "logo": "",
+            "description": ""
+        }
+    ]
+}

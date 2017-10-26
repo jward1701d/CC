@@ -1,0 +1,21 @@
+{
+    "businesses": [
+         {
+            "company": "CBP Engineering Corporation",
+            "contact": "",
+            "address": "185 Plumpton Ave",
+            "city": "Washington",
+            "state": "PA",
+            "country": "",
+            "zip": "15301",
+            "phone1": "800-468-1180",
+            "phone2": "",
+            "fax": "724-229-1185",
+            "link": "http://www.cbpengineering.com",
+            "website": "www.cbpengineering.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/CPB-EngineeringLogo.png",
+            "description": ""
+        }
+    ]
+}

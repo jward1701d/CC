@@ -1,0 +1,55 @@
+{
+    "businesses": [
+        {
+            "company": " Berthold Technologies",
+            "contact": "",
+            "address": "99 Midway Ln",
+            "city": "Oak Ridge",
+            "state": "TN",
+            "country": "",
+            "zip": "37830",
+            "phone1": "865-483-1488 ",
+            "phone2": "",
+            "fax": "865-425-4309",
+            "link": "http://www.berthold-US.com",
+            "website": "www.berthold-US.com",
+            "emailaddress": "",
+            "logo": "includes/directory/catagories/modals/logos/Berthold-Technologies-Logo-150x140.png",
+            "description": ""
+        },
+        {
+            "company": "Cidra Minerals Processing, Inc.",
+            "contact": "",
+            "address": "50 Barnes Park North ",
+            "city": "Wallingford",
+            "state": "CT",
+            "country": "",
+            "zip": "06492",
+            "phone1": "203-265-0035 ",
+            "phone2": "",
+            "fax": "203-294-4211",
+            "link": "http://www.cidra.com",
+            "website": "www.cidra.com",
+            "emailaddress": "",
+            "logo": "includes/directory/catagories/modals/logos/Cidra-Logo-150x63.jpg",
+            "description": ""
+        },
+        {
+            "company": "Thermo Fisher Scientific, Inc.",
+            "contact": "",
+            "address": "81 Wyman Street ",
+            "city": "Waltham",
+            "state": "MA",
+            "country": "",
+            "zip": "02451",
+            "phone1": "781-622-1000",
+            "phone2": "",
+            "fax": "781-622-1207",
+            "link": "http://www.thermofisher.com",
+            "website": "www.thermofisher.com",
+            "emailaddress": "",
+            "logo": "includes/directory/catagories/modals/logos/thermo-fisher-scientific-150x32.png",
+            "description": ""
+        }
+    ]
+}

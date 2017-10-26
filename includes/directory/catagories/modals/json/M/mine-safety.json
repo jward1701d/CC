@@ -1,0 +1,39 @@
+{
+    "businesses": [
+         {
+            "company": "J.H. Tomblin Fence Company",
+            "contact": "",
+            "address": "Route 1 Box 87",
+            "city": "Williamson",
+            "state": "WV",
+            "country": "",
+            "zip": "26554",
+            "phone1": "304-235-6408",
+            "phone2": "304-342-150",
+             "phone3":"800-22 FENCE (33623)",
+            "fax": "",
+            "link": "http://www.tomblinfence.com",
+            "website": "www.tomblinfence.com",
+            "emailaddress": "",
+             "logo": "",
+            "description": ""
+        },
+        {
+            "company": "WireCrafters, LLC",
+            "contact": "",
+            "address": "6208 Strawberry Ln",
+            "city": "Louisville",
+            "state": "KY",
+            "country": "",
+            "zip": "40214-2900",
+            "phone1": "502-363-6691",
+            "phone2": "",
+            "fax": "502-361-3857",
+            "link": "http://www.wirecrafters.com",
+            "website": "www.wirecrafters.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/wirecrafters-logo-150x32.png",
+            "description": ""
+        }
+    ]
+}

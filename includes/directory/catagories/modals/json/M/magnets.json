@@ -1,0 +1,37 @@
+{
+    "businesses": [
+         {
+            "company": "Eriez Magnetics",
+            "contact": "",
+            "address": "2200 Asbury Rd",
+            "city": "Erie",
+            "state": "PA",
+            "country": "",
+            "zip": "16506",
+            "phone1": "814-835-6000",
+            "phone2": "",
+            "fax": "",
+            "link": "http://www.eriez.com",
+            "website": "www.eriez.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Eriez-logo.png",
+            "description": ""
+        },
+        {
+            "company": "Ohio Magnetics, Inc.",
+            "contact": "",
+            "address": "4500 Dunham Rd",
+            "state": "OH",
+            "country": "",
+            "zip": "44137",
+            "phone1": "216-662-8484",
+            "phone2": "",
+            "fax": "216-662-2911",
+            "link": "http://www.ohiomagnetics.com",
+            "website": "www.ohiomagnetics.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Ohio-Magnetics-Logo-150x76.png",
+            "description": ""
+        }
+    ]
+}

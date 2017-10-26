@@ -1,0 +1,72 @@
+{
+    "businesses": [
+         {
+            "company": "City Crane",
+            "contact": "",
+            "address": "282 Dents Run Rd",
+            "city": "Morgantown",
+            "state": "WV",
+            "country": "",
+            "zip": "26501",
+            "phone1": "304-292-5438",
+            "phone2": "",
+            "fax": "304-296-8674",
+            "link": "http://www.citycrane.com",
+            "website": "www.citycrane.com",
+            "emailaddress": "",
+             "logo": "",
+            "description": ""
+        },
+        {
+            "company": "Cliff’s Crane & Equipment Repair",
+            "contact": "",
+            "address": "5734 Old Yellowstone Hwy ",
+            "city": "Casper",
+            "state": "WY",
+            "country": "",
+            "zip": "82604",
+            "phone1": "307-265-2299",
+            "phone2": "",
+            "fax": "307-473-1556",
+            "link": "http://www.cliffscranerepair.com",
+            "website": "www.cliffscranerepair.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Cliffs-Crane-Repair-Logo-150x75.gif",
+            "description": ""
+        },
+        {
+            "company": "F&M Mafco Inc.",
+            "contact": "",
+            "address": "PO Box 11013",
+            "city": "Cincinnatti",
+            "state": "OH",
+            "country": "",
+            "zip": "45211",
+            "phone1": "513-367-2151",
+            "phone2": "",
+            "fax": "513-367-0363",
+            "link": "http://www.fmmafco.com",
+            "website": "www.fmmafco.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/FMMafco-logo-150x74.png",
+            "description": ""
+        },
+        {
+            "company": "Industrial Hoist & Crane",
+            "contact": "",
+            "address": "645 Jonah Dr ",
+            "city": "Rock Springs",
+            "state": "WY",
+            "country": "",
+            "zip": "82901",
+            "phone1": "307-382-0089 ",
+            "phone2": "",
+            "fax": "307-382-0679",
+            "link": "http://www.industrialhoistandcrane.com",
+            "website": "www.industrialhoistandcrane.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/INdustrial-Hoist-Crane-Logo-150x76.jpg",
+            "description": ""
+        }
+    ]
+}

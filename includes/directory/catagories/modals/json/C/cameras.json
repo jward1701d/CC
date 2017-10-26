@@ -1,0 +1,21 @@
+{
+    "businesses": [
+         {
+            "company": "INTEC Video Systems, Inc.",
+            "contact": "",
+            "address": "4256 State Rt. 51 N",
+            "city": "Belle Vernon",
+            "state": "PA",
+            "country": "",
+            "zip": "15012",
+            "phone1": "724-929-5500",
+            "phone2": "",
+            "fax": "724-929-6590",
+            "link": "http://www.intecvideo.com",
+            "website": "www.intecvideo.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Intec-Video-Systems-Inc.-Logo-150x76.png",
+            "description": ""
+        }
+    ]
+}

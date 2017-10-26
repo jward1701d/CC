@@ -1,0 +1,55 @@
+{
+    "businesses": [
+         {
+            "company": "Beka Max of America Inc.",
+            "contact": "",
+            "address": "2600 N America Drive",
+            "city": "West Seneca",
+            "state": "NY",
+            "country": "",
+            "zip": "14224",
+            "phone1": "905-821-1050",
+            "phone2": "",
+            "fax": "905-858-0597",
+            "link": "http://www.beka-lube.com",
+            "website": "",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Beka-Max-of-America-Logo.png",
+            "description": ""
+        },
+         {
+            "company": "Bijur Delimon International",
+            "contact": "",
+            "address": "2100 Gateway Centre Blvd, Ste 109",
+            "city": "Morrisville",
+            "state": "NC",
+            "country": "",
+            "zip": "27560",
+            "phone1": "919-465-4448",
+            "phone2": "",
+            "fax": "919-465-0516",
+            "link": "http://www.bijurdelimon.com",
+            "website": "www.bijurdelimon.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Bijur-Delimon-Logo-150x37.png",
+            "description": ""
+        },
+         {
+            "company": "Perma USA-Coal Division",
+            "contact": "",
+            "address": "278 Springdale Dr",
+            "city": "Louisa",
+            "state": "KY",
+            "country": "",
+            "zip": "41653",
+            "phone1": "800-997-376",
+            "phone2": "606-794-1535",
+            "fax": "",
+            "link": "http://www.permausa.com",
+            "website": "www.permausa.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Perma-Logo-150x55.png",
+            "description": ""
+        }
+    ]
+}

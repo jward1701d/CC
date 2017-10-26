@@ -1,0 +1,38 @@
+{
+    "businesses": [
+         {
+            "company": "Crest Supply Co., Inc.",
+            "contact": "",
+            "address": "1040 Scenic Hwy",
+            "city": "Summersville",
+            "state": "WV",
+            "country": "",
+            "zip": "26651",
+            "phone1": "304-872-2411",
+            "phone2": "",
+            "fax": "304-872-1930",
+            "link": "",
+            "website": "",
+            "emailaddress": "",
+             "logo": "",
+            "description": "Mine and Industrial Products & Services since 1961"
+        },
+        {
+            "company": "Minet Lacing Technology, Inc.",
+            "contact": "Shawn Godfrey",
+            "address": "2011 Nuggett Road",
+            "city": "High Point ",
+            "state": "NC",
+            "country": "",
+            "zip": "27263",
+            "phone1": "336-434-0363",
+            "phone2": "",
+            "fax": "336-434-2263",
+            "link": "http://www.mlt-usa.com",
+            "website": "www.mlt-usa.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Minet-Lacing-logo-used-150x85.png",
+            "description": "More than 60 years ago the company MINET has developed the worldwide first belt fastener with the principle of a hinge as everybody use it today. It has developed itself to an international company group, which offers under the brand name Minet Lacing Technology a full range of products in the field of vulcanizing and belt jointing technology:</br>• Conveyor belt fasteners</br>• Spliceless endless belts</br>• Tools and accessories for Vulcanizers</br>• Vulcanizing presses</br>All of them are manufactured in modern factories in Europe. Together with five subsidiaries and sister companies the products are sold worldwide in more than 90 countries.</br>The company’s products range is leading the technical development and innovation in the field and is helping customers to increase the productivity and efficiency of modern belt conveyors."
+        }
+    ]
+}

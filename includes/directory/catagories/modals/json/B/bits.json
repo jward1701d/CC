@@ -1,0 +1,72 @@
+{
+    "businesses": [
+         {
+            "company": "Drill Steel Services, LLC",
+            "contact": "Larry Cornett",
+            "address": "4898 Hwy 15 ",
+            "city": "Whitesburg",
+            "state": "KY",
+            "country": "",
+            "zip": "41858",
+            "phone1": "606-633-4492 ",
+            "phone2": "",
+            "fax": "606-633-1624",
+            "link": "",
+            "website": "",
+            "emailaddress": "",
+             "logo": "",
+            "description": ""
+        },
+        {
+            "company": "R & S Industrial Supplies",
+            "contact": "",
+            "address": "4931 Indian School Rd NE",
+            "city": "Salem",
+            "state": "OR",
+            "country": "",
+            "zip": "97305-1128",
+            "phone1": "503-480-0204",
+            "phone2": "877-742-1144",
+            "fax": "",
+            "link": "",
+            "website": "",
+            "emailaddress": "",
+             "logo": "",
+            "description": ""
+        },
+        {
+            "company": "Swanson Industries, Inc.",
+            "contact": "",
+            "address": "437 Goshen Road",
+            "city": "Morgantown",
+            "state": "WV",
+            "country": "",
+            "zip": "26508",
+            "phone1": "812-423-5887",
+            "phone2": "",
+            "fax": "812-424-5896",
+            "link": "http://www.swansonindustries.com",
+            "website": "www.swansonindustries.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/swanson_ind_logo-150x120.jpg",
+            "description": "Swanson Industries is a worldwide supplier of hydraulic, machining and plating services with expertise in designing and manufacturing new products; remanufacturing and repairing components; engineering; and distribution of certified products."
+        },
+        {
+            "company": "Towanda Metadyne, Inc.",
+            "contact": "",
+            "address": "Fox Chase Drive",
+            "city": "Towanda",
+            "state": "PA",
+            "country": "",
+            "zip": "18848",
+            "phone1": "570-265-6963",
+            "phone2": "",
+            "fax": "570-265-4100",
+            "link": "http://www.towandametadyne.com",
+            "website": "www.towandametadyne.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Towanda-Logo-150x40.jpg",
+            "description": ""
+        }
+    ]
+}

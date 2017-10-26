@@ -1,0 +1,21 @@
+{
+    "businesses": [
+         {
+            "company": "Specialized Career Search",
+            "contact": "",
+            "address": "PO Box 408",
+            "city": "East Texas",
+            "state": "PA",
+            "country": "",
+            "zip": "18046",
+            "phone1": "610-351-4322",
+            "phone2": "",
+            "fax": "",
+            "link": "http://www.specializedcareersearch.com",
+            "website": "www.specializedcareersearch.com",
+            "emailaddress": "",
+             "logo": "",
+            "description": ""
+        }
+    ]
+}

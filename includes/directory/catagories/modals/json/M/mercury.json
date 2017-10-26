@@ -1,0 +1,38 @@
+{
+    "businesses": [
+         {
+            "company": "Frontier Global Sciences",
+            "contact": "",
+            "address": "11720 North Creek Pkwy North Ste 400",
+            "city": "Bothell",
+            "state": "WA",
+            "country": "",
+            "zip": "98011",
+            "phone1": "425-686-1996",
+            "phone2": "",
+            "fax": "425-686-3096",
+            "link": "http://www.frontiergs.com",
+            "website": "www.frontiergs.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Frontier-Global-Science-Logo-150x73.jpg",
+            "description": ""
+        },
+         {
+            "company": "Standards Laboratories, Inc.",
+            "contact": "",
+            "address": "147 11th Ave",
+            "city": "South Charleston",
+            "state": "WV",
+            "country": "",
+            "zip": "25303",
+            "phone1": "304-755-0536",
+            "phone2": "",
+            "fax": "",
+            "link": "http://www.standardenvironmental.net",
+            "website": "www.standardenvironmental.net",
+            "emailaddress": "",
+             "logo": "",
+            "description": ""
+        }
+    ]
+}

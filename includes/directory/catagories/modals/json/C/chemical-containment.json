@@ -1,0 +1,38 @@
+{
+    "businesses": [
+         {
+            "company": "JENNMAR",
+            "contact": "",
+            "address": "258 Kappa Dr ",
+            "city": "Pittsburgh",
+            "state": "PA",
+            "country": "",
+            "zip": "15238",
+            "phone1": "412-963-9071",
+            "phone2": "",
+            "fax": "412-963-9767",
+            "link": "http://www.jennmar.com",
+            "website": "www.jennmar.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/JennmarLogo_150x150.png",
+            "description": "JENNMAR is a global, family-owned company that is leading the way in ground control technology for the mining, tunneling and civil construction industries. Since 1972, our mission has been focused on developing and manufacturing a broad range of quality ground control products, from bolts and beams, to channels and trusses, to resin and rebar. With worldwide manufacturing plants, we are uniquely positioned to react to ground control needs anywhere, anytime."
+        },
+        {
+            "company": "Rumford Industrial Group",
+            "contact": "",
+            "address": "772 Congress Pk Dr",
+            "city": "Centersville",
+            "state": "OH",
+            "country": "",
+            "zip": "45459",
+            "phone1": "937-435-4650 ",
+            "phone2": "",
+            "fax": "937-435-3242",
+            "link": "http://www.rumfordgroup.com",
+            "website": "www.rumfordgroup.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Rumford-Industrial-Group-Logo-150x74.png",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "businesses": [
+         {
+            "company": "ACZ Laboratories, Inc.",
+            "contact": "",
+            "address": "2773 Downhill Dr",
+            "city": "Steamboat Springs",
+            "state": "CO",
+            "country": "",
+            "zip": "80487",
+            "phone1": "970-879-6590",
+            "phone2": "800-334-5493",
+            "fax": "815-301-3857",
+            "link": "http://www.acz.com",
+            "website": "www.acz.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/ACZ-Laboratories-Logo-150x37.jpg",
+            "description": ""
+        },
+        {
+            "company": "Polaris Laboratories",
+            "contact": "",
+            "address": "7898 Zionsville Rd",
+            "city": "Indianapolis",
+            "state": "IN",
+            "country": "",
+            "zip": "46268",
+            "phone1": "317-808-3750",
+            "phone2": "",
+            "fax": "317-808-3751",
+            "link": "http://www.polarislabs.com",
+            "website": "www.polarislabs.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Polaris-Laboratories-Logo-150x57.png",
+            "description": ""
+        }
+    ]
+}

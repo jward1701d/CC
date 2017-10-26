@@ -1,0 +1,217 @@
+@media screen and (max-width: 320px){
+    #cc-footer{
+        position: static;
+        bottom: 0;
+		left: 0;
+		right: 0;
+        height: 60px;
+        background: rgba(0,0,0,0.8);
+           
+    }
+    .copyright{
+        color: #fff;
+        margin-top: 5px;
+        font-size: 12px;
+        text-align: center;
+    }
+    #facebook{
+        width: 32px;
+        height: auto;
+        margin-left: 25px;
+    }
+    #twitter{
+        width: 32px;
+        height: auto;
+    }
+    #linkedIn{
+        width: 32px;
+        height: auto;
+    }
+}
+
+@media screen and (min-width: 321px) and (max-width: 480px){
+    #cc-footer{
+        position: static;
+        bottom: 0;
+		left: 0;
+		right: 0;
+        height: 60px;
+        background: rgba(0,0,0,0.8);
+           
+    }
+    .copyright{
+        color: #fff;
+        margin-top: 5px;
+        font-size: 12px;
+        text-align: center;
+    }
+    #facebook{
+        width: 32px;
+        height: auto;
+        margin-left: 70px;
+    }
+    #twitter{
+        width: 32px;
+        height: auto;
+    }
+    #linkedIn{
+        width: 32px;
+        height: auto;
+    }
+}
+
+@media screen and (min-width: 481px) and (max-width: 640px){
+    #cc-footer{
+        position: static;
+        bottom: 0;
+		left: 0;
+		right: 0;
+        height: 60px;
+        background: rgba(0,0,0,0.8);
+           
+    }
+    .copyright{
+        color: #fff;
+        margin-top: 5px;
+        font-size: 12px;
+        text-align: center;
+    }
+    #facebook{
+        width: 32px;
+        height: auto;
+        margin-left: 130px;
+    }
+    #twitter{
+        width: 32px;
+        height: auto;
+    }
+    #linkedIn{
+        width: 32px;
+        height: auto;
+    }
+}
+
+
+@media screen and (min-width: 641px) and (max-width: 767px){
+   #cc-footer{
+        position: static;
+        bottom: 0;
+		left: 0;
+		right: 0;
+        height: 60px;
+        background: rgba(0,0,0,0.8);
+           
+    }
+    .copyright{
+        color: #fff;
+        margin-top: 5px;
+        font-size: 12px;
+        text-align: center;
+    }
+    #facebook{
+        width: 32px;
+        height: auto;
+        margin-left: 180px;
+    }
+    #twitter{
+        width: 32px;
+        height: auto;
+    }
+    #linkedIn{
+        width: 32px;
+        height: auto;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1095px){//(max-width: 1210px){
+      #cc-footer{
+        position: static;
+        bottom: 0;
+		left: 0;
+		right: 0;
+        height: 60px;
+        @include bg-gradients($header-bg-end, $header-bg-start);
+           
+    }
+    .copyright{
+        color: #fff;
+        margin-top: 5px;
+        font-size: 12px;
+        text-align: center;
+    }
+    #facebook{
+        width: 32px;
+        height: auto;
+       // margin-left: 180px;
+    }
+    #twitter{
+        width: 32px;
+        height: auto;
+    }
+    #linkedIn{
+        width: 32px;
+        height: auto;
+    }
+}
+
+@media screen and (min-width: 1096px) and (max-width: 1210px){
+     #cc-footer{
+        position: static;
+        bottom: 0;
+		left: 0;
+		right: 0;
+        height: 60px;
+        @include bg-gradients($header-bg-end, $header-bg-start);
+           
+    }
+    .copyright{
+        color: #fff;
+        margin-top: 10px;
+        font-size: 12px;
+        text-align: center;
+    }
+    #facebook{
+        width: 32px;
+        height: auto;
+       
+    }
+    #twitter{
+        width: 32px;
+        height: auto;
+    }
+    #linkedIn{
+        width: 32px;
+        height: auto;
+    }
+}
+
+@media screen and (min-width: 1211px) and (max-width: 1920px){
+    #cc-footer{
+       position: static;
+        bottom: 0;
+		left: 0;
+		right: 0;
+        height: 50px;
+        @include bg-gradients($header-bg-end, $header-bg-start);
+    }
+    .copyright{
+        color: #fff;
+        padding-top: 5px;
+        font-size: 16px;
+        text-align: center;
+    }
+    #facebook{
+        width: 32px;
+        height: auto;
+    }
+    #twitter{
+        width: 32px;
+        height: auto;
+    }
+    #linkedIn{
+        width: 32px;
+        height: auto;
+    }
+}
+
+

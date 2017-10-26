@@ -1,0 +1,21 @@
+{
+    "businesses": [
+         {
+            "company": "Cavotec USA Inc.",
+            "contact": "",
+            "address": "333 Oates Rd",
+            "city": "Mooresville",
+            "state": "NC",
+            "country": "",
+            "zip": "28117",
+            "phone1": "704-873-3009",
+            "phone2": "",
+            "fax": "704-873-3093",
+            "link": "http://www.cavotec.com",
+            "website": "www.cavotec.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Cavotec-Logo-150x34.jpg",
+            "description": ""
+        }
+    ]
+}

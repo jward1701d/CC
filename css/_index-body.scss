@@ -1,0 +1,632 @@
+#tradeshow{
+    max-height: 205px;
+    height: 205px;
+    a{
+        color: black;
+    }
+    .panel-title{
+        a{
+            outline: 0;
+            text-decoration: none;
+            
+        }
+    }
+    .carousel-fade {
+      .carousel-inner {
+        .item {
+          opacity: 0;
+          transition-property: opacity;
+        }
+
+        .active {
+          opacity: 1;
+        }
+
+        .active.left,
+        .active.right {
+          left: 0;
+          opacity: 0;
+          z-index: 1;
+        }
+
+        .next.left,
+        .prev.right {
+          opacity: 1;
+        }
+      }
+
+    }
+    .showGraphic{
+        img{
+            max-height: 155px;
+            max-width: 299px;
+        }
+    }
+}
+
+#news{
+    a{
+        outline: 0;
+        text-decoration: none;
+    }
+}
+.advitisers{
+	margin-top: 15px;
+}
+
+@media screen and (max-width: 320px){
+    #tradeshow{
+		max-height: 215px;
+		height: 215px;
+		a{
+			color: black;
+		}
+		.panel-title{
+			a{
+				outline: 0;
+				text-decoration: none;
+
+			}
+		}
+		.carousel-fade {
+		  .carousel-inner {
+			.item {
+			  opacity: 0;
+			  transition-property: opacity;
+			}
+
+			.active {
+			  opacity: 1;
+			}
+
+			.active.left,
+			.active.right {
+			  left: 0;
+			  opacity: 0;
+			  z-index: 1;
+			}
+
+			.next.left,
+			.prev.right {
+			  opacity: 1;
+			}
+		  }
+
+		}
+		.showGraphic{
+			img{
+				
+				max-height: 128px;
+				max-width: 200px;
+			}
+		}
+	}
+
+	.cc-sticker{
+        width: 10%;
+        //font-size: 0.7em;
+    }
+    .panel-title{
+        font-size: 14px;
+    }
+    
+    .nav-tabs{
+        margin: 0;
+        padding: 0;
+        border: 0;
+        > li{
+            > a{
+                background: #DDD;//#DADADA;
+                color: #000;
+                border-radius: 0;
+                box-shadow: inset 0 -8px 7px -9px rgba(0,0,0,.4),-2px -2px 5px -2px rgba(0,0,0,.4);
+            }
+
+            &:active{
+                >a{
+                    &:hover{
+                        background: #F5F5F5;
+                        box-shadow: inset 0 0 0 0 rgba(0,0,0,.4),-2px -3px 5px -2px rgba(0,0,0,.4);
+                    }
+                }
+            }
+        }
+    }
+    .tab-pane {
+        background: #F5F5F5;
+        box-shadow: 0 0 4px rgba(0,0,0,.4);
+        border-radius: 0;
+        padding: 10px;
+    }
+    .tab-img{
+        max-width: 25% !important;
+    }
+    .tab-img-1{
+        max-width: 35% !important;
+    }
+    .webdesign{
+        margin-top: 40px;
+    }
+}
+
+@media screen and (min-width: 321px) and (max-width: 480px){
+	#tradeshow{
+		max-height: 245px;
+		height: 245px;
+		a{
+			color: black;
+		}
+		.panel-title{
+			a{
+				outline: 0;
+				text-decoration: none;
+
+			}
+		}
+		.carousel-fade {
+		  .carousel-inner {
+			.item {
+			  opacity: 0;
+			  transition-property: opacity;
+			}
+
+			.active {
+			  opacity: 1;
+			}
+
+			.active.left,
+			.active.right {
+			  left: 0;
+			  opacity: 0;
+			  z-index: 1;
+			}
+
+			.next.left,
+			.prev.right {
+			  opacity: 1;
+			}
+		  }
+
+		}
+		.showGraphic{
+			img{
+				
+				max-height: 155px;
+				max-width: 299px;
+			}
+		}
+	}
+
+       .cc-sticker{
+        width: 10%;
+        //font-size: 0.7em;
+    }
+    .panel-title{
+        font-size: 14px;
+    }
+    
+    .nav-tabs{
+        margin: 0;
+        padding: 0;
+        border: 0;
+        > li{
+            > a{
+                background: #DDD;//#DADADA;
+                color: #000;
+                border-radius: 0;
+                box-shadow: inset 0 -8px 7px -9px rgba(0,0,0,.4),-2px -2px 5px -2px rgba(0,0,0,.4);
+            }
+
+            &:active{
+                >a{
+                    &:hover{
+                        background: #F5F5F5;
+                        box-shadow: inset 0 0 0 0 rgba(0,0,0,.4),-2px -3px 5px -2px rgba(0,0,0,.4);
+                    }
+                }
+            }
+        }
+    }
+    .tab-pane {
+        background: #F5F5F5;
+        box-shadow: 0 0 4px rgba(0,0,0,.4);
+        border-radius: 0;
+        padding: 10px;
+    }
+    .tab-img{
+        max-width: 25% !important;
+    }
+    .tab-img-1{
+        max-width: 35% !important;
+    }
+    .webdesign{
+        margin-top: 40px;
+    }
+}
+
+@media screen and (min-width: 481px) and (max-width: 640px){
+    #tradeshow{
+		max-height: 225px;
+		height: 225px;
+		a{
+			color: black;
+		}
+		.panel-title{
+			a{
+				outline: 0;
+				text-decoration: none;
+
+			}
+		}
+		.carousel-fade {
+		  .carousel-inner {
+			.item {
+			  opacity: 0;
+			  transition-property: opacity;
+			}
+
+			.active {
+			  opacity: 1;
+			}
+
+			.active.left,
+			.active.right {
+			  left: 0;
+			  opacity: 0;
+			  z-index: 1;
+			}
+
+			.next.left,
+			.prev.right {
+			  opacity: 1;
+			}
+		  }
+
+		}
+		.showGraphic{
+			img{
+				
+				max-height: 128px;
+				max-width: 200px;
+			}
+		}
+	}
+
+	.cc-sticker{
+        width: 10%;
+        //font-size: 0.7em;
+    }
+    .panel-title{
+        font-size: 14px;
+    }
+    
+    .nav-tabs{
+        margin: 0;
+        padding: 0;
+        border: 0;
+        > li{
+            > a{
+                background: #DDD;//#DADADA;
+                color: #000;
+                border-radius: 0;
+                box-shadow: inset 0 -8px 7px -9px rgba(0,0,0,.4),-2px -2px 5px -2px rgba(0,0,0,.4);
+            }
+
+            &:active{
+                >a{
+                    &:hover{
+                        background: #F5F5F5;
+                        box-shadow: inset 0 0 0 0 rgba(0,0,0,.4),-2px -3px 5px -2px rgba(0,0,0,.4);
+                    }
+                }
+            }
+        }
+    }
+    .tab-pane {
+        background: #F5F5F5;
+        box-shadow: 0 0 4px rgba(0,0,0,.4);
+        border-radius: 0;
+        padding: 10px;
+    }
+    .tab-img{
+        max-width: 25% !important;
+    }
+    .tab-img-1{
+        max-width: 35% !important;
+    }
+    .webdesign{
+        margin-top: 40px;
+    }
+}
+
+
+@media screen and (min-width: 641px) and (max-width: 767px){
+	#tradeshow{
+		max-height: 215px;
+		height: 215px;
+		a{
+			color: black;
+		}
+		.panel-title{
+			a{
+				outline: 0;
+				text-decoration: none;
+
+			}
+		}
+		.carousel-fade {
+		  .carousel-inner {
+			.item {
+			  opacity: 0;
+			  transition-property: opacity;
+			}
+
+			.active {
+			  opacity: 1;
+			}
+
+			.active.left,
+			.active.right {
+			  left: 0;
+			  opacity: 0;
+			  z-index: 1;
+			}
+
+			.next.left,
+			.prev.right {
+			  opacity: 1;
+			}
+		  }
+
+		}
+		.showGraphic{
+			img{
+				
+				max-height: 128px;
+				max-width: 200px;
+			}
+		}
+	}
+
+    .cc-sticker{
+        width: 10%;
+        //font-size: 0.7em;
+    }
+    .panel-title{
+        font-size: 14px;
+    }
+    
+    .nav-tabs{
+        margin: 0;
+        padding: 0;
+        border: 0;
+        > li{
+            > a{
+                background: #DDD;//#DADADA;
+                color: #000;
+                border-radius: 0;
+                box-shadow: inset 0 -8px 7px -9px rgba(0,0,0,.4),-2px -2px 5px -2px rgba(0,0,0,.4);
+            }
+
+            &:active{
+                >a{
+                    &:hover{
+                        background: #F5F5F5;
+                        box-shadow: inset 0 0 0 0 rgba(0,0,0,.4),-2px -3px 5px -2px rgba(0,0,0,.4);
+                    }
+                }
+            }
+        }
+    }
+    .tab-pane {
+        background: #F5F5F5;
+        box-shadow: 0 0 4px rgba(0,0,0,.4);
+        border-radius: 0;
+        padding: 10px;
+    }
+    .tab-img{
+        max-width: 25% !important;
+    }
+    .tab-img-1{
+        max-width: 35% !important;
+    }
+    .webdesign{
+        margin-top: 40px;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1095px){//(max-width: 1210px){
+    .cc-sticker{
+        width: 10%;
+        //font-size: 0.7em;
+    }
+    .panel-title{
+        font-size: 14px;
+    }
+    
+    .nav-tabs{
+        margin: 0;
+        padding: 0;
+        border: 0;
+        > li{
+            > a{
+                background: #DDD;//#DADADA;
+                color: #000;
+                border-radius: 0;
+                box-shadow: inset 0 -8px 7px -9px rgba(0,0,0,.4),-2px -2px 5px -2px rgba(0,0,0,.4);
+            }
+
+            &:active{
+                >a{
+                    &:hover{
+                        background: #F5F5F5;
+                        box-shadow: inset 0 0 0 0 rgba(0,0,0,.4),-2px -3px 5px -2px rgba(0,0,0,.4);
+                    }
+                }
+            }
+        }
+    }
+    .tab-pane {
+        background: #F5F5F5;
+        box-shadow: 0 0 4px rgba(0,0,0,.4);
+        border-radius: 0;
+        padding: 10px;
+    }
+    .tab-img{
+        max-width: 25% !important;
+    }
+    .tab-img-1{
+        max-width: 35% !important;
+    }
+    .webdesign{
+        margin-top: 40px;
+    }
+}
+
+@media screen and (min-width: 1096px) and (max-width: 1210px){
+    .cc-sticker{
+        width: 10%;
+        //font-size: 0.7em;
+    }
+    .panel-title{
+        font-size: 14px;
+    }
+    
+    .nav-tabs{
+        margin: 0;
+        padding: 0;
+        border: 0;
+        > li{
+            > a{
+                background: #DDD;//#DADADA;
+                color: #000;
+                border-radius: 0;
+                box-shadow: inset 0 -8px 7px -9px rgba(0,0,0,.4),-2px -2px 5px -2px rgba(0,0,0,.4);
+            }
+
+            &:active{
+                >a{
+                    &:hover{
+                        background: #F5F5F5;
+                        box-shadow: inset 0 0 0 0 rgba(0,0,0,.4),-2px -3px 5px -2px rgba(0,0,0,.4);
+                    }
+                }
+            }
+        }
+    }
+    .tab-pane {
+        background: #fff;//#F5F5F5;
+        box-shadow: 0 0 4px rgba(0,0,0,.4);
+        border-radius: 0;
+        padding: 10px;
+    }
+    .tab-img{
+        max-width: 25% !important;
+    }
+    .tab-img-1{
+        max-width: 35% !important;
+    }
+    .webdesign{
+        margin-top: 40px;
+    }
+}
+
+@media screen and (min-width: 1211px) and (max-width: 1920px){
+   // background color for the main body.
+    .panel-custom{
+       background: rgba(255,255,255, 0.8) !important;
+   }
+    // spacing on the bottom of each of the news panels.
+    .panel-group{
+        .panel{
+            margin-bottom: 15px;
+        }
+    }
+    // handels the margins & padding for the infor stuff.
+    .cc-info{
+       margin-bottom: 40px;
+       h3{
+           padding-left: 10px;
+       }
+    }
+    .no-pad{
+        padding: 0 0 0 10px;
+    }
+    
+    // Handles the external links designs.
+    .nav-tabs{
+        margin: 0;
+        padding: 0;
+        border: 0;
+        
+        > li{
+            > a{
+                background: #DDD;//#DADADA;
+                color: #000;
+                border-radius: 0;
+                outline: 0;
+                box-shadow: inset 0 -8px 7px -9px rgba(0,0,0,.4),-2px -2px 5px -2px rgba(0,0,0,.4);
+            }
+
+            &:active{
+                >a{
+                    &:hover{
+                        background: #F5F5F5;
+                        box-shadow: inset 0 0 0 0 rgba(0,0,0,.4),-2px -3px 5px -2px rgba(0,0,0,.4);
+                    }
+                }
+            }
+        }
+    }
+    .tab-pane {
+        background: #fff;//#F5F5F5;
+        box-shadow: 0 0 4px rgba(0,0,0,.4);
+        border-radius: 0;
+        padding: 10px;
+    }
+    .tab-img{
+        max-width: 25% !important;
+    }
+    .tab-img-1{
+        max-width: 40% !important;
+    }
+    
+    
+    
+    .bottom-to-top { 
+        border-width: 5px; 
+        border-left-style: solid;
+        //border-style: solid;
+        -webkit-border-image: -webkit-gradient(linear, 0 100%, 0 0, from(black), to(rgba(0, 0, 0, 0))) 1 100%; 
+        -webkit-border-image: -webkit-linear-gradient(bottom, black, rgba(0, 0, 0, 0)) 1 100%; 
+        -moz-border-image: -moz-linear-gradient(bottom, black, rgba(0, 0, 0, 0)) 1 100%; 
+        -o-border-image: -o-linear-gradient(bottom, black, rgba(0, 0, 0, 0)) 1 100%; border-image: linear-gradient(to top, black, rgba(0, 0, 0, 0)) 1 100%;
+    }
+    
+    .seperator{
+        width: 100%;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        max-height: 100%;
+        border-bottom: 5px solid #000;
+    }
+    .webdesign{
+        margin-top: 100px;
+    }
+    .advitisers{
+        img{
+            margin: 5px 0 0 15px;
+            max-width: 300px;
+        }
+    }
+    .industry-links{
+        margin-top: 100px;
+    }
+    .assoc-hl{
+        a{
+            p{
+                text-align: center;
+            }
+        }
+    }
+}

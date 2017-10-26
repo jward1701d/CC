@@ -1,0 +1,55 @@
+{
+    "businesses": [
+         {
+            "company": "FLSmidth Centry",
+            "contact": "",
+            "address": "9020 S. Sandy Pkwy",
+            "city": "Sandy",
+            "state": "UT",
+            "country": "",
+            "zip": "84070",
+            "phone1": "801-582-2002",
+            "phone2": "",
+            "fax": "",
+            "link": "http://www.centry.net",
+            "website": "www.centry.net",
+            "emailaddress": "",
+             "logo": "",
+            "description": ""
+        },
+        {
+            "company": "Hatch",
+            "contact": "",
+            "address": "1600 W Carson Street",
+            "city": "Pittsburgh",
+            "state": "PA",
+            "country": "",
+            "zip": "15219",
+            "phone1": "412-497-2000",
+            "phone2": "",
+            "fax": "412-497-2212",
+            "link": "http://www.hatch.ca",
+            "website": "www.hatch.ca",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Hatch-Logo.png",
+            "description": ""
+        },
+        {
+            "company": "Titan Contracting & Leasing Company",
+            "contact": "",
+            "address": "2205 Ragu Dr",
+            "city": "Owensboro",
+            "state": "KY",
+            "country": "",
+            "zip": "42303",
+            "phone1": "270-683-6564",
+            "phone2": "",
+            "fax": "270-684-3011",
+            "link": "http://www.titancontracting.com",
+            "website": "www.titancontracting.com",
+            "emailaddress": "",
+             "logo": "",
+            "description": ""
+        }
+    ]
+}

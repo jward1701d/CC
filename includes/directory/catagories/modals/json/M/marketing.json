@@ -1,0 +1,21 @@
+{
+    "businesses": [
+         {
+            "company": "Coalfield Connection",
+            "contact": "David Pinson",
+            "address": "PO Box 295",
+            "city": "Inez",
+            "state": "KY",
+            "country": "",
+            "zip": "41224",
+            "phone1": "606-298-3773",
+            "phone2": "",
+            "fax": "606-298-3156",
+            "link": "http://www.coalfieldconnection.com",
+            "website": "www.coalfieldconnection.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/CC-Logo-for-websites-1.gif",
+            "description": "<strong><em>Coalfield Connection</em></strong> is a goods and services directory direct mailed free to every mine operations (underground, surface and prep plant) in the U.S. and an ever growing list of International operators and vendors six times a year.  We put your company’s  information directly in the hands of the mine operator C-Suite officers, purchasing managers and decision makers.  Advertisers in our hard copy are included in our on-line edition at no extra charge."
+        }
+    ]
+}

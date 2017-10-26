@@ -1,0 +1,38 @@
+{
+    "businesses": [
+         {
+            "company": "Avanti International",
+            "contact": "",
+            "address": "22 Bay Star Blvd",
+            "city": "Webster",
+            "state": "TX",
+            "country": "",
+            "zip": "77598",
+            "phone1": "281-486-5600",
+            "phone2": "",
+            "fax": "281-486-7300",
+            "link": "http://www.avantigrout.com",
+            "website": "www.avantigrout.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Avanti-Logo-150x45.jpg",
+            "description": ""
+        },
+        {
+            "company": "Soilworks, LLC",
+            "contact": "",
+            "address": "1750 E Northrop Blvd Ste 250",
+            "city": "Chandler",
+            "state": "AZ",
+            "country": "",
+            "zip": "85286-1747",
+            "phone1": "480-545-5454",
+            "phone2": "",
+            "fax": "480-545-5456",
+            "link": "http://www.soilworks.com",
+            "website": "www.soilworks.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Soilworks-Logo-150x28.png",
+            "description": ""
+        }
+    ]
+}

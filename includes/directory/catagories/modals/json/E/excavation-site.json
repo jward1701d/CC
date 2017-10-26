@@ -1,0 +1,21 @@
+{
+    "businesses": [
+         {
+            "company": "L & L Excavation and Site Prep",
+            "contact": "rad Lyon",
+            "address": "PO Box 614",
+            "city": "Salyersville",
+            "state": "KY",
+            "country": "",
+            "zip": "41465",
+            "phone1": "859-940-3716",
+            "phone2": "",
+            "fax": "606-349-6106",
+            "link": "",
+            "website": "",
+            "emailaddress": "",
+             "logo": "",
+            "description": ""
+        }
+    ]
+}

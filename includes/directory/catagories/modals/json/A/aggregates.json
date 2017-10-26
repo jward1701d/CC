@@ -1,0 +1,21 @@
+{
+    "businesses": [
+         {
+            "company": "Double T Mineral Sales, Ltd., LLC",
+            "contact": "James R. Taylor",
+            "address": "1141 High St., Suite 5",
+            "city": "Brandenburg",
+            "state": "KY",
+            "country": "",
+            "zip": "40108",
+            "phone1": "270-422-4426",
+            "phone2": "",
+            "fax": "270-422-1146",
+            "link": "http://www.wisebuyingmall.com/doubletmineralsales",
+            "website": "www.wisebuyingmall.com/doubletmineralsales",
+            "emailaddress": "",
+             "logo": "",
+            "description": "Online sales for all of your aggregate needs. Supplier of Quality Construction Material."
+        }
+    ]
+}

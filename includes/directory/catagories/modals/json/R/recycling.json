@@ -1,0 +1,21 @@
+{
+    "businesses": [
+         {
+            "company": "Greenfields Coal Company, LLC",
+            "contact": "",
+            "address": "550 N Eisenhower Drive Suite B",
+            "city": "Beckley",
+            "state": "WV",
+            "country": "",
+            "zip": "25801",
+            "phone1": "304-929-3480",
+            "phone2": "",
+            "fax": "304-929-3483",
+            "link": "http://www.greenfieldscoal.com",
+            "website": "www.greenfieldscoal.com",
+            "emailaddress": "",
+             "logo": "",
+            "description": ""
+        }
+    ]
+}

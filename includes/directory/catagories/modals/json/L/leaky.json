@@ -1,0 +1,38 @@
+{
+    "businesses": [
+         {
+            "company": "Mine Site Technologies",
+            "contact": "",
+            "address": "13301 W 43rd Dr",
+            "city": "Golden",
+            "state": "CO",
+            "country": "",
+            "zip": "80403",
+            "phone1": "303-951-0570",
+            "phone2": "",
+            "fax": "303-865-5443",
+            "link": "",
+            "website": "",
+            "emailaddress": "",
+             "logo": "",
+            "description": ""
+        },
+        {
+            "company": "Minecom",
+            "contact": "",
+            "address": "6 Joseph St",
+            "city": " Blackburn North",
+            "state": "",
+            "country": "Australia",
+            "zip": "VIC 3130 ",
+            "phone1": "61-03-9896-3000",
+            "phone2": "",
+            "fax": "61-03-9896-3099",
+            "link": "http://www.minecom.com",
+            "website": "www.minecom.com",
+            "emailaddress": "",
+             "logo": "",
+            "description": ""
+        }
+    ]
+}

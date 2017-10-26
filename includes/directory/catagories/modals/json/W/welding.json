@@ -1,0 +1,72 @@
+{
+    "businesses": [
+         {
+            "company": "Arcon Welding Equipment, LLC",
+            "contact": "",
+            "address": "2203 Northwood Drive Building 10",
+            "city": "Salisbury",
+            "state": "MD",
+            "country": "",
+            "zip": "21801",
+            "phone1": "410-572-6000",
+            "phone2": "",
+            "fax": "410-572-6027",
+            "link": "http://www.arconweld.com",
+            "website": "www.arconweld.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Arcon-Welding-Logo-150x74.png",
+            "description": ""
+        },
+        {
+            "company": "Hobart Brothers Co.",
+            "contact": "",
+            "address": "101 Trade Square E",
+            "city": "Troy",
+            "state": "OH",
+            "country": "",
+            "zip": "45373",
+            "phone1": "937-332-4000",
+            "phone2": "",
+            "fax": "937-332-5224",
+            "link": "http://www.hobartbrothers.com",
+            "website": "www.hobartbrothers.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Hobart-Brothers-Logo-150x150.jpg",
+            "description": ""
+        },
+        {
+            "company": "Lincoln Electric",
+            "contact": "",
+            "address": "22801 St Clair Ave",
+            "city": "Cleveland",
+            "state": "OH",
+            "country": "",
+            "zip": "44117",
+            "phone1": "216-481-8100",
+            "phone2": "",
+            "fax": "216-486-1751",
+            "link": "http://www.lincolnelectric.com",
+            "website": "www.lincolnelectric.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Lincoln-Electric-Logo-150x49.png",
+            "description": ""
+        },
+        {
+            "company": "Partsmaster",
+            "contact": "",
+            "address": "PO Box 655326",
+            "city": "Dallas",
+            "state": "TX",
+            "country": "",
+            "zip": "75265",
+            "phone1": "972-438-0613",
+            "phone2": "",
+            "fax": "972-721-6868",
+            "link": "http://www.partsmaster.com",
+            "website": "www.partsmaster.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Partsmaster-Logo-150x17.png",
+            "description": ""
+        }
+    ]
+}

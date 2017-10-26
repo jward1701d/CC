@@ -1,0 +1,72 @@
+{
+    "businesses": [
+         {
+            "company": "Boart Longyear Co.",
+            "contact": "",
+            "address": "10808 River Front Pkwy, Ste 600",
+            "city": "South Jordan",
+            "state": "UT",
+            "country": "",
+            "zip": "84095",
+            "phone1": "801-972-6430",
+            "phone2": "",
+            "fax": "801-977-3374",
+            "link": "http://www.boartlongyear.com",
+            "website": "www.boartlongyear.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Boart-Longyear-Logo-150x99.png",
+            "description": ""
+        },
+        {
+            "company": "Connors Drilling, LLC",
+            "contact": "",
+            "address": "PO Box 1167 • 2990 N Townsend",
+            "city": "Montrose",
+            "state": "CO",
+            "country": "",
+            "zip": "81402",
+            "phone1": "970-249-3501",
+            "phone2": "",
+            "fax": "970-249-3701",
+            "link": "http://www.connorsdrilling.com",
+            "website": "www.connorsdrilling.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Connors-Drilling-LLC-Logo-150x37.png",
+            "description": ""
+        },
+        {
+            "company": "REI Drilling",
+            "contact": "",
+            "address": "250 W Berger Ln",
+            "city": "Salt Lake City",
+            "state": "UT",
+            "country": "",
+            "zip": "84107",
+            "phone1": "801-270-2140 ",
+            "phone2": "",
+            "fax": "801-281-2880",
+            "link": "http://www.reidrilling.com",
+            "website": "www.reidrilling.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/REI-Drilling-Logo-150x24.png",
+            "description": "Crozet, VA. Tel: 434-823-2065"
+        },
+        {
+            "company": "S.S. Drilling, Inc.",
+            "contact": "",
+            "address": "4554 KY Rt. 201",
+            "city": "Sitka",
+            "state": "KY",
+            "country": "",
+            "zip": "41255",
+            "phone1": "606-265-6767",
+            "phone2": "",
+            "fax": "606-265-6787",
+            "link": "",
+            "website": "",
+            "emailaddress": "",
+             "logo": "",
+            "description": "*Diamond Core Drilling & Excavating*"
+        }
+    ]
+}

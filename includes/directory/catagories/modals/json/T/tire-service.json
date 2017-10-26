@@ -1,0 +1,38 @@
+{
+    "businesses": [
+         {
+            "company": "Equipment Supply, Co.",
+            "contact": "",
+            "address": "15270 Flight Path Dr",
+            "city": "Brooksville",
+            "state": "FL",
+            "country": "",
+            "zip": "34604",
+            "phone1": "352-754-1117",
+            "phone2": "",
+            "fax": "352-754-4508",
+            "link": "http://www.esco.net",
+            "website": "www.esco.net",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Equipment-Supply-Co-Logo-150x76.png",
+            "description": ""
+        },
+         {
+            "company": "Fuller Brothers, Inc.",
+            "contact": "",
+            "address": "PO Box 280 - 11507 SE Hwy 212",
+            "city": "Clackamas",
+            "state": "OR",
+            "country": "",
+            "zip": "97015",
+            "phone1": "503-657-9366",
+            "phone2": "",
+            "fax": "503-657-0528",
+            "link": "http://www.fullerbros.com",
+            "website": "www.fullerbros.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Fuller-Brothers-Logo-150x50.jpg",
+            "description": ""
+        }
+    ]
+}

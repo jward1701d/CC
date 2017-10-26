@@ -1,0 +1,21 @@
+{
+    "businesses": [
+         {
+            "company": "MoistTech Corp.",
+            "contact": "",
+            "address": "1283 Tallevast Road",
+            "city": "Sarasota",
+            "state": "FL",
+            "country": "",
+            "zip": "34243",
+            "phone1": "941-351-7870",
+            "phone2": "",
+            "fax": "941-351-7877",
+            "link": "http://www.MositTech.com",
+            "website": "www.MositTech.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/MoistTech-Corp-Logo-150x89.png",
+            "description": ""
+        }
+    ]
+}

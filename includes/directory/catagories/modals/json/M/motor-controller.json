@@ -1,0 +1,38 @@
+{
+    "businesses": [
+         {
+            "company": "Cableform, Inc.",
+            "contact": "",
+            "address": "8845 Three Notch Road",
+            "city": "Troy",
+            "state": "VA",
+            "country": "",
+            "zip": "22974",
+            "phone1": "434-589-8224",
+            "phone2": "",
+            "fax": "434-589-3803",
+            "link": "http://www.cableform.com",
+            "website": "www.cableform.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Cable-Form-Logo-150x98.png",
+            "description": ""
+        },
+         {
+            "company": "Systems Controls, Inc.",
+            "contact": "",
+            "address": "4901 First Ave S",
+            "city": "Birmingham",
+            "state": "AL",
+            "country": "",
+            "zip": "35222",
+            "phone1": "205-591-8655",
+            "phone2": "",
+            "fax": "205-591-8659",
+            "link": "http://www.system-controls.net",
+            "website": "www.system-controls.net",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/System-Controls-Logo-150x25.png",
+            "description": ""
+        }
+    ]
+}

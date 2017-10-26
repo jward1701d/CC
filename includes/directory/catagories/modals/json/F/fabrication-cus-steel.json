@@ -1,0 +1,72 @@
+{
+    "businesses": [
+         {
+            "company": "Beckley Steel, Inc.",
+            "contact": "",
+            "address": "157 Willis Ave",
+            "city": "Crab Orchard",
+            "state": "WV",
+            "country": "",
+            "zip": "25827-0725",
+            "phone1": "304-252-5292",
+            "phone2": "",
+            "fax": "304-253-0110",
+            "link": "http://www.beckleysteel.com",
+            "website": "www.beckleysteel.com",
+            "emailaddress": "",
+             "logo": "",
+            "description": ""
+        },
+        {
+            "company": "GMS Mine Repair & Maintenance",
+            "contact": "Scott Smith-Vice President of Sales",
+            "address": "32 Enterprise Drive",
+            "city": "Oakland",
+            "state": "MD",
+            "country": "",
+            "zip": "21550",
+            "phone1": "301-334-8186 ",
+            "phone2": "",
+            "fax": "301-334-8698",
+            "link": "http://www.gmsminerepair.com",
+            "website": "www.gmsminerepair.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/GMS_logo-used-150x84.jpg",
+            "description": "GMS Mine Repair & Maintenance strives to be a  leader in underground & surface mine contracting and fabrication – working in all coal regions throughout North America.  Specializing in seal installs, ground control installation, ventilation, fabrication and various other projects large and small."
+        },
+        {
+            "company": "S and S Machine Shop",
+            "contact": "",
+            "address": " 298 Essex Dr",
+            "city": "Boonesville",
+            "state": "IN",
+            "country": "",
+            "zip": "47601",
+            "phone1": "812-897-5343",
+            "phone2": "",
+            "fax": "812-897-1001",
+            "link": "http://www.ssmachineshop.com",
+            "website": "www.ssmachineshop.com",
+            "emailaddress": "",
+             "logo": "",
+            "description": ""
+        },
+        {
+            "company": "Wilson Works, Inc.",
+            "contact": "",
+            "address": "202 Distributor Drive",
+            "city": "Morgantown",
+            "state": "WV",
+            "country": "",
+            "zip": "26501",
+            "phone1": "304-296-7621",
+            "phone2": "",
+            "fax": "304-296-7622",
+            "link": "http://www.wilsonworksinc.com",
+            "website": "www.wilsonworksinc.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/proof-oval-used-150x107.jpg",
+            "description": ""
+        }
+    ]
+}

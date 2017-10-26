@@ -1,0 +1,38 @@
+{
+    "businesses": [
+         {
+            "company": "Belt Tech, Inc.",
+            "contact": "Justin",
+            "address": "307 Skyline Dr",
+            "city": "Bluefield",
+            "state": "VA",
+            "country": "",
+            "zip": "24605",
+            "phone1": "276-322-2581",
+            "phone2": "",
+            "fax": "276-322-2558",
+            "link": "http://www.belttechinc.com",
+            "website": "www.belttechinc.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Belt-Tech-Inc-Logo.-used.png",
+            "description": " Serving the Mining Industry with Quality Conveyor Belt Installation, Splicing, Repairs and Lagging."
+        },
+        {
+            "company": "TRIO Engineered Products, Inc.",
+            "contact": "",
+            "address": "12823 Schabarum Avenue",
+            "city": "Irwindale",
+            "state": "CA",
+            "country": "",
+            "zip": "91706",
+            "phone1": "626-851-3966",
+            "phone2": "",
+            "fax": "",
+            "link": "http://www.trioproducts.com",
+            "website": "www.trioproducts.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Trio-Engineered-Logo.png",
+            "description": ""
+        }
+    ]
+}

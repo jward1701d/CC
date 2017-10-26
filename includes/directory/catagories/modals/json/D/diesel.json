@@ -1,0 +1,72 @@
+{
+    "businesses": [
+         {
+            "company": "Airflow Catalyst Systems, Inc.",
+            "contact": "",
+            "address": "2144 Brighton-Henrietta Townline Rd, Ste 700",
+            "city": "Rochester",
+            "state": "NY",
+            "country": "",
+            "zip": "14623",
+            "phone1": "585-797-7894",
+            "phone2": "",
+            "fax": "585-295-1515",
+            "link": "http://www.airflowcatalyst.com",
+            "website": "www.airflowcatalyst.com",
+            "emailaddress": "",
+             "logo": "",
+            "description": ""
+        },
+        {
+            "company": "Cerion Energy",
+            "contact": "",
+            "address": "1 Blossom Rd",
+            "city": "Rochester",
+            "state": "NY",
+            "country": "",
+            "zip": "14610",
+            "phone1": "585-271-5630",
+            "phone2": "",
+            "fax": "585-271-5638",
+            "link": "http://www.cerionenergy.com",
+            "website": "www.cerionenergy.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Cerion-Logo-150x59.png",
+            "description": ""
+        },
+        {
+            "company": "Dry Systems Technologies, Inc.",
+            "contact": "Erin Carlson",
+            "address": "10420 Rising Ct",
+            "city": "Woodridge",
+            "state": "IL",
+            "country": "",
+            "zip": "60517",
+            "phone1": "630-427-2051",
+            "phone2": "",
+            "fax": "630-427-1036",
+            "link": "http://www.drysystemstech.com",
+            "website": "www.drysystemstech.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Dry-Systems-Technologies-logo-150x74.jpg",
+            "description": "Dry Systems Technologies is a world leader in the design, manufacture and installation of diesel emissions control systems used for mining and construction equipment.  Our products are the result of more than 25 years of progressive and innovative design, testing and improvement, allowing us to offer the most efficient systems on the market for reducing diesel engine emissions. DST has become a leading supplier for Diesel Power Packages and Emissions Control Solutions for both new (O.E.M.) and rebuilt machinery in the Mining and Construction Industries and our products are available for both permissible (flame-proof) and non-permissible applications.  Our systems can be used in a wide variety of machinery and are often custom designed to meet the specific demands of the customers we serveOur mission is to continue to develop safer and more economical products to make diesel engines run cleaner, and to provide a better and safer working environment for the men and women working on or near diesel powered equipment."
+        },
+                 {
+            "company": "Emissions Technology, Inc.",
+            "contact": "",
+            "address": "360 Garden Oaks Blvd",
+            "city": "Houston",
+            "state": "TX",
+            "country": "",
+            "zip": "77018",
+            "phone1": "713-691-1211",
+            "phone2": "",
+            "fax": "713-691-1230",
+            "link": "http://www.ULTRABURNCCS.COM",
+            "website": "www.ULTRABURNCCS.COM",
+            "emailaddress": "",
+             "logo": "",
+            "description": ""
+        }
+    ]
+}

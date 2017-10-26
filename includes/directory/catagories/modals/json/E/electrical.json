@@ -1,0 +1,38 @@
+{
+    "businesses": [
+         {
+            "company": "Delta Supply, Inc.",
+            "contact": "Renea Tackett",
+            "address": "455 Hambley Blvd",
+            "city": "Pikeville",
+            "state": "KY",
+            "country": "",
+            "zip": "41501",
+            "phone1": "606-432-0787",
+            "phone2": "",
+            "fax": "",
+            "link": "",
+            "website": "",
+            "emailaddress": "",
+             "logo": "",
+            "description": ""
+        },
+        {
+            "company": "Trey K Mining & Electric Co.",
+            "contact": "Keith Thacker",
+            "address": "6290 State Hwy 194 E",
+            "city": "Kimper",
+            "state": "KY",
+            "country": "",
+            "zip": "41539",
+            "phone1": "606-631-7697",
+            "phone2": "",
+            "fax": "",
+            "link": "http://www.treykelectric.com",
+            "website": "www.treykelectric.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Trey-K-Electric-logo-150x35.png",
+            "description": "Trey K Mining Electric is one of the leading manufacturers of electrical power distribution and motor control products for the mining industry. It is our goal to provide consumers with the most advanced electrical equipment available while fulfilling and exceeding their needs. Learn more about us!"
+        }
+    ]
+}

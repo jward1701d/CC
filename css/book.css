@@ -1,0 +1,220 @@
+/* line 1, C:/wamp/www/CoalfieldConnection/css/book.scss */
+#container {
+  -webkit-box-sizing: border-box;
+  /* Safari/Chrome, other WebKit */
+  -moz-box-sizing: border-box;
+  /* Firefox, other Gecko */
+  box-sizing: border-box;
+  /* Opera/IE 8+ */
+  height: 900px;
+  max-width: 900px;
+  margin: auto;
+  padding-top: 125px;
+  padding-bottom: 20px; }
+  /* line 16, C:/wamp/www/CoalfieldConnection/css/book.scss */
+  #container nav {
+    height: 26px;
+    text-align: center; }
+    /* line 20, C:/wamp/www/CoalfieldConnection/css/book.scss */
+    #container nav ul {
+      padding: 0;
+      border-width: 1px;
+      border-style: solid;
+      border-radius: 6px;
+      display: -moz-inline-box;
+      -moz-box-orient: vertical;
+      display: inline-block;
+      vertical-align: baseline;
+      zoom: 1;
+      *display: inline;
+      *vertical-align: auto;
+      -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+      -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+      -ms-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+      -o-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+      box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04); }
+      /* line 39, C:/wamp/www/CoalfieldConnection/css/book.scss */
+      #container nav ul li {
+        float: left;
+        border-left: 1px solid #d2d2d2; }
+        /* line 43, C:/wamp/www/CoalfieldConnection/css/book.scss */
+        #container nav ul li:first-child {
+          border-left: 0; }
+          /* line 45, C:/wamp/www/CoalfieldConnection/css/book.scss */
+          #container nav ul li:first-child a {
+            border-radius: 6px 0 0 6px; }
+        /* line 49, C:/wamp/www/CoalfieldConnection/css/book.scss */
+        #container nav ul li:last-child {
+          border-radius: 0 6px 6px 0; }
+        /* line 52, C:/wamp/www/CoalfieldConnection/css/book.scss */
+        #container nav ul li #zoomin {
+          background-image: url(../images/icons/zoom_in.png); }
+        /* line 55, C:/wamp/www/CoalfieldConnection/css/book.scss */
+        #container nav ul li #zoom {
+          background-image: url(../images/icons/zoom.png); }
+        /* line 58, C:/wamp/www/CoalfieldConnection/css/book.scss */
+        #container nav ul li #zoomout {
+          background-image: url(../images/icons/zoom_out.png); }
+        /* line 61, C:/wamp/www/CoalfieldConnection/css/book.scss */
+        #container nav ul li #first {
+          background-image: url(../images/icons/arrow_double_left.png); }
+        /* line 64, C:/wamp/www/CoalfieldConnection/css/book.scss */
+        #container nav ul li #last {
+          background-image: url(../images/icons/arrow_double_right.png); }
+        /* line 67, C:/wamp/www/CoalfieldConnection/css/book.scss */
+        #container nav ul li #next {
+          background-image: url(../images/icons/arrow_right.png); }
+        /* line 70, C:/wamp/www/CoalfieldConnection/css/book.scss */
+        #container nav ul li #back {
+          background-image: url(../images/icons/arrow_left.png); }
+        /* line 73, C:/wamp/www/CoalfieldConnection/css/book.scss */
+        #container nav ul li #slideshow {
+          background-image: url(../images/icons/slideshow_play.png); }
+          /* line 75, C:/wamp/www/CoalfieldConnection/css/book.scss */
+          #container nav ul li #slideshow .wowbook-disabled {
+            background-image: url(../images/icons/slideshow_pause.png); }
+        /* line 79, C:/wamp/www/CoalfieldConnection/css/book.scss */
+        #container nav ul li #flipsound {
+          background-image: url(../images/icons/sound_on.png); }
+          /* line 81, C:/wamp/www/CoalfieldConnection/css/book.scss */
+          #container nav ul li #flipsound .wowbook-disabled {
+            background-image: url(../images/icons/sound_off.png); }
+        /* line 85, C:/wamp/www/CoalfieldConnection/css/book.scss */
+        #container nav ul li #fullscreen {
+          background-image: url(../images/icons/fullscreen_on.png); }
+          /* line 87, C:/wamp/www/CoalfieldConnection/css/book.scss */
+          #container nav ul li #fullscreen .wowbook-disabled {
+            background-image: url(../images/icons/fullscreen_off.png); }
+    /* line 93, C:/wamp/www/CoalfieldConnection/css/book.scss */
+    #container nav a {
+      z-index: 100;
+      position: relative;
+      display: block;
+      padding: 0 14px;
+      font-size: 11px;
+      font-weight: bold;
+      color: #666;
+      color: #dddddd;
+      height: 26px;
+      line-height: 26px;
+      text-shadow: 0 1px #fff;
+      background: #fafafa;
+      background-color: #fcfcfc;
+      background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #fcfcfc), color-stop(100%, #f0f0f0));
+      background-image: -webkit-linear-gradient(top, #fcfcfc, #f0f0f0);
+      background-image: -moz-linear-gradient(top, #fcfcfc, #f0f0f0);
+      background-image: -ms-linear-gradient(top, #fcfcfc, #f0f0f0);
+      background-image: -o-linear-gradient(top, #fcfcfc, #f0f0f0);
+      background-image: linear-gradient(top, #fcfcfc, #f0f0f0);
+      background-color: #2C2C2C;
+      background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #fcfcfc), color-stop(100%, #f0f0f0));
+      background-image: -webkit-linear-gradient(top, #333333, #222222);
+      background-image: -moz-linear-gradient(top, #333333, #222222);
+      background-image: -ms-linear-gradient(top, #333333, #222222);
+      background-image: -o-linear-gradient(top, #333333, #222222);
+      background-image: linear-gradient(top, #333333, #222222);
+      display: block;
+      height: 46px;
+      width: 48px;
+      padding: 0;
+      background: #000000 no-repeat;
+      background-position: 8px 7px;
+      text-indent: 100%;
+      white-space: nowrap;
+      overflow: hidden;
+      /*-webkit-box-shadow: inset 1px 1px #fafafa, inset -1px -1px #fafafa;
+            -moz-box-shadow: inset 1px 1px #fafafa, inset -1px -1px #fafafa;
+            -ms-box-shadow: inset 1px 1px #fafafa, inset -1px -1px #fafafa;
+            -o-box-shadow: inset 1px 1px #fafafa, inset -1px -1px #fafafa;
+            //box-shadow: inset 1px 1px #fafafa, inset -1px -1px #fafafa; }*/
+      outline: none; }
+      /* line 139, C:/wamp/www/CoalfieldConnection/css/book.scss */
+      #container nav a:hover {
+        color: #333;
+        color: #dddddd;
+        /* FIXME */
+        z-index: 10;
+        text-decoration: none;
+        /*
+                /-webkit-box-shadow: 0 0 3px rgba(0, 0, 0, 0.3), inset 1px 1px #fafafa, inset -1px -1px #fafafa;
+                /-moz-box-shadow: 0 0 3px rgba(0, 0, 0, 0.3), inset 1px 1px #fafafa, inset -1px -1px #fafafa;
+                /-ms-box-shadow: 0 0 3px rgba(0, 0, 0, 0.3), inset 1px 1px #fafafa, inset -1px -1px #fafafa;
+                /-o-box-shadow: 0 0 3px rgba(0, 0, 0, 0.3), inset 1px 1px #fafafa, inset -1px -1px #fafafa;
+                /box-shadow: 0 0 3px rgba(0, 0, 0, 0.3), inset 1px 1px #fafafa, inset -1px -1px #fafafa; 
+                */
+        background-color: #2C2C2C;
+        background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #fcfcfc), color-stop(100%, #f0f0f0));
+        background-image: -webkit-linear-gradient(top, #555555, #222222);
+        background-image: -moz-linear-gradient(top, #555555, #222222);
+        background-image: -ms-linear-gradient(top, #555555, #222222);
+        background-image: -o-linear-gradient(top, #555555, #222222);
+        background-image: linear-gradient(top, #555555, #222222); }
+
+/* line 165, C:/wamp/www/CoalfieldConnection/css/book.scss */
+.wowbook {
+  color: #333; }
+
+/* line 168, C:/wamp/www/CoalfieldConnection/css/book.scss */
+.wowbook-page-content {
+  background: white; }
+
+/* line 172, C:/wamp/www/CoalfieldConnection/css/book.scss */
+.wowbook-left .wowbook-gutter-shadow {
+  background-image: url('../images/page_left_background.png');
+  opacity: 0.5;
+  width: 60px; }
+
+/* line 179, C:/wamp/www/CoalfieldConnection/css/book.scss */
+.wowbook-right .wowbook-gutter-shadow {
+  background-image: url('../images/page_right_background.png');
+  background-position: 0 0;
+  width: 75px; }
+
+/* line 185, C:/wamp/www/CoalfieldConnection/css/book.scss */
+#main {
+  position: relative;
+  top: 30px; }
+
+/* line 190, C:/wamp/www/CoalfieldConnection/css/book.scss */
+.js #current {
+  mmargin-left: -12000px; }
+
+/* line 193, C:/wamp/www/CoalfieldConnection/css/book.scss */
+.wowbook-page {
+  mmargin: auto; }
+
+/* line 200, C:/wamp/www/CoalfieldConnection/css/book.scss */
+.feature {
+  font-family: 'BebasNeueRegular', sans-serif;
+  height: 500px;
+  width: 400px;
+  background: white; }
+
+/* line 208, C:/wamp/www/CoalfieldConnection/css/book.scss */
+.blank {
+  height: 150px; }
+
+@media screen and (max-width: 568px), screen and (max-height: 380px) {
+  /* line 213, C:/wamp/www/CoalfieldConnection/css/book.scss */
+  #container {
+    padding-top: 60px;
+    padding-bottom: 5px; }
+    /* line 216, C:/wamp/www/CoalfieldConnection/css/book.scss */
+    #container nav {
+      margin: auto;
+      top: 0px; }
+      /* line 219, C:/wamp/www/CoalfieldConnection/css/book.scss */
+      #container nav li {
+        height: 32px; }
+        /* line 221, C:/wamp/www/CoalfieldConnection/css/book.scss */
+        #container nav li a {
+          background-size: 50% 50%;
+          height: 32px;
+          width: 32px; }
+
+  /* line 229, C:/wamp/www/CoalfieldConnection/css/book.scss */
+  .blank {
+    height: 0; }
+ }
+
+/*# sourceMappingURL=book.css.map */

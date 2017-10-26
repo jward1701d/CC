@@ -1,0 +1,55 @@
+{
+    "businesses": [
+         {
+            "company": "Filnor Inc.",
+            "contact": "",
+            "address": "PO Box 2328 - 227 N Freedom Ave",
+            "city": "Alliance",
+            "state": "OH",
+            "country": "",
+            "zip": "44601",
+            "phone1": "330-821-7667",
+            "phone2": "",
+            "fax": "330-821-6627",
+            "link": "http://www.filnor.com",
+            "website": "www.filnor.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Filnor-Inc-Logo.png",
+            "description": ""
+        },
+         {
+            "company": "Mining Resistors, Inc.",
+            "contact": "",
+            "address": "620 Tiller St",
+            "city": "Logan",
+            "state": "WV",
+            "country": "",
+            "zip": "25601",
+            "phone1": "304-752-4681",
+            "phone2": "",
+            "fax": "",
+            "link": "",
+            "website": "",
+            "emailaddress": "",
+             "logo": "",
+            "description": ""
+        },
+         {
+            "company": "Mosebach Mfg. Co.",
+            "contact": "",
+            "address": "1417 McLaughlin Run Roa",
+            "city": "Pittsburgh",
+            "state": "PA",
+            "country": "",
+            "zip": "15241",
+            "phone1": "412-220-0200",
+            "phone2": "",
+            "fax": "412-220-0236",
+            "link": "http://www.mosebachresistors.com",
+            "website": "www.mosebachresistors.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Mosebach-Logo-150x66.png",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "businesses": [
+         {
+            "company": "Brevini",
+            "contact": "",
+            "address": "14141 W Brevini Drive",
+            "city": "Yorktown",
+            "state": "IN",
+            "country": "",
+            "zip": "47396",
+            "phone1": "765-759-2300",
+            "phone2": "",
+            "fax": "765-759-2301",
+            "link": "http://www.breviniusa.com",
+            "website": "www.breviniusa.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Brevivi-Logo-150x32.gif",
+            "description": ""
+        },
+        {
+            "company": "Hansen Tranmission, Inc.",
+            "contact": "",
+            "address": "33 Lakeview Court",
+            "city": "Verona",
+            "state": "VA",
+            "country": "",
+            "zip": "24482",
+            "phone1": "540-213-2442",
+            "phone2": "",
+            "fax": "540-213-2222",
+            "link": "http://www.hansenindustrialgearboxes.us",
+            "website": "www.hansenindustrialgearboxes.us",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Hansen-logo-150x75.png",
+            "description": "Hansen Industrial Transmissions has been delivering dependable torque solutions to industry since 1923. The company’s growth was fueled by its patent on the standardization of gear units, a principle that makes Hansen industrial gearboxes uniquely configurable even today. Hansen Industrial Transmissions has since become a world-class leader in gear drives, with global distribution, service and support networks serving every industry on six continents.</br>Hansen Industrial Transmissions serves U.S. customers from its Verona, VA headquarters, as well as from authorized representatives across the U.S. and Canada. Hansen Industrial Transmissions’ team of application engineers and service technicians, combined with its 50,000 square-foot assembly and warehouse facility, ensure North American customers receive rapid delivery and unparalleled support."
+        },
+        {
+            "company": "Wabash Power Equipment Company",
+            "contact": "",
+            "address": "444 Carpenter Avenue",
+            "city": "Wheeling",
+            "state": "IL",
+            "country": "",
+            "zip": "60090",
+            "phone1": "847-541-5600",
+            "phone2": "",
+            "fax": "847-541-1279",
+            "link": "http://www.wabashpower.com",
+            "website": "www.wabashpower.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/untitled-150x84.png",
+            "description": "Since 1950, Wabash has supplied thousands of boilers for installation around the world with unique solutions from order to start-up. We maintain a huge inventory of boilers, auxiliaries and generating equipment in our strategically placed warehouses and headquarters in Wheeling, Illinois.</br>Our power generation equipment is built for us by leading manufacturers employing professionally licensed engineers and trained, certified craftsman to meet fabrication and code standards. It is dependable and efficient, incorporating the latest proven designs, innovations and emissions technologies.</br>There is absolutely no substitute for experience. Wabash can put our 60 years of experience to work for you. We deliver powerful, personalized service. From the moment you contact us, our utmost concern is providing technical and logistical solutions that precisely meet your application from our vast in-stock inventory.</br>We understand that “downtime is money,” so we strive to deliver the fastest response time. Our engineering and sales staff analyzes your needs, offers the best immediate in-stock equipment solutions and delivers within your time frame – whether to meet an emergency, aggressive deadline, or anticipated, scheduled outage. Satisfaction is our highest concern from initial inquiry to installation, start-up and continued support 24/7.</br>You need high quality, responsive technical services. Wabash delivers through its relationships with start-up service organizations, mechanical contractors and specialized carriers.</br>Wabash Delivers … with speed, dependability, smarts, inventory, market knowledge and compassion!"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "businesses": [
+         {
+            "company": "Damascus Corporation",
+            "contact": "",
+            "address": "PO Box 610",
+            "city": "Abingdon",
+            "state": "VA",
+            "country": "",
+            "zip": "24212",
+            "phone1": "276-676-2376",
+            "phone2": "",
+            "fax": "276-676-0300",
+            "link": "http://www.damascuscorp.com",
+            "website": "www.damascuscorp.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/logo3-edited-and-used.jpg",
+            "description": "Damascus Corporation is a leading manufacturer of MSHA approved underground personnel and utility vehicles with 31 years of experience in manufacturing and service. Damascus Corporation manufactures vehicles with DC and AC battery electric drives and diesels hydrostatic drives with capacities from two to fourteen people per vehicle."
+        },
+        {
+            "company": "GE Fairchild, LLC",
+            "contact": "",
+            "address": "200 Fairchild Lane",
+            "city": "Gleen Lyn",
+            "state": "VA",
+            "country": "",
+            "zip": "24093",
+            "phone1": "540-726-2380",
+            "phone2": "",
+            "fax": "540-726-2388",
+            "link": "http://www.fairchildint.com",
+            "website": "www.fairchildint.com",
+            "emailaddress": "",
+             "logo": "",
+            "description": ""
+        },
+        {
+            "company": "Johnson Industries, Inc.",
+            "contact": "",
+            "address": "101 Pine Fork",
+            "city": "Pikeville",
+            "state": "KY",
+            "country": "",
+            "zip": "40501",
+            "phone1": "606-639-2029",
+            "phone2": "",
+            "fax": "606-639-0259",
+            "link": "http://www.johnsonindustries.com",
+            "website": "www.johnsonindustries.com",
+            "emailaddress": "",
+             "logo": "",
+            "description": ""
+        },
+        {
+            "company": "Young’s Machine Company",
+            "contact": "",
+            "address": "PO Box 489",
+            "city": "Monticello",
+            "state": "UT",
+            "country": "",
+            "zip": "84535",
+            "phone1": "435-587-2292",
+            "phone2": "",
+            "fax": "435-587-2312",
+            "link": "http://www.youngmachine.com",
+            "website": "www.youngmachine.com",
+            "emailaddress": "",
+             "logo": "",
+            "description": ""
+        }
+    ]
+}

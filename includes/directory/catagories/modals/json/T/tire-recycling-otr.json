@@ -1,0 +1,21 @@
+{
+    "businesses": [
+         {
+            "company": "Midwest Tire Tanks",
+            "contact": "Kyle Strasburger",
+            "address": "3359 177th Trail",
+            "city": "Ellsworth",
+            "state": "NE",
+            "country": "",
+            "zip": "69340",
+            "phone1": "308-360-0618",
+            "phone2": "",
+            "fax": "",
+            "link": "http://www.midwesttiretanks.com",
+            "website": "www.midwesttiretanks.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Midwest-Tire-Tank-Logo-150x102.jpg",
+            "description": "Midwest Tire Tanks is an OTR tire recycling company. We provide a cleanup service that can reduce scrap OTR tires from your mine. Our goal is to recycle all parts of the tires in an environmentally friendly way. The majority of the scrap OTR tires get cut into livestock water tanks. This provides a cost effective, environment friendly, and long lasting option compared to steel tanks.What we can do for you?-Reduce the number of OTR tires being buried by providing an alternative.-Lessen the liability by setting up a program for current scrap pile and as scrap tires are -generated.-Recycle sizes 27.00R49 to 59/80R63.-Help coordinate the shipping of scrap tires."
+        }
+    ]
+}

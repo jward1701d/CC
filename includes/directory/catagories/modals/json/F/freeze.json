@@ -1,0 +1,21 @@
+{
+    "businesses": [
+         {
+            "company": "Zinkan",
+            "contact": "Rita Roman",
+            "address": "1919 Case Parkway North",
+            "city": "Twinsburg",
+            "state": "OH",
+            "country": "",
+            "zip": "44087",
+            "phone1": "888-769-8297",
+            "phone2": "",
+            "fax": "",
+            "link": "http://www.zinkan.com",
+            "website": "www.zinkan.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/zinkan-used.png",
+            "description": "Zinkan is dedicated to providing service and developing innovative mining chemicals, specialty chemicals for water treatment and application systems that set the standard for the industry. Our experienced staff and field experts are committed to finding the right chemical and application techniques to exceed your expectations and improve performance."
+        }
+    ]
+}

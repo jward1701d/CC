@@ -1,0 +1,72 @@
+{
+    "businesses": [
+         {
+            "company": "Bays Technical Services, LLC",
+            "contact": "Jerry Bays",
+            "address": "411 Main Street",
+            "city": "Mt. Hope",
+            "state": "WV",
+            "country": "",
+            "zip": "25880",
+            "phone1": "304-877-9775",
+            "phone2": "",
+            "fax": "304-877-3117",
+            "link": "http://www.btsworks.net",
+            "website": "www.btsworks.net",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Bays-Technical-Logo-150x72.gif",
+            "description": "Bays Technical Services, LLC (formerly Bays, Inc.) provides quality engineering, design, and project services to the coal and related industries, specializing in processing and materials handling systems. Bays Technical Services, LLC is led by a staff with over 150 years of combined experience in the area of coal processing and materials handling systems. The range of services we offer include: design engineering, feasibility studies, cost evaluations, and project management. Projects completed by our experienced staff include the design of Coal Preparation Plants, Conveyor Systems, Raw and Clean Coal Storage, and Load Out Systems."
+        },
+        {
+            "company": "BEDESCHI AMERICA, INC.",
+            "contact": "",
+            "address": "3275 W Hillsboro Blvd Ste 312",
+            "city": "Deerfield Beach",
+            "state": "FL",
+            "country": "",
+            "zip": "33442",
+            "phone1": "954-602-2175",
+            "phone2": "",
+            "fax": "954-602-5390",
+            "link": "http://www.bedechiamerica.com",
+            "website": "www.bedechiamerica.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Bedeschi-Logo-150x42.jpg",
+            "description": ""
+        },
+        {
+            "company": "Coalview",
+            "contact": "David Henry",
+            "address": "4185 Glades Pike Road",
+            "city": "Somerset",
+            "state": "PA",
+            "country": "",
+            "zip": "15501",
+            "phone1": "814-443-6454",
+            "phone2": "",
+            "fax": "814-443-6459",
+            "link": "http://www.coalview.com",
+            "website": "www.coalview.com",
+            "emailaddress": "",
+             "logo": "",
+            "description": ""
+        },
+        {
+            "company": "E.T. Kilbourne & Associates",
+            "contact": "",
+            "address": "606 Collins Dr",
+            "city": "Johnson City",
+            "state": "TN",
+            "country": "",
+            "zip": "",
+            "phone1": "423-926-1800",
+            "phone2": "",
+            "fax": "",
+            "link": "",
+            "website": "",
+            "emailaddress": "",
+             "logo": "",
+            "description": ""
+        }
+    ]
+}

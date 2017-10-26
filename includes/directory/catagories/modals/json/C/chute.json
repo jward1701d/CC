@@ -1,0 +1,55 @@
+{
+    "businesses": [
+         {
+            "company": "CBP Engineering Corporation",
+            "contact": "",
+            "address": "185 Plumpton Ave",
+            "city": "Washington",
+            "state": "PA",
+            "country": "",
+            "zip": "15301",
+            "phone1": "800-468-1180",
+            "phone2": "",
+            "fax": "724-229-1185",
+            "link": "http://www.cbpengineering.com",
+            "website": "www.cbpengineering.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/CPB-EngineeringLogo.png",
+            "description": ""
+        },
+         {
+            "company": "Kinergy Corp.",
+            "contact": "",
+            "address": "7310 Grade Ln ",
+            "city": "Louisville",
+            "state": "KY",
+            "country": "",
+            "zip": "40219",
+            "phone1": "502-366-5685",
+            "phone2": "",
+            "fax": "502-366-3701",
+            "link": "http://www.kinergy.com",
+            "website": "www.kinergy.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Kinergy-Logo-150x200.png",
+            "description": ""
+        },
+         {
+            "company": "Myrlen, Inc.",
+            "contact": "",
+            "address": "17080 Safety St Suite 101",
+            "city": "Ft.Myers",
+            "state": "FL",
+            "country": "",
+            "zip": "33908",
+            "phone1": "239-728-3100 ",
+            "phone2": "888-737-0297",
+            "fax": "",
+            "link": "http://www.airsweepsytems.com",
+            "website": "www.airsweepsytems.com",
+            "emailaddress": "",
+             "logo": "",
+            "description": ""
+        }
+    ]
+}

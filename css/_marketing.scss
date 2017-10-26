@@ -1,0 +1,22 @@
+#marketing{
+	.panel{
+		margin-top: 90px;
+		.panel-body{
+			.row{
+				margin-bottom: 20px;
+			}
+		}
+	}
+}
+@media screen and (max-width: 320px){
+	#marketing{
+		.panel{
+			margin-top: 40px;
+			.panel-body{
+				.row{
+					margin-bottom: 20px;
+				}
+			}
+		}
+	}
+}

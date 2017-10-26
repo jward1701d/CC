@@ -1,0 +1,72 @@
+{
+    "businesses": [
+         {
+            "company": "Carroll & Stone Insurance Services",
+            "contact": "Ron Carroll & Scott Cole",
+            "address": "4384 Clearwater Way, Ste 200",
+            "city": "Lexington",
+            "state": "KY",
+            "country": "",
+            "zip": "40515",
+            "phone1": "859-269-1044",
+            "phone2": "",
+            "fax": "859-276-0266",
+            "link": "http://www.carrollandstone.com",
+            "website": "www.carrollandstone.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Carroll-Stone-Insurance-Logo-150x56.png",
+            "description": ""
+        },
+        {
+            "company": "HIIG Energy",
+            "contact": "",
+            "address": "2007 Eagle Ridge Drive",
+            "city": "Birmingham",
+            "state": "AL",
+            "country": "",
+            "zip": "35242",
+            "phone1": "800-643-7707",
+            "phone2": "",
+            "fax": "",
+            "link": "http://www.bhuainc.com",
+            "website": "www.bhuainc.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/HIIG-Energy-logo-one-I-used.jpg",
+            "description": "We underwrite all types of mining operations whether above or below ground and contractors servicing those mining operations.  We can offer all lines including GL, Excess, Auto, WC, Property and IM."
+        },
+        {
+            "company": "Rockwood Casuality",
+            "contact": "Jim Morris",
+            "address": "654 Main Street",
+            "city": "Rockwood",
+            "state": "PA",
+            "country": "",
+            "zip": "15557",
+            "phone1": "814-926-4661",
+            "phone2": "",
+            "fax": "814-926-2641",
+            "link": "http://www.RockwoodCasualty.com",
+            "website": "www.RockwoodCasualty.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Rockwood-Casualty-Logo-150x45.jpg",
+            "description": ""
+        },
+        {
+            "company": "Wells Fargo Insurance Services, USA",
+            "contact": "Kevin McAnallen",
+            "address": "50 Weddington Br Rd",
+            "city": "Pikeville",
+            "state": "KY",
+            "country": "",
+            "zip": "41501",
+            "phone1": "606-437-7361",
+            "phone2": "",
+            "fax": "",
+            "link": "",
+            "website": "",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Wells-Fargo-Logo-150x150.jpg",
+            "description": ""
+        }
+    ]
+}

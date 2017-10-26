@@ -1,0 +1,55 @@
+{
+    "businesses": [
+         {
+            "company": "APS Mining",
+            "contact": "",
+            "address": "14 Inverness Dr East, Suite G124",
+            "city": "Englewood",
+            "state": "CO",
+            "country": "",
+            "zip": "80112",
+            "phone1": "800-811-9503",
+            "phone2": "",
+            "fax": "",
+            "link": "http://www.apsmining.com",
+            "website": "www.apsmining.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/APS-Mining-Logo-150x71.png",
+            "description": ""
+        },
+        {
+            "company": "Inthinc",
+            "contact": "",
+            "address": "4225 W Lake Park Blvd, Ste100",
+            "city": "Salt Lake City",
+            "state": "UT",
+            "country": "",
+            "zip": "84120",
+            "phone1": "801-866-2255",
+            "phone2": "866-294-8637",
+            "fax": "",
+            "link": "http://www.inthinc.com",
+            "website": "www.inthinc.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Inthinc-Logo-150x75.png",
+            "description": ""
+        },
+        {
+            "company": "Leica Geosystems Mining",
+            "contact": "",
+            "address": "601 S Country Club Road",
+            "city": "Tuscon",
+            "state": "AZ",
+            "country": "",
+            "zip": "85716",
+            "phone1": "520-624-4056",
+            "phone2": "",
+            "fax": "",
+            "link": "http://www.leica-geosystems.com ",
+            "website": "www.leica-geosystems.com ",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/",
+            "description": "Leica Geosystems’ next-generation Leica Jigsaw monitoring and GPS guidance solution unearths site productivity with a revolutionary product range for draglines; blast-hole drills; electric shovels; dozers; excavators; haul trucks; loaders and auxiliary assets.</br>State-of-the-art real-time analysis and reporting software gives users the tools they need to stay on top by efficiently controlling resources and equipment. The result is informed decision-making, optimized productivity and unparalleled performance for maximum site output.</br>Backed by a reliable global service and support network available 24/7, Leica Geosystems Mining provides you with one seamlessly integrated and efficient Mine Management System.</br> When it has to be right."
+        }
+    ]
+}

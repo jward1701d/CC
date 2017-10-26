@@ -1,0 +1,126 @@
+@media screen and (max-width: 320px){
+    #tradepage{
+	   margin-top: 100px;
+	   h3{
+		   margin-top: 25px;
+	   }
+	   img{
+		   box-shadow: 0 10px 10px #000;
+		   margin-top: 15px;
+		   max-width: 100%;//255px;
+		   &:hover{
+			   box-shadow: 0 5px 5px #000;
+		   }
+	   }
+   }
+}
+
+@media screen and (min-width: 321px) and (max-width: 480px){
+	#tradepage{
+	   margin-top: 100px;
+	   h3{
+		   margin-top: 25px;
+	   }
+	   img{
+		   box-shadow: 0 10px 10px #000;
+		   margin-top: 15px;
+		   max-width: 100%;
+		   &:hover{
+			   box-shadow: 0 5px 5px #000;
+		   }
+	   }
+   }
+    
+}
+
+@media screen and (min-width: 481px) and (max-width: 640px){
+	#tradepage{
+	   margin-top: 100px;
+	   h3{
+		   margin-top: 25px;
+	   }
+	   img{
+		   box-shadow: 0 10px 10px #000;
+		   margin-top: 15px;
+		   max-width: 100%;
+		   &:hover{
+			   box-shadow: 0 5px 5px #000;
+		   }
+	   }
+   }
+    
+}
+
+
+@media screen and (min-width: 641px) and (max-width: 767px){
+	#tradepage{
+	   margin-top: 100px;
+	   h3{
+		   margin-top: 25px;
+	   }
+	   img{
+		   box-shadow: 0 10px 10px #000;
+		   margin-top: 15px;
+		   max-width: 100%;
+		   &:hover{
+			   box-shadow: 0 5px 5px #000;
+		   }
+	   }
+   }
+   
+}
+
+@media screen and (min-width: 768px) and (max-width: 1095px){//(max-width: 1210px){
+	#tradepage{
+	   margin-top: 100px;
+	   h3{
+		   margin-top: 25px;
+	   }
+	   img{
+		   box-shadow: 0 10px 10px #000;
+		   margin-top: 15px;
+		   max-width: 100%;
+		   &:hover{
+			   box-shadow: 0 5px 5px #000;
+		   }
+	   }
+   }
+  
+}
+
+@media screen and (min-width: 1096px) and (max-width: 1210px){
+	#tradepage{
+	   margin-top: 100px;
+	   h3{
+		   margin-top: 25px;
+	   }
+	   img{
+		   box-shadow: 0 10px 10px #000;
+		   margin-top: 15px;
+		   max-width: 100%;
+		   &:hover{
+			   box-shadow: 0 5px 5px #000;
+		   }
+	   }
+   }
+   
+}
+
+@media screen and (min-width: 1211px) and (max-width: 1920px){
+   #tradepage{
+	   margin-top: 100px;
+	   h3{
+		   margin-top: 25px;
+	   }
+	   img{
+		   box-shadow: 0 10px 10px #000;
+		   margin-top: 15px;
+		   max-width: 100%;
+		   &:hover{
+			   box-shadow: 0 5px 5px #000;
+		   }
+	   }
+   }
+}
+
+

@@ -1,0 +1,21 @@
+{
+    "businesses": [
+         {
+            "company": "Antraquip",
+            "contact": "",
+            "address": "PO Box 28",
+            "city": "Hagerstown",
+            "state": "MD",
+            "country": "",
+            "zip": "21741",
+            "phone1": "301-665-1165",
+            "phone2": "",
+            "fax": "301-665-9079",
+            "link": "http://www.antraquip.net",
+            "website": "www.antraquip.net",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Antraquip-Logo-150x150.png",
+            "description": ""
+        }
+    ]
+}

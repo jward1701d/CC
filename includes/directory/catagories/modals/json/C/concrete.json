@@ -1,0 +1,72 @@
+{
+    "businesses": [
+         {
+            "company": "American Commercial, Inc.",
+            "contact": "",
+            "address": "200 Bob Morrison Blvd",
+            "city": "Bristol",
+            "state": "VA",
+            "country": "",
+            "zip": "24201",
+            "phone1": "276-466-2743",
+            "phone2": "",
+            "fax": " 276-669-0940",
+            "link": "http://www.americancommercial.com",
+            "website": "www.americancommercial.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/American-Commercial-Logo.png",
+            "description": ""
+        },
+        {
+            "company": "Cemex",
+            "contact": "",
+            "address": "920 Memorial City Way, Suite 100",
+            "city": "Houston",
+            "state": "TX",
+            "country": "",
+            "zip": "77024",
+            "phone1": "713-650-6200",
+            "phone2": "",
+            "fax": "",
+            "link": "http://www.cemexusa.com",
+            "website": "www.cemexusa.com",
+            "emailaddress": "",
+             "logo": "",
+            "description": ""
+        },
+        {
+            "company": "Reed Shotcrete Equipment",
+            "contact": "",
+            "address": "13822 Oaks Avenue ",
+            "city": "Chino",
+            "state": "CA",
+            "country": "",
+            "zip": "91710",
+            "phone1": "909-287-2100",
+            "phone2": "",
+            "fax": "909-287-2140",
+            "link": "http://www.reedpumps.com",
+            "website": "www.reedpumps.com",
+            "emailaddress": "",
+             "logo": "",
+            "description": ""
+        },
+        {
+            "company": "Sika",
+            "contact": "",
+            "address": "201 Polito Ave",
+            "city": "Lyndhurst",
+            "state": "NJ",
+            "country": "",
+            "zip": "07071",
+            "phone1": "201-508-6796",
+            "phone2": "",
+            "fax": "201-933-6225",
+            "link": "http://www.sikausa.com",
+            "website": "www.sikausa.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Sika-Logo-150x150.jpg",
+            "description": ""
+        }
+    ]
+}

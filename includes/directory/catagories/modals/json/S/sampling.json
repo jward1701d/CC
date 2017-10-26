@@ -1,0 +1,55 @@
+{
+    "businesses": [
+         {
+            "company": "Johnson Industries, Inc.",
+            "contact": "",
+            "address": "101 Pine Fork",
+            "city": "Pikeville",
+            "state": "KY",
+            "country": "",
+            "zip": "40501",
+            "phone1": "606-639-2029",
+            "phone2": "",
+            "fax": "606-639-0259",
+            "link": "http://www.johnsonindustries.com",
+            "website": "www.johnsonindustries.com",
+            "emailaddress": "",
+             "logo": "",
+            "description": ""
+        },
+        {
+            "company": "McLanahan Corporation",
+            "contact": "",
+            "address": "200 Wall St",
+            "city": "Hollidaysburg",
+            "state": "PA",
+            "country": "",
+            "zip": "16648",
+            "phone1": "814-695-9807",
+            "phone2": "",
+            "fax": "814-695-6684",
+            "link": "http://www.mclanahan.com",
+            "website": "www.mclanahan.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/150-Wide-Logo.jpg",
+            "description": "Since 1835, McLanahan Corporation has provided custom engineered processing solutions for a wide variety of mineral processing applications. Their highly skilled staff designs, manufactures and services equipment used for crushing, screening, feeding, breaking, washing, classifying, dewatering, scrubbing, sizing and more."
+        },
+        {
+            "company": "Precision Samplers, Inc.",
+            "contact": "",
+            "address": "147 11th Ave",
+            "city": "S Charleston",
+            "state": "WV",
+            "country": "",
+            "zip": "25303",
+            "phone1": "304-744-5534",
+            "phone2": "",
+            "fax": "304-744-3113",
+            "link": "http://www.precisionsamplers.com",
+            "website": "www.precisionsamplers.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Precision-Sampler-Inc.-Logo.jpg",
+            "description": ""
+        }
+    ]
+}

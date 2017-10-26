@@ -1,0 +1,38 @@
+{
+    "businesses": [
+         {
+            "company": "Huntington Steel",
+            "contact": "",
+            "address": "155 Thacker Road",
+            "city": "Pikeville",
+            "state": "KY",
+            "country": "",
+            "zip": "41501",
+            "phone1": "606-432-0354",
+            "phone2": "",
+            "fax": "606-432-0355",
+            "link": "http://www.huntingtonsteel.com",
+            "website": "www.huntingtonsteel.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Huntington-Steel-Logo-150x150.jpg",
+            "description": "Branch Manager: Ruth Tackett"
+        },
+        {
+            "company": "Jabo Supply Corp.",
+            "contact": "",
+            "address": "PO Box 238",
+            "city": "Huntington",
+            "state": "WV",
+            "country": "",
+            "zip": "25707",
+            "phone1": "304-736-8333",
+            "phone2": "",
+            "fax": "304-736-8551",
+            "link": "http://www.jabosupply.com",
+            "website": "www.jabosupply.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/",
+            "description": "Jabo Supply has been supplying pipe, valves, and fittings for industrial and individual applications for many years. These include Chemical companies, Power Plants, Coal Mines, Utilities and Mechanical and Plumbing Contractors."
+        }
+    ]
+}

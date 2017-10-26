@@ -1,0 +1,72 @@
+{
+    "businesses": [
+         {
+            "company": "Astec Mining",
+            "contact": "",
+            "address": "1910 N Industrial Drive",
+            "city": "Mequon",
+            "state": "WI",
+            "country": "",
+            "zip": "53092",
+            "phone1": "262-242-6600",
+            "phone2": "",
+            "fax": "262-242-5812",
+            "link": "http://www.astecindustries.com",
+            "website": "www.astecindustries.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Astec-Logo-150x71.png",
+            "description": ""
+        },
+        {
+            "company": "Blastcrete Equipment Co",
+            "contact": "",
+            "address": "2000 Cobb Avenue",
+            "city": "Anniston",
+            "state": "AL",
+            "country": "",
+            "zip": "36202",
+            "phone1": "800-235-4867",
+            "phone2": "",
+            "fax": "256-236-9824",
+            "link": "http://www.blastcrete.com",
+            "website": "www.blastcrete.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Blastcrete-Logo-150x47.png",
+            "description": ""
+        },
+        {
+            "company": "Multicrete Systems, Inc.",
+            "contact": "",
+            "address": "Unit-9 106 DeVos Road",
+            "city": "Winnipeg",
+            "state": "",
+            "country": "Canada",
+            "zip": "MB R3T 5YI",
+            "phone1": "204-262-5900",
+            "phone2": "",
+            "fax": "204-262-5909",
+            "link": "http://www.multicretesystems.com",
+            "website": "www.multicretesystems.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Multicrete-Logo-150x132.png",
+            "description": ""
+        },
+        {
+            "company": "Putzmeister",
+            "contact": "",
+            "address": "1733 90th St",
+            "city": "Sturtevant",
+            "state": "WI",
+            "country": "",
+            "zip": "53177",
+            "phone1": "800-884-7210",
+            "phone2": "",
+            "fax": "262-884-6338",
+            "link": "http://www.putzmeisteramerica.com",
+            "website": "www.putzmeisteramerica.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Putzmeister-Logo-150x13.jpg",
+            "description": ""
+        }
+    ]
+}

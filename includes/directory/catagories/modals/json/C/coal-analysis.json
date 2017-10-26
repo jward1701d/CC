@@ -1,0 +1,38 @@
+{
+    "businesses": [
+         {
+            "company": "McLanahan Corporation",
+            "contact": "",
+            "address": "200 Wall St ",
+            "city": "Hollidaysburg",
+            "state": "PA",
+            "country": "",
+            "zip": "16648",
+            "phone1": "814-695-9807",
+            "phone2": "",
+            "fax": "814-695-6684",
+            "link": "http://www.mclanahan.com",
+            "website": "www.mclanahan.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/150-Wide-Logo.jpg",
+            "description": "Since 1835, McLanahan Corporation has provided custom engineered processing solutions for a wide variety of mineral processing applications. Their highly skilled staff designs, manufactures and services equipment used for crushing, screening, feeding, breaking, washing, classifying, dewatering, scrubbing, sizing and more."
+        },
+        {
+            "company": "Mineral Labs",
+            "contact": "Brad Lyons",
+            "address": "309 Pkwy Drive",
+            "city": "Salyersville",
+            "state": "KY",
+            "country": "",
+            "zip": "41465",
+            "phone1": "606-349-6145",
+            "phone2": "",
+            "fax": "606-349-6106",
+            "link": "http://www.minerallabs.com",
+            "website": "www.minerallabs.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Mineral-Labs-Logo-150x41.jpg",
+            "description": ""
+        }
+    ]
+}

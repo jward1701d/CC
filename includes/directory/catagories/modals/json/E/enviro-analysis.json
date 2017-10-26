@@ -1,0 +1,38 @@
+{
+    "businesses": [
+         {
+            "company": "Conjun Laboratories",
+            "contact": "",
+            "address": "PO Box 187",
+            "city": "Isom",
+            "state": "KY",
+            "country": "",
+            "zip": "41824",
+            "phone1": "606-633-8027",
+            "phone2": "",
+            "fax": "606-633-7390",
+            "link": "",
+            "website": "",
+            "emailaddress": "",
+             "logo": "",
+            "description": "Janet Madden (Manager)"
+        },
+        {
+            "company": "Standards Laboratories, Inc.",
+            "contact": "",
+            "address": "147 11th Ave ",
+            "city": "South Charleston",
+            "state": "WV",
+            "country": "",
+            "zip": "25303",
+            "phone1": "304-755-0536",
+            "phone2": "",
+            "fax": "",
+            "link": "http://www.standardenvironmental.net",
+            "website": "www.standardenvironmental.net",
+            "emailaddress": "",
+             "logo": "",
+            "description": ""
+        }
+    ]
+}

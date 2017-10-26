@@ -1,0 +1,38 @@
+{
+    "businesses": [
+         {
+            "company": "ABCO Security Systems, Inc.",
+            "contact": "",
+            "address": "3117 KY RT 321",
+            "city": "Prestonsburg",
+            "state": "KY",
+            "country": "",
+            "zip": "41653",
+            "phone1": "606-886-6586",
+            "phone2": "800-926-6021",
+            "fax": "",
+            "link": "http://www.abcosecuritysystems.com",
+            "website": "www.abcosecuritysystems.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/abco_security_logo.jpg",
+            "description": ""
+        },
+         {
+            "company": "Pillar Innovations, LLC",
+            "contact": "",
+            "address": "164 Corporate Drive",
+            "city": "Grantsville",
+            "state": "MD",
+            "country": "",
+            "zip": "21536",
+            "phone1": "877-MY-PILLAR",
+            "phone2": "",
+            "fax": "",
+            "link": "http://www.pillarinnovations.com",
+            "website": "www.pillarinnovations.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Pillar-Innovations-logo-150x49.jpg",
+            "description": "A dynamic mine requires dynamic support to stay on top of new technology and MSHA legislation. Pillar Innovations is a recognized leader in mine support, serving customers nationwide out of six state-of-the-art sales and service facilities. Throughout the company’s history, Pillar has been a pioneer of many new technologies in the industry. Pillar prides itself on being a company that delivers superior systems and superior service long after the sale."
+        }
+    ]
+}

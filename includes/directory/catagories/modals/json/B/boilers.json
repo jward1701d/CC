@@ -1,0 +1,72 @@
+{
+    "businesses": [
+         {
+            "company": "Bradley Corporation",
+            "contact": "",
+            "address": "W142 N9101 Fountain Boulevard",
+            "city": " Menomonee Falls",
+            "state": "WI",
+            "country": "",
+            "zip": "53051",
+            "phone1": "800-272-3539",
+            "phone2": "",
+            "fax": "262-251-5817",
+            "link": "http://www.bradleycorp.com",
+            "website": "www.bradleycorp.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Bradley-Corporation-Logo-150x150.png",
+            "description": ""
+        },
+        {
+            "company": "Heatec, Inc.",
+            "contact": "",
+            "address": "5200 Wilson Rd",
+            "city": "Chattanooga",
+            "state": "TN",
+            "country": "",
+            "zip": "37410",
+            "phone1": "423-82-5200",
+            "phone2": "",
+            "fax": "423-821-7673",
+            "link": "http://www.heatec.com",
+            "website": "www.heatec.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Heatec-Logo-150x64.gif",
+            "description": ""
+        },
+        {
+            "company": "SubCom",
+            "contact": "",
+            "address": "680 Raymur Ave",
+            "city": "Vancouver",
+            "state": "BC",
+            "country": "Canada",
+            "zip": "V6A 2R1",
+            "phone1": "604-254-0461",
+            "phone2": "",
+            "fax": "604-254-6377",
+            "link": "http://www.improheat.com",
+            "website": "www.improheat.com",
+            "emailaddress": "",
+             "logo": "",
+            "description": ""
+        },
+        {
+            "company": "Wabash Power Equipment Company",
+            "contact": "",
+            "address": "444 Carpenter Avenue ",
+            "city": "Wheeling",
+            "state": "IL",
+            "country": "",
+            "zip": "60090",
+            "phone1": "847-541-5600 ",
+            "phone2": "",
+            "fax": "847-541-1279",
+            "link": "http://www.wabashpower.com",
+            "website": "www.wabashpower.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/untitled-150x84.png",
+            "description": "Since 1950, Wabash has supplied thousands of boilers for installation around the world with unique solutions from order to start-up. We maintain a huge inventory of boilers, auxiliaries and generating equipment in our strategically placed warehouses and headquarters in Wheeling, Illinois. Our power generation equipment is built for us by leading manufacturers employing professionally licensed engineers and trained, certified craftsman to meet fabrication and code standards. It is dependable and efficient, incorporating the latest proven designs, innovations and emissions technologies. There is absolutely no substitute for experience. Wabash can put our 60 years of experience to work for you. We deliver powerful, personalized service. From the moment you contact us, our utmost concern is providing technical and logistical solutions that precisely meet your application from our vast in-stock inventory. We understand that “downtime is money,” so we strive to deliver the fastest response time. Our engineering and sales staff analyzes your needs, offers the best immediate in-stock equipment solutions and delivers within your time frame – whether to meet an emergency, aggressive deadline, or anticipated, scheduled outage. Satisfaction is our highest concern from initial inquiry to installation, start-up and continued support 24/7. You need high quality, responsive technical services. Wabash delivers through its relationships with start-up service organizations, mechanical contractors and specialized carriers. Wabash Delivers … with speed, dependability, smarts, inventory, market knowledge and compassion!"
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "businesses": [
+         {
+            "company": "American Ecotech",
+            "contact": "",
+            "address": "100 Elm Street Factory D",
+            "city": "Warren",
+            "state": "RI",
+            "country": "",
+            "zip": "02885",
+            "phone1": "877-247-0403",
+            "phone2": "",
+            "fax": "401-537-9166",
+            "link": "http://www.americanecotech.com",
+            "website": "www.americanecotech.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/American-Ecotech-Logo-150x74.png",
+            "description": "*World Class Air Monitoring Systems*"
+        },
+        {
+            "company": "Pyott-Boone Electronics",
+            "contact": "",
+            "address": "1459 Wittens Mills Rd",
+            "city": "N Tazewell",
+            "state": "VA",
+            "country": "",
+            "zip": "24630",
+            "phone1": "276-988-5505",
+            "phone2": "",
+            "fax": "276-988-5892",
+            "link": "http://www.pyottboone.com",
+            "website": "www.pyottboone.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Pyott-Boone-Electronics-Logo-150x59.png",
+            "description": ""
+        },
+        {
+            "company": "Strata Products Worldwide, LLC",
+            "contact": "",
+            "address": "8995 Roswell Road",
+            "city": "Sandy Springs",
+            "state": "GA",
+            "country": "",
+            "zip": "30350",
+            "phone1": "770-321-2500 ",
+            "phone2": "",
+            "fax": "770-321-2520",
+            "link": "http://www.strataworldwide.com",
+            "website": "www.strataworldwide.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/STRATA_LOGO_2c-large-150x93.jpg",
+            "description": "Strata Worldwide, LLC is a global leader in mine safety products and technologies that promote a safer, more productive working environment above and below ground."
+        }
+    ]
+}

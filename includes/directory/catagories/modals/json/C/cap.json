@@ -1,0 +1,56 @@
+{
+    "businesses": [
+         {
+            "company": "JGB Enterprises, Inc.",
+            "contact": "",
+            "address": "115 Metropolitan Dr ",
+            "city": "Liverpool",
+            "state": "NY",
+            "country": "",
+            "zip": "13088",
+            "phone1": "315-451-2770 ",
+            "phone2": "",
+            "fax": "315-451-8503",
+            "link": "http://www.jgbhose.com",
+            "website": "www.jgbhose.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/jgb-2014-150x150.jpg",
+            "description": ""
+        },
+        {
+            "company": "United Mining Equipment",
+            "contact": "",
+            "address": "885 Pittsburgh Rd",
+            "city": " Butler",
+            "state": "PA",
+            "country": "",
+            "zip": "16002",
+            "phone1": "724-586-0195",
+            "phone2": "",
+            "fax": "724-586-0197",
+            "link": "http://www.unitedminingequipment.com",
+            "website": "www.unitedminingequipment.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/UME_yellow_clear-Logo-150x84.png",
+            "description": "United Mining Equipment (UME) is a growing international company within the coal mining industry. Since 1993 UME has been headquartered outside of Pittsburgh, PA. UME has a global presence with a location in Baotou, China. While offering innovative products from other leaders in the mining industry UME has a full lineup of their own. Hydraulics, electronics and cables are all designed in house and serviced by some of the most experienced staff in the business. Please visit our website at <a href='umeinc.com' target='_blank'>www.umeinc.com.</a>"
+        },
+        {
+            "company": "Victor Products Usa, Inc.",
+            "contact": "",
+            "address": "322 Commerce Park Dr ",
+            "city": "Cranberry Township",
+            "state": "PA",
+            "country": "",
+            "zip": "16066",
+            "phone1": "724-776-4900",
+            "phone2": "",
+            "fax": "",
+            "link": "http://www..victorproductsusa.com",
+            "website": "www..victorproductsusa.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Victor-Products_Logo-150x68.png",
+            "description": ""
+        }
+        
+    ]
+}

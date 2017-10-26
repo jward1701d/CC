@@ -1,0 +1,21 @@
+{
+    "businesses": [
+         {
+            "company": "Universal Toxicology",
+            "contact": "Brad Lyon",
+            "address": "Parkway Drive",
+            "city": "Salyersville",
+            "state": "KY",
+            "country": "",
+            "zip": "41464",
+            "phone1": "606-349-5974",
+            "phone2": "",
+            "fax": "606-349-5976",
+            "link": "http://www.universaltox.com",
+            "website": "www.universaltox.com",
+            "emailaddress": "",
+             "logo": "",
+            "description": ""
+        }
+    ]
+}

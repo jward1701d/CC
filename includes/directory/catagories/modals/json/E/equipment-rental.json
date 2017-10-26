@@ -1,0 +1,72 @@
+{
+    "businesses": [
+         {
+            "company": "Antraquip Corporation",
+            "contact": "",
+            "address": "758 Bowan Avenue",
+            "city": "Hagerstown",
+            "state": "MD",
+            "country": "",
+            "zip": "21740",
+            "phone1": "301-665-1165",
+            "phone2": "",
+            "fax": "301-665-9079",
+            "link": "http://www.antraquip.net",
+            "website": "www.antraquip.net",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Antraquip-Corporation-Logo.png",
+            "description": ""
+        },
+        {
+            "company": "Pittman Mine Service, LLC",
+            "contact": "Raymond Pittman",
+            "address": "2878 North State Road 59",
+            "city": "Linton",
+            "state": "IN",
+            "country": "",
+            "zip": "47441",
+            "phone1": "812-847-2340",
+            "phone2": "",
+            "fax": "812-847-2360",
+            "link": "http://www.pittmanms.com",
+            "website": "www.pittmanms.com",
+            "emailaddress": "",
+             "logo": "",
+            "description": ""
+        },
+        {
+            "company": "Sunbelt Rentals",
+            "contact": "",
+            "address": "1716 Pennsylvania Ave",
+            "city": "Charleston",
+            "state": "WV",
+            "country": "",
+            "zip": "25302",
+            "phone1": "304-342-5000",
+            "phone2": "",
+            "fax": "304-342-8829",
+            "link": "http://www.sunbeltrentals.com",
+            "website": "www.sunbeltrentals.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Sunbelt-Rentals-Logo-150x150.png",
+            "description": ""
+        },
+        {
+            "company": "United Rentals",
+            "contact": "Michael Abbey",
+            "address": "6929 E Greenway Pkwy 200",
+            "city": "Scottsdale",
+            "state": "AZ",
+            "country": "",
+            "zip": "85254",
+            "phone1": "480-322-5809",
+            "phone2": "",
+            "fax": "480-609-2068",
+            "link": "http://www.unitedrentals.com",
+            "website": "www.unitedrentals.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/United-Rentals-Logo-150x112.png",
+            "description": ""
+        }
+    ]
+}

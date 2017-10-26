@@ -1,0 +1,2 @@
+<a href="content/news/industry/HAWE_Announces_New_Divison_HSS.pdf" target="_blank"><span class = "glyphicon glyphicon-arrow-right"></span> 05-29-15 HAWE Announces New Division HSS </a></br>	  
+<a href="content/news/industry/Post11_Results.pdf" target="_blank"><span class = "glyphicon glyphicon-arrow-right"></span> 05-12-15 Post 11 Mine Rescue contest results </a>	

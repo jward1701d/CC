@@ -1,0 +1,20 @@
+{
+    "businesses": [
+         {
+            "company": "Slogan Systems",
+            "address": "300 Mt. Lebanon Blvd ",
+            "city": "Pittsburgh",
+            "state": "PA",
+            "country": "",
+            "zip": "15234",
+            "phone1": "412-563-3947",
+            "phone2": "",
+            "fax": "412-563-3950",
+            "link": "http://www.sloganengineering.com",
+            "website": " www.sloganengineering.com",
+            "logo": "includes/directory/catagories/modals/logos/Slogan-Systems-Logo-150x42.jpg",
+            "description": ""
+        }
+        
+    ]
+}

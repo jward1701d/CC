@@ -1,0 +1,21 @@
+{
+    "businesses": [
+         {
+            "company": "West Virginia Electrical Industries, Inc.",
+            "contact": "",
+            "address": "2011 Pleasant Valley Rd ",
+            "city": "Fairmont",
+            "state": "WV",
+            "country": "",
+            "zip": "26554",
+            "phone1": "304-363-6900",
+            "phone2": "",
+            "fax": "304-366-6356",
+            "link": "http://www.wvelectric.com",
+            "website": "www.wvelectric.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/WV-Electric-Logo-150x42.png",
+            "description": ""
+        }
+    ]
+}

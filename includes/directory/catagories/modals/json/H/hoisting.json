@@ -1,0 +1,72 @@
+{
+    "businesses": [
+         {
+            "company": "Advance Products & Systems, Inc.",
+            "contact": "",
+            "address": "PO Box 60399",
+            "city": "Lafayette",
+            "state": "LA",
+            "country": "",
+            "zip": "70596",
+            "phone1": "337-233-6116 ",
+            "phone2": "",
+            "fax": "337-232-3860",
+            "link": "http://www.apsonline.com",
+            "website": "www.apsonline.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Advanced-Products-Systems-Logo-150x80.png",
+            "description": ""
+        },
+        {
+            "company": "Columbus McKinnon Corp",
+            "contact": "",
+            "address": "140 John James Audubon Pkwy ",
+            "city": "Amherst",
+            "state": "NY",
+            "country": "",
+            "zip": "14288",
+            "phone1": "716-689-5400",
+            "phone2": "",
+            "fax": "716-689-5644",
+            "link": "http://www.cmworks.com",
+            "website": " www.cmworks.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Columbus-McKinnon-Logo-150x68.png",
+            "description": ""
+        },
+        {
+            "company": "FKC-Lake Shore",
+            "contact": "Roger Cherry",
+            "address": "1695 Allen Rd",
+            "city": "Evansville",
+            "state": "IN",
+            "country": "",
+            "zip": "47710",
+            "phone1": "812-602-2240",
+            "phone2": "877-554-8600 ",
+            "fax": "812-425-3186",
+            "link": "http://www.frontierkemper.com",
+            "website": "www.frontierkemper.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/FKLS-Logo.jpg",
+            "description": "FKC-Lake Shore offers design-build-install services for innovative hoisting, elevator, and vertical conveyance systems used to transport personnel and material.  Our Field Services Division provides 24/7 emergency repair of electrical and mechanical systems.  Products & Services:  Vertical Belts, Skips, Hoists, Sheaves, Elevators, Cages, Headframes, Brakeman Cars, Controls, Field Services, and Wire Rope NDT."
+        },
+        {
+            "company": "Western Sling & Supply Co.",
+            "contact": "",
+            "address": "5453 N Peterson Rd",
+            "city": "Sedalia",
+            "state": "CO",
+            "country": "",
+            "zip": "80135",
+            "phone1": "800-748-2651",
+            "phone2": "307-235-4747",
+            "fax": "",
+            "link": "http://www.westernsling.com",
+            "website": "www.westernsling.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Western-Sling-Supply-Logo.png",
+            "description": ""
+        }
+    ]
+}

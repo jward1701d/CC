@@ -1,0 +1,55 @@
+{
+    "businesses": [
+         {
+            "company": "Bergstrom, Inc.",
+            "contact": "",
+            "address": "2390 Blackhawk Road",
+            "city": "Rockford",
+            "state": "IL",
+            "country": "",
+            "zip": "61125",
+            "phone1": "815-873-4420",
+            "phone2": "",
+            "fax": "815-873-2144",
+            "link": "http://www.bergstrominc.com",
+            "website": "www.bergstrominc.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/bergstrom-logo-150x36.gif",
+            "description": ""
+        },
+        {
+            "company": "Delta Supply, Inc.",
+            "contact": "Renea Tackett",
+            "address": "455 Hambley Blvd",
+            "city": "Pikeville",
+            "state": "KY",
+            "country": "",
+            "zip": "41501",
+            "phone1": "606-432-0787",
+            "phone2": "",
+            "fax": "",
+            "link": "",
+            "website": "",
+            "emailaddress": "",
+             "logo": "",
+            "description": ""
+        },
+        {
+            "company": "Ingersoll Rand",
+            "contact": "",
+            "address": "800-B Beaty Street",
+            "city": "Davidson",
+            "state": "NC",
+            "country": "",
+            "zip": "28036",
+            "phone1": "704-655-4000",
+            "phone2": "",
+            "fax": "",
+            "link": "http://www.ingersollandproducts.com",
+            "website": "www.ingersollandproducts.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Ingersoll-Rand-Logo-150x95.png",
+            "description": ""
+        }
+    ]
+}

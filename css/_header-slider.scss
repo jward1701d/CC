@@ -1,0 +1,71 @@
+@media screen and (max-width: 320px){
+    .carousal-container{
+        background: $header-carousal-bg;
+        margin: 58px 0 0 0;
+        padding: 0;
+        border-bottom: 2px solid $border-color;
+        margin-bottom: 2px;
+    }
+}
+
+@media screen and (min-width: 321px) and (max-width: 480px){
+    .carousal-container{
+        background: $header-carousal-bg;
+        margin: 78px 0 0 0;
+        padding: 0;
+        border-bottom: 2px solid $border-color;
+        margin-bottom: 2px;
+    }
+}
+
+@media screen and (min-width: 481px) and (max-width: 640px){
+    .carousal-container{
+        background: $header-carousal-bg;
+        margin: 90px 0 0 0;
+        padding: 0;
+        border-bottom: 2px solid $border-color;
+        margin-bottom: 2px;
+    }
+}
+
+
+@media screen and (min-width: 641px) and (max-width: 767px){
+   .carousal-container{
+        background: $header-carousal-bg;
+        margin: 115px 0 0 0;
+        padding: 0;
+        border-bottom: 2px solid $border-color;
+        margin-bottom: 2px;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1095px){//(max-width: 1210px){
+   .carousal-container{
+        background: $header-carousal-bg;
+        margin: 130px 0 0 0;
+        padding: 0;
+        border-bottom: 2px solid $border-color;
+        margin-bottom: 2px;
+    }
+}
+
+@media screen and (min-width: 1096px) and (max-width: 1210px){
+    .carousal-container{
+        background: $header-carousal-bg;
+        margin: 70px 0 0 0;
+        padding: 0;
+        border-bottom: 2px solid $border-color;
+        margin-bottom: 2px;
+    }
+}
+
+@media screen and (min-width: 1211px) and (max-width: 1920px){
+    .carousal-container{
+        background: $header-carousal-bg;
+        margin: 100px 0 0 0;
+        padding: 0;
+        border-bottom: 2px solid $border-color;
+        margin-bottom: 2px;
+    }
+}
+

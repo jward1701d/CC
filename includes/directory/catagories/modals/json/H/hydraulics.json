@@ -1,0 +1,38 @@
+{
+    "businesses": [
+         {
+            "company": "Spencer Fluid Power",
+            "contact": "",
+            "address": "2700 N Highway 1416",
+            "city": "Gillette",
+            "state": "WY",
+            "country": "",
+            "zip": "82716",
+            "phone1": "307-682-5858",
+            "phone2": "",
+            "fax": "307-687-2040",
+            "link": "http://www.spencerfluidpower.com",
+            "website": "www.spencerfluidpower.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Spencer-Fluid-Power-Logo.png",
+            "description": ""
+        },
+        {
+            "company": "Texas Hydraulics, Inc.",
+            "contact": "",
+            "address": "3410 Range Rd",
+            "city": "Temple",
+            "state": "TX",
+            "country": "",
+            "zip": "76503",
+            "phone1": "254-778-4701",
+            "phone2": "",
+            "fax": "254-774-9940",
+            "link": "http://www.texashydraulics.com",
+            "website": "www.texashydraulics.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Texas-Hydraulics-Logo-150x75.png",
+            "description": ""
+        }
+    ]
+}

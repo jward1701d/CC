@@ -1,0 +1,38 @@
+{
+    "businesses": [
+         {
+            "company": "Advanced Designs Corp.",
+            "contact": "",
+            "address": "1169 W Second Street",
+            "city": "Bloomington",
+            "state": "IN",
+            "country": "",
+            "zip": "47403",
+            "phone1": "812-333-1922",
+            "phone2": "",
+            "fax": "812-333-2030",
+            "link": "http://www.doprad.com",
+            "website": "www.doprad.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Advanced-Designs-Corporation-Logo.png",
+            "description": ""
+        },
+         {
+            "company": "Anything Weather",
+            "contact": "Preston Brown",
+            "address": "41-701 Corporate Way Suite 6",
+            "city": "Pail Desert",
+            "state": "CA",
+            "country": "",
+            "zip": "92210",
+            "phone1": "800-470-8019",
+            "phone2": "",
+            "fax": "866-741-2896",
+            "link": "http://www.anythingweather.com",
+            "website": "www.anythingweather.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Anything-Weather-Logo-150x48.jpg",
+            "description": "AnythingWeather Communications™, Inc. (AW) has spent 10 years building custom weather services and applications utilizing an arsenal of weather data collected from thousands of sources. AW utilizes this vast resource of data to deliver unique and targeted services with an extremely personal touch. AW is operated by meteorologists and developers with extensive experience in the private weather industry. Our business revolves around creating new services using the latest technology, mostly in a Web 2.0 environment. By listening closely to our client’s business strategy, we build custom solutions to increase the bottom line. AW offers exclusive services to various industries, including:  HailWatch storm reporting and marketing services to roofing, dent repair and insurance agencies. Details are available at hailwatch.com.  Weather station and webcam network consultation, development, installation and operation for government and business. AW also developed and sells an exclusive industrial strength weather station and webcam combo package called the AnythingWeather System™.  Weather data collection, archival, display and dissemination from individuals, businesses and government agencies.   On-line weather merchandise targeted at Skywarn storm spotters, storm chasers and weather enthusiasts. Our on-line store is available atAnythingWeatherStore.com.  Severe weather alerting services based on severe thunderstorms, tornadoes, flash floods, lightning, winter storms, and even specific weather variables like extreme heat or cold or maximum wind gusts. More details are available at SevereAlerts.com."
+        }
+    ]
+}

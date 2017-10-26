@@ -1,0 +1,55 @@
+{
+    "businesses": [
+         {
+            "company": "GE Fairchild, LLC",
+            "contact": "",
+            "address": "200 Fairchild Lane",
+            "city": "Gleen Lyn",
+            "state": "VA",
+            "country": "",
+            "zip": "24093",
+            "phone1": "540-726-2380",
+            "phone2": "",
+            "fax": "540-726-2388",
+            "link": "http://www.fairchildint.com",
+            "website": "www.fairchildint.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/ge-transportation-logo.png",
+            "description": ""
+        },
+        {
+            "company": "Pioneer Conveyor",
+            "contact": "Harry Donaldson, Sales Manager",
+            "address": "32 Enterprise Drive",
+            "city": "Oakland",
+            "state": "MD",
+            "country": "",
+            "zip": "21550",
+            "phone1": "301.334.8186",
+            "phone2": "",
+            "fax": "301.334.8698",
+            "link": "http://www.pioneerconveyor.com",
+            "website": "www.pioneerconveyor.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/PIONEER_LOGO-used-150x31.jpg",
+            "description": "Pioneer Conveyor is a leading bulk material conveyor manufacturing firm serving customers throughout North America. Pioneer has designed and manufactured thousands of standard and custom conveyor systems for a multitude of applications. Pioneer Conveyor, a certified CEMA (Conveyor Equipment Manufacturers Association) member, manufacturing CEMA B,C,D, and E conveyor products in standard and custom belt widths."
+        },
+        {
+            "company": "S&S Slides",
+            "contact": "",
+            "address": "11771 State Rd 85",
+            "city": "Kittanning",
+            "state": "PA",
+            "country": "",
+            "zip": "16201",
+            "phone1": "724-545-2001",
+            "phone2": "",
+            "fax": "724-584-2009",
+            "link": "http://www.ssslides.com",
+            "website": "",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/2011-SS-Slides-Logo-2-150x194.jpg",
+            "description": ""
+        }
+    ]
+}

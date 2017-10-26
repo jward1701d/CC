@@ -1,0 +1,55 @@
+{
+    "businesses": [
+         {
+            "company": "Anthracite Welding & Fab",
+            "contact": "",
+            "address": "PO Box 187",
+            "city": "Summitt Hill",
+            "state": "PA",
+            "country": "",
+            "zip": "18250",
+            "phone1": "570-386-2933",
+            "phone2": "",
+            "fax": "",
+            "link": "http://www.antweld.com",
+            "website": "www.antweld.com",
+            "emailaddress": "",
+             "logo": "",
+            "description": ""
+        },
+        {
+            "company": "Century Elevators",
+            "contact": "",
+            "address": "12130 Old Galveston Rd",
+            "city": "Webster",
+            "state": "TX",
+            "country": "",
+            "zip": "77598",
+            "phone1": "281-667-3000",
+            "phone2": "",
+            "fax": "",
+            "link": "http://www.centuryelevators.com",
+            "website": "www.centuryelevators.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Century-Elevators-Logo-150x24.png",
+            "description": ""
+        },
+        {
+            "company": "Feeco International, Inc.",
+            "contact": "",
+            "address": "3913 Algoma Rd",
+            "city": "Green Bay",
+            "state": "WI",
+            "country": "",
+            "zip": "54311",
+            "phone1": "920-468-1000",
+            "phone2": "",
+            "fax": "",
+            "link": "http://www.feeco.com",
+            "website": "www.feeco.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Feco-International-Logo-150x140.png",
+            "description": ""
+        }
+    ]
+}

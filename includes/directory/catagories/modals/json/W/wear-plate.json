@@ -1,0 +1,38 @@
+{
+    "businesses": [
+         {
+            "company": "Alloy Steel International",
+            "contact": "",
+            "address": "93 Mulgul Rd.",
+            "city": "Malaga",
+            "state": "",
+            "country": "Australia",
+            "zip": "",
+            "phone1": "61-892483188",
+            "phone2": "",
+            "fax": "61-892483166",
+            "link": "http://www.alloysteel.net",
+            "website": "www.alloysteel.net",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Alloy-Steel-International-Logo-150x46.png",
+            "description": ""
+        },
+         {
+            "company": "Associated Steel Corp.",
+            "contact": "",
+            "address": "18200 Miles Ave",
+            "city": "Cleveland",
+            "state": "OH",
+            "country": "",
+            "zip": "44128",
+            "phone1": "216-475-8000",
+            "phone2": "800-441-9303",
+            "fax": "",
+            "link": "http://www.associatedsteel.com",
+            "website": "www.associatedsteel.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Associated-Steel-Corp-Logo-150x58.gif",
+            "description": ""
+        }
+    ]
+}

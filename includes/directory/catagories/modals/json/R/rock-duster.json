@@ -1,0 +1,21 @@
+{
+    "businesses": [
+         {
+            "company": "HafcoVac",
+            "contact": "",
+            "address": "301 Greenwood Avenue",
+            "city": "Midland Park",
+            "state": "NJ",
+            "country": "",
+            "zip": "07432",
+            "phone1": "201-255-7565",
+            "phone2": "",
+            "fax": "201-447-1065",
+            "link": "",
+            "website": "",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/HafcoVac-Logo-150x26.png",
+            "description": ""
+        }
+    ]
+}

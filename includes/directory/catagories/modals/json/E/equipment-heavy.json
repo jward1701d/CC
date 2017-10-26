@@ -1,0 +1,21 @@
+{
+    "businesses": [
+         {
+            "company": "Boyd & Sons Machinery",
+            "contact": "Kevin Stephens",
+            "address": "16 S 350 E",
+            "city": "Washington",
+            "state": "IN",
+            "country": "",
+            "zip": "47501",
+            "phone1": "800-443-3909",
+            "phone2": "",
+            "fax": "812-254-7093",
+            "link": "http://www.boydtracks.com",
+            "website": "www.boydtracks.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/boyd_logo_med_1.jpg",
+            "description": "We here at Boyd and Sons Machinery have elected to use the most proven undercarriage manufacturers in the world today. Our employees combine for over 200 years experience in selling and servicing undercarriage parts for the mining and construction industries.  Why not use undercarriage from the same manufacturers that most OEMs use?  There is only one way to do it and that is by insisting on only genuine undercarriage parts from Boyd and Sons Machinery!</br></br>IN & KY Coal Sales: Mike Rodich           Cell: 812-486-8436</br>IL Coal Sales: Brock Warren                  Cell: 812-787-0490</br>Sales: Jim Stoll          Cell: 812-486-5906</br>Sales: Mike Reinking                              Cell: 812-480-2459"
+        }
+    ]
+}

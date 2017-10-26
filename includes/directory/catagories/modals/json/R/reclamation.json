@@ -1,0 +1,21 @@
+{
+    "businesses": [
+         {
+            "company": "DelHur Industries, Inc.",
+            "contact": "",
+            "address": "30607 Oldfield Street",
+            "city": "Hermiston",
+            "state": "OR",
+            "country": "",
+            "zip": "97838",
+            "phone1": "541-567-8693",
+            "phone2": "888-335-4873",
+            "fax": "",
+            "link": "http://www.delhur.com",
+            "website": "www.delhur.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Delhur-Industries-Logo-150x89.jpg",
+            "description": "DelHur Industries is a full service heavy civil general contractor with over 45 years of experience.  DelHur provides mine site development, construction, and reclamation services for mine owners and operators including site preparation, infrastructure, roads, utilities, buildings, heap leach pads, tailings facilities, ponds, stormwater systems, piping, hauling, and aggregate processing.</br></br>*Offices in WA, OR, Co and TX*"
+        }
+    ]
+}

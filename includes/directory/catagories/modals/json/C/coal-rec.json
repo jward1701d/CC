@@ -1,0 +1,21 @@
+{
+    "businesses": [
+         {
+            "company": "Coalview",
+            "contact": "David Henry",
+            "address": "4185 Glades Pike Road",
+            "city": "Somerset",
+            "state": "PA",
+            "country": "",
+            "zip": "15501",
+            "phone1": "814-443-6454",
+            "phone2": "",
+            "fax": " 814-443-6459",
+            "link": "http://www.coalview.com",
+            "website": "www.coalview.com",
+            "emailaddress": "",
+             "logo": "",
+            "description": ""
+        }
+    ]
+}

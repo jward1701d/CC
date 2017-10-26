@@ -1,0 +1,38 @@
+{
+    "businesses": [
+         {
+            "company": "Cowin & Company, Inc.",
+            "contact": "",
+            "address": "PO Box 19009",
+            "city": "Birmingham",
+            "state": "AL",
+            "country": "",
+            "zip": "35219",
+            "phone1": "205-451-1792",
+            "phone2": "",
+            "fax": "205-945-144",
+            "link": "http://www.cowin-co.com",
+            "website": "www.cowin-co.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Cowin-logo-large-square2-used.jpg",
+            "description": "Mining Engineers and Contractors"
+        },
+        {
+            "company": "Frontier-Kemper Constructors, Inc.",
+            "contact": "",
+            "address": "1695 Allen Rd",
+            "city": "Evansville",
+            "state": "IN",
+            "country": "",
+            "zip": "47711",
+            "phone1": "812-426-2741",
+            "phone2": "",
+            "fax": "812-428-0337",
+            "link": "http://www.frontierkemper.com",
+            "website": "www.frontierkemper.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Frontier-Kemper-Logo-150x92.png",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "businesses": [
+         {
+            "company": "McLanahan Corporation",
+            "contact": "",
+            "address": "200 Wall St",
+            "city": "Hollidaysburg",
+            "state": "PA",
+            "country": "",
+            "zip": "16648",
+            "phone1": "814-695-9807",
+            "phone2": "",
+            "fax": "814-695-6684",
+            "link": "http://www.mclanahan.com",
+            "website": "www.mclanahan.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/150-Wide-Logo.jpg",
+            "description": "Since 1835, McLanahan Corporation has provided custom engineered processing solutions for a wide variety of mineral processing applications. Their highly skilled staff designs, manufactures and services equipment used for crushing, screening, feeding, breaking, washing, classifying, dewatering, scrubbing, sizing and more."
+        },
+        {
+            "company": "Powerscreen Mid Atlantic, Inc.",
+            "contact": "",
+            "address": "715 Indeneer Drive",
+            "city": "Kernersville",
+            "state": "NC",
+            "country": "",
+            "zip": "27284",
+            "phone1": "800-797-7276",
+            "phone2": "",
+            "fax": "336-992-9757",
+            "link": "http://www.powerscreenmidatl.com",
+            "website": "www.powerscreenmidatl.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Powerscreen-mid-atlantic-150x54.jpg",
+            "description": "Powerscreen is an expert in the design and manufacture of mobile crushing equipment and mobile screening equipment.</br>Galvanising global resources, decades of experience and in-depth industry knowledge to bring to the market a comprehensive product portfolio for the quarrying, mining and recycling industries.</br>Powerscreen products operate in the toughest environments and feature nominal set-up times, market leading productivity rates and excellent reliability.</br>Powerscreen’s worldwide network of over 120 local dealers ensures that we deliver unbeaten customer support; from ensuring you get the right parts first time, to experienced field engineers should you need them. Our robust and reliable machinery aims to increase your productivity and efficiency."
+        },
+        {
+            "company": "SlimLine Mfg. Ltd.",
+            "contact": "",
+            "address": "599 Okanagan Ave E Penticton",
+            "city": "",
+            "state": "BC",
+            "country": "Canada",
+            "zip": "V2A 3K4",
+            "phone1": "250-493-6145",
+            "phone2": "",
+            "fax": "250-492-7756",
+            "link": "http://www.turbomister.com",
+            "website": "www.turbomister.com",
+            "emailaddress": "",
+             "logo": "",
+            "description": ""
+        },
+        {
+            "company": "Superior Ceramx, Inc.",
+            "contact": "",
+            "address": "PO Box 267",
+            "city": "Mabscott",
+            "state": "WV",
+            "country": "",
+            "zip": "25871",
+            "phone1": "304-673-1966",
+            "phone2": "",
+            "fax": "304-253-5151",
+            "link": "http://www.superiorceramx.com",
+            "website": "www.superiorceramx.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/",
+            "description": "Custom Fabrication, Wear Res. Linings/Coatings and More"
+        }
+    ]
+}

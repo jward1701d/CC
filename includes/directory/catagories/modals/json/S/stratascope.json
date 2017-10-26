@@ -1,0 +1,21 @@
+{
+    "businesses": [
+         {
+            "company": "F.M. Locotos Co., Inc.",
+            "contact": "",
+            "address": "2600 Boyce Plaza Rd, Ste 119",
+            "city": "Pittsburgh",
+            "state": "PA",
+            "country": "",
+            "zip": "15241",
+            "phone1": "412-257-8730",
+            "phone2": "",
+            "fax": "412-257-8738",
+            "link": "http://www.fmlocotos.com",
+            "website": "www.fmlocotos.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/FM-Locoto-logo.png",
+            "description": ""
+        }
+    ]
+}

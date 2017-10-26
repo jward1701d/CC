@@ -1,0 +1,22 @@
+{
+    "businesses": [
+         {
+            "company": "Irvin Construction Services, Inc. (ICSI)",
+            "contact": "Regina Irvin",
+            "address": "252 Cinnamon Run ",
+            "city": "Wytheville",
+            "state": "VA",
+            "country": "",
+            "zip": "24382",
+            "phone1": "276-625-7200 ",
+            "phone2": "",
+            "fax": " 276-223-1376",
+            "link": "http:// www.icsiworks.com",
+            "website": " www.icsiworks.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Irvin-COnstruction-Logo-150x49.gif",
+            "description": ""
+        }
+    ]
+}
+    

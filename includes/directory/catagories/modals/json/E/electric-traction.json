@@ -1,0 +1,38 @@
+{
+    "businesses": [
+         {
+            "company": "H & H Electrical Service Center",
+            "contact": "",
+            "address": "3635 Purchase Line Rd ",
+            "city": "Clymer",
+            "state": "PA",
+            "country": "",
+            "zip": "15728",
+            "phone1": "724-254-9222 ",
+            "phone2": "",
+            "fax": " 724-254-4301",
+            "link": "",
+            "website": "",
+            "emailaddress": "",
+             "logo": "",
+            "description": ""
+        },
+        {
+            "company": "Saminco, Inc.",
+            "contact": "",
+            "address": "4500 State Route 152",
+            "city": "Lavalette",
+            "state": "WV",
+            "country": "",
+            "zip": "25535",
+            "phone1": "304-523-4700",
+            "phone2": "",
+            "fax": "304-523-4039",
+            "link": "http://www.samincoinc.com",
+            "website": "www.samincoinc.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Saminco-Logo-150x34.png",
+            "description": ""
+        }
+    ]
+}

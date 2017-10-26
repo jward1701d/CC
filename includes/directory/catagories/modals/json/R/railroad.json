@@ -1,0 +1,72 @@
+{
+    "businesses": [
+         {
+            "company": "Altoona Pipe & Steel",
+            "contact": "",
+            "address": "1128 Nineth Ave",
+            "city": "Altoona",
+            "state": "PA",
+            "country": "",
+            "zip": "16602",
+            "phone1": "814-944-1631",
+            "phone2": "",
+            "fax": "814-944-1635",
+            "link": "http://www.altoonapipeandsteel.com",
+            "website": "www.altoonapipeandsteel.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/AltoonaPipeAndSteel-Logo-150x93.png",
+            "description": ""
+        },
+         {
+            "company": "Mountain States Contracting",
+            "contact": "",
+            "address": "6813 W. Frier Dr",
+            "city": "Glendale",
+            "state": "AZ",
+            "country": "",
+            "zip": "85303",
+            "phone1": "800-827-0743",
+            "phone2": "",
+            "fax": "623-842-0944",
+            "link": "http://www.mscrr.com",
+            "website": "www.mscrr.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Mountain-states-Contraction-Logo-150x75.png",
+            "description": ""
+        },
+         {
+            "company": "RailWorks Corp.",
+            "contact": "",
+            "address": "5 Penn Plaza",
+            "city": "New York",
+            "state": "NY",
+            "country": "",
+            "zip": "10001",
+            "phone1": "866-905-7245",
+            "phone2": "",
+            "fax": "952-469-4907",
+            "link": "http://www.railworks.com",
+            "website": "www.railworks.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/railworks-logo-150x32.jpg",
+            "description": "*Track Construction, Repairs & Inspections*"
+        },
+         {
+            "company": "Tri-State Rail Services",
+            "contact": "",
+            "address": "PO Box 122",
+            "city": "Worthington",
+            "state": "KY",
+            "country": "",
+            "zip": "41183",
+            "phone1": "606-836-2942",
+            "phone2": "",
+            "fax": "606-836-4210",
+            "link": "http://www.tri-statetransfer.com",
+            "website": "www.tri-statetransfer.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Tri-State-Rail-Service-logo-150x35.png",
+            "description": "*Keeping You on the Right Track*"
+        }
+    ]
+}

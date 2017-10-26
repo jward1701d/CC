@@ -1,0 +1,72 @@
+{
+    "businesses": [
+         {
+            "company": "Axle Tech International",
+            "contact": "",
+            "address": "1400 Rochester Road",
+            "city": "Troy",
+            "state": "MI",
+            "country": "",
+            "zip": "48083",
+            "phone1": "877-877-9717",
+            "phone2": "",
+            "fax": "",
+            "link": "http://www.axletech.com",
+            "website": "www.axletech.com",
+            "emailaddress": "",
+             "logo": "",
+            "description": ""
+        },
+         {
+            "company": "Bowers Transmissions",
+            "contact": "",
+            "address": "22221 70th Ave S",
+            "city": "Kent",
+            "state": "WA",
+            "country": "",
+            "zip": "98032",
+            "phone1": "800-858-5881",
+            "phone2": "",
+            "fax": "253-872-4127",
+            "link": "http://www.bowerstransmission.com",
+            "website": "www.bowerstransmission.com",
+            "emailaddress": "",
+             "logo": "",
+            "description": ""
+        },
+         {
+            "company": "Tiger Tool International, Inc.",
+            "contact": "",
+            "address": "PO Box 1420 • 446 Harrison Street",
+            "city": "Sumas",
+            "state": "WA",
+            "country": "",
+            "zip": "98295",
+            "phone1": "604-855-1133",
+            "phone2": "",
+            "fax": "604-255-4424",
+            "link": "http://www.tigertool.com",
+            "website": "www.tigertool.com",
+            "emailaddress": "",
+             "logo": "",
+            "description": ""
+        },
+         {
+            "company": "Transfluid srl",
+            "contact": "",
+            "address": "Via Guido Rossa 4",
+            "city": "Gallarate",
+            "state": "",
+            "country": "Italy",
+            "zip": "",
+            "phone1": "+3903312842.1",
+            "phone2": "",
+            "fax": "+3903312842911",
+            "link": "http://www.transfluid.eu",
+            "website": "www.transfluid.eu",
+            "emailaddress": "",
+             "logo": "",
+            "description": ""
+        }
+    ]
+}

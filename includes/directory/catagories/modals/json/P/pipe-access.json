@@ -1,0 +1,55 @@
+{
+    "businesses": [
+         {
+            "company": "Eagle Supply Company",
+            "contact": "Russ Shockley",
+            "address": "PO Box 38",
+            "city": "Fairfield",
+            "state": "IL",
+            "country": "",
+            "zip": "62837",
+            "phone1": "618-842-3737",
+            "phone2": "",
+            "fax": "618-842-3739",
+            "link": "",
+            "website": "",
+            "emailaddress": "",
+             "logo": "",
+            "description": ""
+        },
+         {
+            "company": "InduMar Products, Inc.",
+            "contact": "",
+            "address": "3355 W Alabama Ste 110",
+            "city": "Houston",
+            "state": "TX",
+            "country": "",
+            "zip": "77098",
+            "phone1": "713-977-4100",
+            "phone2": "",
+            "fax": "713-977-4164",
+            "link": "http://www.indumar.com",
+            "website": "www.indumar.com",
+            "emailaddress": "",
+             "logo": "",
+            "description": ""
+        },
+         {
+            "company": "Jabo Supply Corp.",
+            "contact": "",
+            "address": "PO Box 238",
+            "city": "Huntington",
+            "state": "WV",
+            "country": "",
+            "zip": "25707",
+            "phone1": "304-736-8333",
+            "phone2": "",
+            "fax": "304-736-8551",
+            "link": "http://www.jabosupply.com",
+            "website": "www.jabosupply.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/logo.jpg",
+            "description": "Jabo Supply has been supplying pipe, valves, and fittings for industrial and individual applications for many years. These include Chemical companies, Power Plants, Coal Mines, Utilities and Mechanical and Plumbing Contractors."
+        }
+    ]
+}

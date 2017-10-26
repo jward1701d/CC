@@ -1,0 +1,55 @@
+{
+    "businesses": [
+         {
+            "company": "Douglas Manufacturing Co., Inc.",
+            "contact": "",
+            "address": " 300 Industrial Park Dr",
+            "city": "Pell City",
+            "state": "AL",
+            "country": "",
+            "zip": "35125",
+            "phone1": "205-884-1200",
+            "phone2": "",
+            "fax": "205-884-1206",
+            "link": "",
+            "website": "",
+            "emailaddress": "",
+             "logo": "",
+            "description": ""
+        },
+         {
+            "company": "Eriez Magnetics",
+            "contact": "",
+            "address": "2200 Asbury Rd",
+            "city": "Erie",
+            "state": "PA",
+            "country": "",
+            "zip": "16506",
+            "phone1": "814-835-6000",
+            "phone2": "",
+            "fax": "",
+            "link": "http://www.eriez.com",
+            "website": "www.eriez.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Eriez-logo.png",
+            "description": ""
+        },
+         {
+            "company": "Magnetics Products, Inc.",
+            "contact": "",
+            "address": "PO Box 529",
+            "city": "Highland Heights",
+            "state": "MI",
+            "country": "",
+            "zip": "48357",
+            "phone1": "248-887-5600",
+            "phone2": "",
+            "fax": "248-887-6100",
+            "link": "http://www.mpimagnet.com",
+            "website": "www.mpimagnet.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Magnetic-Products-Inc.-Logo-150x129.png",
+            "description": ""
+        }
+    ]
+}

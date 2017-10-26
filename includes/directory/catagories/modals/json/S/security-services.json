@@ -1,0 +1,38 @@
+{
+    "businesses": [
+         {
+            "company": "Guardco Security",
+            "contact": "",
+            "address": "PO Box 64",
+            "city": "Belfry",
+            "state": "KY",
+            "country": "",
+            "zip": "41514",
+            "phone1": "888-353-4182",
+            "phone2": "",
+            "fax": "",
+            "link": "",
+            "website": "",
+            "emailaddress": "",
+             "logo": "",
+            "description": "24 Hour Service"
+        },
+        {
+            "company": "Neal & Associates",
+            "contact": "",
+            "address": "4132 Coal Heritage Rd, Suite B",
+            "city": "Bluewell",
+            "state": "WV",
+            "country": "",
+            "zip": "24701",
+            "phone1": "304-589-3328",
+            "phone2": "800-669-6325",
+            "fax": "304-589-6179",
+            "link": "http://www.nealsecurity.com",
+            "website": "www.nealsecurity.com",
+            "emailaddress": "",
+             "logo": "",
+            "description": ""
+        }
+    ]
+}

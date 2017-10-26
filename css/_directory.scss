@@ -1,0 +1,428 @@
+@media screen and (max-width: 320px){
+    #directory{
+        margin-top: 50px;
+        //margin-bottom: 20%;
+        h2{
+            text-decoration: underline;
+            text-shadow: 2px 2px 5px #000;
+            text-align: center;
+        }
+        strong{
+            text-decoration: underline;
+        }
+       
+        a{
+            color: black;
+            text-decoration: none;
+            &:hover{
+                color: rgb(80,80,80);
+            }
+        }
+        ul{
+            li{
+                list-style: none;
+            }
+        }
+        span{
+            cursor: pointer;
+            &:hover{
+                color: rgb(80,80,80);
+            }
+        }
+    }
+	 .cc-listing{
+        background: rgb(255,250,156);
+        .modal-header{
+            border-bottom: 1px solid #000;//$border-color;            
+        }
+        .modal-footer{
+            border-top: 1px solid #000;//$border-color; 
+            margin-top: 10px;
+        }
+    }
+	.d-logo{
+        display: none;
+        
+    }
+}
+
+@media screen and (min-width: 321px) and (max-width: 480px){
+        #directory{
+        margin-top: 90px;
+        //margin-bottom: 20%;
+        h2{
+            text-decoration: underline;
+            text-shadow: 2px 2px 5px #000;
+            text-align: center;
+        }
+        strong{
+            text-decoration: underline;
+        }
+       
+        a{
+            color: black;
+            text-decoration: none;
+            &:hover{
+                color: rgb(80,80,80);
+            }
+        }
+        ul{
+            li{
+                list-style: none;
+            }
+        }
+        span{
+            cursor: pointer;
+            &:hover{
+                color: rgb(80,80,80);
+            }
+        }
+    }
+	 .cc-listing{
+        background: rgb(255,250,156);
+        .modal-header{
+            border-bottom: 1px solid #000;//$border-color;            
+        }
+        .modal-footer{
+            border-top: 1px solid #000;//$border-color; 
+            margin-top: 10px;
+        }
+    }
+	.d-logo{
+        display: none;
+        
+    }
+}
+
+@media screen and (min-width: 481px) and (max-width: 640px){
+	    #directory{
+        margin-top: 90px;
+        //margin-bottom: 20%;
+        h2{
+            text-decoration: underline;
+            text-shadow: 2px 2px 5px #000;
+            text-align: center;
+        }
+        strong{
+            text-decoration: underline;
+        }
+       
+        a{
+            color: black;
+            text-decoration: none;
+            &:hover{
+                color: rgb(80,80,80);
+            }
+        }
+        ul{
+            li{
+                list-style: none;
+            }
+        }
+        span{
+            cursor: pointer;
+            &:hover{
+                color: rgb(80,80,80);
+            }
+        }
+    }
+	 .cc-listing{
+        background: rgb(255,250,156);
+        .modal-header{
+            border-bottom: 1px solid #000;//$border-color;            
+        }
+        .modal-footer{
+            border-top: 1px solid #000;//$border-color; 
+            margin-top: 10px;
+        }
+    }
+	.d-logo{
+        display: none;
+        
+    }
+}
+
+
+@media screen and (min-width: 641px) and (max-width: 767px){
+       #directory{
+        margin-top: 90px;
+        //margin-bottom: 20%;
+        h2{
+            text-decoration: underline;
+            text-shadow: 2px 2px 5px #000;
+            text-align: center;
+        }
+        strong{
+            text-decoration: underline;
+        }
+       
+        a{
+            color: black;
+            text-decoration: none;
+            &:hover{
+                color: rgb(80,80,80);
+            }
+        }
+        ul{
+            li{
+                list-style: none;
+            }
+        }
+        span{
+            cursor: pointer;
+            &:hover{
+                color: rgb(80,80,80);
+            }
+        }
+    }
+	 .cc-listing{
+        background: rgb(255,250,156);
+        .modal-header{
+            border-bottom: 1px solid #000;//$border-color;            
+        }
+        .modal-footer{
+            border-top: 1px solid #000;//$border-color; 
+            margin-top: 10px;
+        }
+    }
+	.d-logo{
+        max-width: 150px;
+        max-height: 150px;
+        box-shadow: 2px 2px 5px rgb(0,0,0);
+        padding: 0;
+        position: absolute;
+        top: 25%;//60px;
+        left: 100px;
+        
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1095px){//(max-width: 1210px){
+      #directory{
+        margin-top: 110px;
+        //margin-bottom: 20%;
+        h2{
+            text-decoration: underline;
+            text-shadow: 2px 2px 5px #000;
+            text-align: center;
+        }
+        strong{
+            text-decoration: underline;
+        }
+       
+        a{
+            color: black;
+            text-decoration: none;
+            &:hover{
+                color: rgb(80,80,80);
+            }
+        }
+        ul{
+            li{
+                list-style: none;
+            }
+        }
+        span{
+            cursor: pointer;
+            &:hover{
+                color: rgb(80,80,80);
+            }
+        }
+    }
+	 .cc-listing{
+        background: rgb(255,250,156);
+        .modal-header{
+            border-bottom: 1px solid #000;//$border-color;            
+        }
+        .modal-footer{
+            border-top: 1px solid #000;//$border-color; 
+            margin-top: 10px;
+        }
+    }
+	.d-logo{
+       	max-width: 150px;
+        max-height: 150px;
+        box-shadow: 2px 2px 5px rgb(0,0,0);
+        padding: 0;
+        position: absolute;
+        top: 25%;//60px;
+        left: 100px;
+        
+    }
+}
+
+@media screen and (min-width: 1096px) and (max-width: 1210px){
+        #directory{
+        margin-top: 50px;
+        //margin-bottom: 20%;
+        h2{
+            text-decoration: underline;
+            text-shadow: 2px 2px 5px #000;
+            text-align: center;
+        }
+        strong{
+            text-decoration: underline;
+        }
+       
+        a{
+            color: black;
+            text-decoration: none;
+            &:hover{
+                color: rgb(80,80,80);
+            }
+        }
+        ul{
+            li{
+                list-style: none;
+            }
+        }
+        span{
+            cursor: pointer;
+            &:hover{
+                color: rgb(80,80,80);
+            }
+        }
+    }
+	 .cc-listing{
+        background: rgb(255,250,156);
+        .modal-header{
+            border-bottom: 1px solid #000;//$border-color;            
+        }
+        .modal-footer{
+            border-top: 1px solid #000;//$border-color; 
+            margin-top: 10px;
+        }
+    }
+	.d-logo{
+       	max-width: 150px;
+        max-height: 150px;
+        box-shadow: 2px 2px 5px rgb(0,0,0);
+        padding: 0;
+        position: absolute;
+        top: 25%;//60px;
+        left: 100px;
+        
+    }
+}
+
+@media screen and (min-width: 1211px) and (max-width: 1920px){
+    #directory{
+        margin-top: 90px;
+        //margin-bottom: 20%;
+        h2{
+            text-decoration: underline;
+            text-shadow: 2px 2px 5px #000;
+            text-align: center;
+        }
+        strong{
+            text-decoration: underline;
+        }
+       
+        a{
+            color: black;
+            text-decoration: none;
+            &:hover{
+                color: rgb(80,80,80);
+            }
+        }
+        ul{
+            li{
+                list-style: none;
+            }
+        }
+        span{
+            cursor: pointer;
+            &:hover{
+                color: rgb(80,80,80);
+            }
+        }
+       
+   }
+    .jump-nav{
+        margin-bottom: 20px;
+        a{
+            margin: 0;
+            background-color: rgba(255,255,255, 0.7);
+            
+        }
+    }
+   .closed{
+        display: none;
+    }
+    .vertical-alignment-helper {
+        position: absolute;
+        top: 35%;
+        left: 35%;
+        display:table;
+        height: 25%;
+        //width: 25%;
+        //pointer-events:none;
+    }
+    .vertical-align-center {
+        /* To center vertically */
+        display: table-cell;
+        vertical-align: middle;
+        //pointer-events:none;
+    }
+    .d-logo{
+        max-width: 150px;
+        max-height: 150px;
+        box-shadow: 2px 2px 5px rgb(0,0,0);
+        padding: 0;
+        position: absolute;
+        top: 25%;//60px;
+        left: 100px;
+        
+    }
+    .modal-listings{
+        h3{
+            strong{
+                text-decoration: none !important;
+            }
+        }
+        p{
+            strong{
+                text-decoration: none !important;
+            }
+        }
+        a{
+            margin-bottom: 10px !important;
+            strong{
+                text-decoration: none !important;
+            }
+            
+        }
+    }
+    .cat-row-2{
+        margin-top: 38px;
+    }
+    .cat-row-3{
+        margin-top: 38px;
+    }
+    .cc-listing{
+        background: rgb(255,250,156);
+        .modal-header{
+            border-bottom: 1px solid #000;//$border-color;            
+        }
+        .modal-footer{
+            border-top: 1px solid #000;//$border-color; 
+            margin-top: 10px;
+        }
+    }
+    .links1{
+        display: block;
+    }
+    .emailbutton{
+        position: absolute;
+        bottom: -69px;
+        background: rgb(0,0,0);
+        color: rgb(200,200,200);
+        border-color: rgb(25,25,25);
+        &:hover{
+            background: rgb(100,100,100);
+            color: rgb(255,255,255);
+        }
+    }
+}
+
+

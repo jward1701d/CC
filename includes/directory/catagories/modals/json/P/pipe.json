@@ -1,0 +1,55 @@
+{
+    "businesses": [
+         {
+            "company": "Drill Steel Services, LLC",
+            "contact": "Larry Cornett",
+            "address": "4898 Hwy 15",
+            "city": "Whitesburg",
+            "state": "KY",
+            "country": "",
+            "zip": "41858",
+            "phone1": "606-633-4492",
+            "phone2": "",
+            "fax": "606-633-1624",
+            "link": "",
+            "website": "",
+            "emailaddress": "",
+             "logo": "",
+            "description": ""
+        },
+        {
+            "company": "Jabo Supply Corp.",
+            "contact": "",
+            "address": "PO Box 238",
+            "city": "Huntington",
+            "state": "WV",
+            "country": "",
+            "zip": "25707",
+            "phone1": "304-736-8333",
+            "phone2": "",
+            "fax": "304-736-8551",
+            "link": "http://www.jabosupply.com",
+            "website": "www.jabosupply.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/logo.jpg",
+            "description": "Jabo Supply has been supplying pipe, valves, and fittings for industrial and individual applications for many years. These include Chemical companies, Power Plants, Coal Mines, Utilities and Mechanical and Plumbing Contractors."
+        },
+        {
+            "company": "JENNMAR",
+            "contact": "",
+            "address": "258 Kappa Dr",
+            "city": "Pittsburgh",
+            "state": "PA",
+            "country": "",
+            "zip": "15238",
+            "phone1": "412-963-9071",
+            "phone2": "",
+            "fax": "412-963-9767",
+            "link": "http://www.jennmar.com",
+            "website": "www.jennmar.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/JennmarLogo_150x150.png",
+            "description": "JENNMAR is a global, family-owned company that is leading the way in ground control technology for the mining, tunneling and civil construction industries. Since 1972, our mission has been focused on developing and manufacturing a broad range of quality ground control products, from bolts and beams, to channels and trusses, to resin and rebar. With worldwide manufacturing plants, we are uniquely positioned to react to ground control needs anywhere, anytime."
+        }
+    ]
+}

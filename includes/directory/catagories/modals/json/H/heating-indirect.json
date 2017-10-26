@@ -1,0 +1,38 @@
+{
+    "businesses": [
+         {
+            "company": "Frost Fighter, Inc.",
+            "contact": "",
+            "address": "100-1500 Notre Dame ",
+            "city": "Winnipeg",
+            "state": "Manitoba",
+            "country": "Canada",
+            "zip": "R3E 0P9",
+            "phone1": "888-792-0374",
+            "phone2": "",
+            "fax": "204-783-6794",
+            "link": "http://www.frost-fighter.com",
+            "website": "www.frost-fighter.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Frost-Fighter-Logo-150x51.jpg",
+            "description": ""
+        },
+        {
+            "company": "MAC Heaters, Inc.",
+            "contact": "JT Anderson",
+            "address": "2106 E Indiana Ave",
+            "city": "Bismark",
+            "state": "ND",
+            "country": "",
+            "zip": "58504",
+            "phone1": "800-272-4604",
+            "phone2": "",
+            "fax": "",
+            "link": "http://www.macheaters.com",
+            "website": "www.macheaters.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/MacHeatersFlameless-logo-150x103.png",
+            "description": "Offices across the USA"
+        }
+    ]
+}

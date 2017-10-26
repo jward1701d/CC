@@ -1,0 +1,55 @@
+{
+    "businesses": [
+         {
+            "company": "Coalfield Lumber",
+            "contact": "",
+            "address": "Hwy 645",
+            "city": "Milo",
+            "state": "KY",
+            "country": "",
+            "zip": "41262",
+            "phone1": "606-298-3130",
+            "phone2": "",
+            "fax": "",
+            "link": "",
+            "website": "",
+            "emailaddress": "",
+             "logo": "",
+            "description": ""
+        },
+        {
+            "company": "Drill Steel Services, LLC",
+            "contact": "Larry Cornett",
+            "address": "4898 Hwy 15",
+            "city": "Whitesburg",
+            "state": "KY",
+            "country": "",
+            "zip": "41858",
+            "phone1": "606-633-4492",
+            "phone2": "",
+            "fax": "606-633-1624",
+            "link": "",
+            "website": "",
+            "emailaddress": "",
+             "logo": "",
+            "description": ""
+        },
+        {
+            "company": "Inter-State Treated Materials",
+            "contact": "Brandon Pyles",
+            "address": "400 Mt. Morris Road",
+            "city": "Mt. Morris",
+            "state": "PA",
+            "country": "",
+            "zip": "15349",
+            "phone1": "724-324-2106",
+            "phone2": "",
+            "fax": "724-324-5537",
+            "link": "",
+            "website": "",
+            "emailaddress": "",
+             "logo": "",
+            "description": "Mine Material Specialist"
+        }
+    ]
+}

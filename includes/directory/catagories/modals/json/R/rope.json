@@ -1,0 +1,21 @@
+{
+    "businesses": [
+         {
+            "company": "Yale Cordage",
+            "contact": "",
+            "address": "7 Industrial Park Rd",
+            "city": "Saco",
+            "state": "ME",
+            "country": "",
+            "zip": "04072",
+            "phone1": "207-282-3396",
+            "phone2": "",
+            "fax": "207-282-4620",
+            "link": "http://www.yalecordage.com",
+            "website": "www.yalecordage.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/YaleCordage_logo-2.jpg",
+            "description": "Yale Cordage is a custom and specialty rope manufacturer that designs application-specific ropes: winchlines, stringing lines and blocklines for utilities; fiber optic pulling lines for telephone construction; bull ropes and climbing lines for arborists; safety lanyards and lifting slings for industrial applications; ropes for marine applications –from hawsers for mooring commercial tankers to halyards for sailing dinghies.</br>Yale also designs and manufactures custom and specialty rope for specialty applications such as oceanographic arrays and faired electromechanical cables."
+        }
+    ]
+}

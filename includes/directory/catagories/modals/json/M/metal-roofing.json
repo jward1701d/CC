@@ -1,0 +1,38 @@
+{
+    "businesses": [
+         {
+            "company": "Flexospan Steel Buildings, Inc.",
+            "contact": "",
+            "address": "PO Box 515",
+            "city": "Sandy Lake",
+            "state": "PA",
+            "country": "",
+            "zip": "16145",
+            "phone1": "724-376-7221",
+            "phone2": "",
+            "fax": "724-376-3864",
+            "link": "http://www.flexospan.com",
+            "website": "www.flexospan.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Flexospan-Logo.jpg",
+            "description": ""
+        },
+        {
+            "company": "Steelclad Ltd. L.P.",
+            "contact": "",
+            "address": "120 Connie Drive",
+            "city": "Hendersonville",
+            "state": "TN",
+            "country": "",
+            "zip": "37075",
+            "phone1": "615-499-0188",
+            "phone2": "615-879-7884",
+            "fax": "",
+            "link": "http://www.steelcladltd.com",
+            "website": "www.steelcladltd.com",
+            "emailaddress": "",
+             "logo": "",
+            "description": ""
+        }
+    ]
+}

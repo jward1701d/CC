@@ -1,0 +1,513 @@
+@media screen and (max-width: 320px){
+    .navbar{
+        min-height: 50px;
+        margin-bottom: 0;
+    }
+    .navbar-custom{
+        //@include bg-gradients($header-bg-start, $header-bg-end);
+        background: rgba(0,0,0,0.9);
+        color: #fff;
+    }
+    .navbar-toggle{
+        border: 1px solid #fff;
+    }
+    .logo-img{
+        width: 60%;
+        margin: 5px;
+    }
+    .navbar-brand{
+        float: none;
+        margin: 0;
+        padding: 0;
+        height: auto;
+    }
+    .navbar-nav{
+        //margin: 20px -15px;
+        min-height: 100%;
+        li{
+            a{
+                color: #D9D9D9;
+                outline: 0;
+                &:hover{
+                    background: none;
+                    color: #fff;
+                }
+                &:active{
+                    background: none;
+                    color: #fff;
+                }
+                &:focus{
+                    background: none;
+                    color: #fff;
+                }
+            }
+        }
+        .dropdown-menu{
+            background: rgba(0,0,0,1);//$nav-dd-bg;//$header-bg-end;
+        }
+    }
+    .nav{
+        .open{
+            > a{
+                background: none;
+                &:hover{
+                    background: none;
+                }
+                &:focus{
+                    background: none;
+                }
+            }
+        }
+    }
+    
+}
+
+@media screen and (min-width: 321px) and (max-width: 480px){
+    .navbar{
+        max-height: 50px;//min-height: 50px;
+        margin-bottom: 0;
+    }
+    .navbar-custom{
+        //@include bg-gradients($header-bg-start, $header-bg-end);
+        background: rgba(0,0,0,0.9);
+        color: #fff;
+    }
+    .navbar-toggle{
+        border: 1px solid #fff;
+        margin-top: 15px;
+    }
+    .logo-img{
+        width: 60%;
+        margin: 5px;
+    }
+    .navbar-brand{
+        float: none;
+        margin: 0;
+        padding: 0;
+        height: auto;
+    }
+    .navbar-nav{
+        //margin: 20px -15px;
+        li{
+            a{
+                color: #D9D9D9;
+                outline: 0;
+                &:hover{
+                    background: none;
+                    color: #fff;
+                }
+                &:active{
+                    background: none;
+                    color: #fff;
+                }
+                &:focus{
+                    background: none;
+                    color: #fff;
+                }
+            }
+        }
+        .dropdown-menu{
+            background: $nav-dd-bg;//$header-bg-end;
+        }
+    }
+    .nav{
+        .open{
+            > a{
+                background: none;
+                &:hover{
+                    background: none;
+                }
+                &:focus{
+                    background: none;
+                }
+            }
+        }
+    }
+    
+}
+
+@media screen and (min-width: 481px) and (max-width: 640px){
+    .navbar{
+        max-height: 50px;
+        margin-bottom: 0;
+    }
+    .navbar-custom{
+        //@include bg-gradients($header-bg-start, $header-bg-end);
+        background: rgba(0,0,0,0.9);
+        color: #fff;
+    }
+    .navbar-toggle{
+        border: 1px solid #fff;
+        margin-top: 27px;
+    }
+    .logo-img{
+        width: 60%;
+        margin: 5px;
+    }
+    .navbar-brand{
+        float: none;
+        margin: 0;
+        padding: 0;
+        height: auto;
+    }
+    .navbar-nav{
+        //margin: 20px -15px;
+        li{
+            a{
+                color: #D9D9D9;
+                outline: 0;
+                &:hover{
+                    background: none;
+                    color: #fff;
+                }
+                &:active{
+                    background: none;
+                    color: #fff;
+                }
+                &:focus{
+                    background: none;
+                    color: #fff;
+                }
+            }
+        }
+        .dropdown-menu{
+            background: $nav-dd-bg;//$header-bg-end;
+        }
+    }
+    .nav{
+        .open{
+            > a{
+                background: none;
+                &:hover{
+                    background: none;
+                }
+                &:focus{
+                    background: none;
+                }
+            }
+        }
+    }
+  
+}
+
+
+@media screen and (min-width: 641px) and (max-width: 767px){
+    .navbar{
+        max-height: 50px;
+        margin-bottom: 0;
+    }
+    .navbar-custom{
+        //@include bg-gradients($header-bg-start, $header-bg-end);
+        background: rgba(0,0,0,0.9);
+        color: #fff;
+    }
+    .navbar-toggle{
+        border: 1px solid #fff;
+        margin-top: 27px;
+    }
+    .logo-img{
+        width: 60%;
+        margin: 5px;
+    }
+    .navbar-brand{
+        float: none;
+        margin: 0;
+        padding: 0;
+        height: auto;
+    }
+    .navbar-nav{
+        //margin: 20px -15px;
+        li{
+            a{
+                color: #D9D9D9;
+                outline: 0;
+                &:hover{
+                    background: none;
+                    color: #fff;
+                }
+                &:active{
+                    background: none;
+                    color: #fff;
+                }
+                &:focus{
+                    background: none;
+                    color: #fff;
+                }
+            }
+        }
+        .dropdown-menu{
+            background: $nav-dd-bg;//$header-bg-end;
+        }
+    }
+    .nav{
+        .open{
+            > a{
+                background: none;
+                &:hover{
+                    background: none;
+                }
+                &:focus{
+                    background: none;
+                }
+            }
+        }
+    }
+   
+}
+
+@media screen and (min-width: 768px) and (max-width: 1095px){//(max-width: 1210px){
+    .navbar{
+        max-height: 50px;
+        margin-bottom: 0;
+    }
+    .navbar-custom{
+        @include bg-gradients($header-bg-start, $header-bg-end);
+        color: #fff;
+        border-bottom: 4px solid $border-color;
+    }
+    .navbar-toggle{
+        border: 1px solid #fff;
+        margin-top: 27px;
+    }
+    .logo-img{
+        width: 60%;
+        margin: 5px;
+    }
+    .navbar-brand{
+        float: none;
+        margin: 0;
+        padding: 0;
+        height: auto;
+    }
+    .navbar-nav{
+        //margin: 20px -15px;
+        li{
+            a{
+                color: #D9D9D9;
+                outline: 0;
+                &:hover{
+                    background: none;
+                    color: #fff;
+                }
+                &:active{
+                    background: none;
+                    color: #fff;
+                }
+                &:focus{
+                    background: none;
+                    color: #fff;
+                }
+            }
+        }
+        .dropdown-menu{
+            background: $nav-dd-bg;//$header-bg-end;
+        }
+    }
+    .nav{
+        .open{
+            > a{
+                background: none;
+                &:hover{
+                    background: none;
+                }
+                &:focus{
+                    background: none;
+                }
+            }
+        }
+    }
+    
+    .dropdown-menu-arrow::before {
+        border-bottom: 7px solid rgba(0, 0, 0, 0.2);
+        border-left: 7px solid transparent;
+        border-right: 7px solid transparent;
+        content: "";
+        display: inline-block;
+        right: 12px;
+        position: absolute;
+        top: -7px;
+    }
+
+    .dropdown-menu-arrow::after {
+        border-bottom: 6px solid rgba(0, 0, 0, 0.2);
+        border-left: 6px solid transparent;
+        border-right: 6px solid transparent;
+        content: "";
+        display: inline-block;
+        right: 13px;
+        position: absolute;
+        top: -6px;
+    }
+
+    
+}
+
+@media screen and (min-width: 1096px) and (max-width: 1210px){
+     .navbar{
+        max-height: 50px;
+        margin-bottom: 0;
+    }
+    .navbar-custom{
+        @include bg-gradients($header-bg-start, $header-bg-end);
+        color: #fff;
+        border-bottom: 2px solid $border-color;
+    }
+    
+    .logo-img{
+        width: 70%;
+        //margin: 5px;
+        margin-top: -15px;
+        
+    }
+    .navbar-brand{
+        float: none;
+        margin: 0;
+        padding: 0;
+        height: auto;
+    }
+    .navbar-nav{
+        margin: 10px -15px;
+        li{
+            a{
+                color: #D9D9D9;
+                outline: 0;
+                &:hover{
+                    background: none;
+                    color: #fff;
+                }
+                &:active{
+                    background: none;
+                    color: #fff;
+                }
+                &:focus{
+                    background: none;
+                    color: #fff;
+                }
+            }
+        }
+        .dropdown-menu{
+            background: $nav-dd-bg;//$header-bg-end;
+        }
+    }
+    .nav{
+        .open{
+            > a{
+                background: none;
+                &:hover{
+                    background: none;
+                }
+                &:focus{
+                    background: none;
+                }
+            }
+        }
+    }
+    .dropdown-menu-arrow::before {
+        border-bottom: 7px solid rgba(0, 0, 0, 0.2);
+        border-left: 7px solid transparent;
+        border-right: 7px solid transparent;
+        content: "";
+        display: inline-block;
+        right: 12px;
+        position: absolute;
+        top: -7px;
+    }
+
+    .dropdown-menu-arrow::after {
+        border-bottom: 6px solid rgba(0, 0, 0, 0.2);
+        border-left: 6px solid transparent;
+        border-right: 6px solid transparent;
+        content: "";
+        display: inline-block;
+        right: 13px;
+        position: absolute;
+        top: -6px;
+    }
+
+}
+
+@media screen and (min-width: 1211px) and (max-width: 1920px){
+   .navbar{
+       max-height: 100px;
+       color: #fff;
+    }
+    .navbar-nav{
+        margin: 20px -15px;
+        li{
+            a{
+                color: #D9D9D9;
+                outline: 0;
+                &:hover{
+                    background: none;
+                    color: #fff;
+                }
+                &:active{
+                    background: none;
+                    color: #fff;
+                }
+                &:focus{
+                    background: none;
+                    color: #fff;
+                }
+            }
+        }
+        .dropdown-menu{
+            background: $nav-dd-bg;//$header-bg-end;
+        }
+    }
+    .navbar-custom{
+        @include bg-gradients($header-bg-start, $header-bg-end);
+         border-bottom: 2px solid $border-color;
+    }
+     .logo-img{
+        width: 100%;
+        margin: 5px ;
+    }
+    .navbar-brand{
+        //top: 10px;
+        height: auto;
+        margin: 0;
+        padding: 0;
+    }
+    .nav{
+        .open{
+            > a{
+                background: none;
+                &:hover{
+                    background: none;
+                }
+                &:focus{
+                    background: none;
+                }
+            }
+        }
+    }
+    
+    
+    
+    .dropdown-menu-arrow::before {
+        border-bottom: 7px solid rgba(0, 0, 0, 0.2);
+        border-left: 7px solid transparent;
+        border-right: 7px solid transparent;
+        content: "";
+        display: inline-block;
+        right: 12px;
+        position: absolute;
+        top: -7px;
+    }
+
+    .dropdown-menu-arrow::after {
+        border-bottom: 6px solid rgba(0, 0, 0, 0.2);
+        border-left: 6px solid transparent;
+        border-right: 6px solid transparent;
+        content: "";
+        display: inline-block;
+        right: 13px;
+        position: absolute;
+        top: -6px;
+    }
+
+   
+}
+
+

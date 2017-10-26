@@ -1,0 +1,38 @@
+{
+    "businesses": [
+         {
+            "company": "Apache Hose & Belting Co., Inc.",
+            "contact": "",
+            "address": "4805 Bowing St SW",
+            "city": "Cedar Rapids",
+            "state": "IA",
+            "country": "",
+            "zip": "52406",
+            "phone1": "319-365-0471",
+            "phone2": "",
+            "fax": "",
+            "link": "http://www.apachehoseandbelting.com",
+            "website": "www.apachehoseandbelting.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Apache-Logo-150x27.png",
+            "description": ""
+        },
+         {
+            "company": "Princeton Machinery Service, Inc.",
+            "contact": "",
+            "address": "171 Athens Rd",
+            "city": "Princeton",
+            "state": "WV",
+            "country": "",
+            "zip": "247401",
+            "phone1": "304-425-4991",
+            "phone2": "",
+            "fax": "304-425-9145",
+            "link": "",
+            "website": "",
+            "emailaddress": "",
+             "logo": "",
+            "description": ""
+        }
+    ]
+}

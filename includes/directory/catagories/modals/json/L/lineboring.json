@@ -1,0 +1,55 @@
+{
+    "businesses": [
+         {
+            "company": "Carpenter’s Repair",
+            "contact": "Amber Ball",
+            "address": "PO Box 415",
+            "city": "Lake",
+            "state": "WV",
+            "country": "",
+            "zip": "25121",
+            "phone1": "304-752-3112",
+            "phone2": "",
+            "fax": "304-752-1668",
+            "link": "",
+            "website": "",
+            "emailaddress": "",
+             "logo": "",
+            "description": ""
+        },
+         {
+            "company": "Lion Industries",
+            "contact": "",
+            "address": "423 53rd St",
+            "city": "Bellaire",
+            "state": "OH",
+            "country": "",
+            "zip": "43906",
+            "phone1": "740-676-1100",
+            "phone2": "",
+            "fax": "740-676-1101",
+            "link": "http://www.lionind.com",
+            "website": "www.lionind.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Lion-Industries-Logo.png",
+            "description": ""
+        },
+         {
+            "company": "York Portable Machine Tools",
+            "contact": "",
+            "address": "1641 17th Ave",
+            "city": "Campbell River",
+            "state": "BC",
+            "country": "Canada",
+            "zip": "V9W 4L5",
+            "phone1": "250-287-7716",
+            "phone2": "",
+            "fax": "250-287-8362",
+            "link": "http://www.yorkmachine.com",
+            "website": "www.yorkmachine.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/York-Portable-Machine-Tools-Logo-150x61.png",
+            "description": ""
+        }
+    ]
+}

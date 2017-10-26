@@ -1,0 +1,21 @@
+{
+    "businesses": [
+         {
+            "company": "",
+            "contact": "",
+            "address": "",
+            "city": "",
+            "state": "",
+            "country": "",
+            "zip": "",
+            "phone1": "",
+            "phone2": "",
+            "fax": "",
+            "link": "http://",
+            "website": "",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/",
+            "description": ""
+        },
+    ]
+}

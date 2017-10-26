@@ -1,0 +1,25 @@
+#mediakit{
+	.panel{
+		margin-top: 85px;
+		a{
+			text-decoration: none;
+		}
+		.mk-block{
+			margin-top: 40px;
+			box-shadow: 10px 10px 10px #000;	
+			text-align: center;
+			background: #444;
+			color: red;
+			-webkit-transition: all 0.5s; 
+    		transition: all 0.5s;	
+			&:hover{
+				box-shadow: 5px 5px 5px #000;
+				background: #aaa;
+				//color: darken(red,10%);
+			}
+			span{
+				font-size: 18px;
+			}
+		}
+	}
+}

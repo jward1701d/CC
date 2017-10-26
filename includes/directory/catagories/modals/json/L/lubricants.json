@@ -1,0 +1,38 @@
+{
+    "businesses": [
+         {
+            "company": "D-A Lubricants CO., Inc.",
+            "contact": "",
+            "address": "801 Edwards Dr",
+            "city": "Lebanon",
+            "state": "IN",
+            "country": "",
+            "zip": "46052",
+            "phone1": "317-923-5321",
+            "phone2": "",
+            "fax": "317-923-3884",
+            "link": "http://www.dalube.com",
+            "website": "www.dalube.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/D-A-Lubricants-Logo.png",
+            "description": ""
+        },
+        {
+            "company": "Fuchs Lubricants Co.",
+            "contact": "",
+            "address": "PO Box 450 - 801 E Roy Furman Hwy",
+            "city": "Waynesburg",
+            "state": "PA",
+            "country": "",
+            "zip": "15370",
+            "phone1": "724-627-3200",
+            "phone2": "",
+            "fax": "724-852-2351",
+            "link": "http://www.fuchs.com",
+            "website": "www.fuchs.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Fuchs-Logo.png",
+            "description": ""
+        }
+    ]
+}

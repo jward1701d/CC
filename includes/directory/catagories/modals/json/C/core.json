@@ -1,0 +1,21 @@
+{
+    "businesses": [
+         {
+            "company": "S.S. Drilling, Inc.",
+            "contact": "",
+            "address": "4554 KY Rt. 201",
+            "city": "Sitka",
+            "state": "KY",
+            "country": "",
+            "zip": "41255",
+            "phone1": "606-265-6767",
+            "phone2": "",
+            "fax": "606-265-6787",
+            "link": "",
+            "website": "",
+            "emailaddress": "",
+             "logo": "",
+            "description": "*Diamond Core Drilling & Excavating*"
+        }
+    ]
+}

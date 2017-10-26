@@ -1,0 +1,21 @@
+{
+    "businesses": [
+         {
+            "company": "Davis Electric",
+            "contact": "Mike Tarley",
+            "address": "308 Mound Ave",
+            "city": " Fairmont",
+            "state": "WV",
+            "country": "",
+            "zip": "26555",
+            "phone1": "800-628-2102",
+            "phone2": "",
+            "fax": "",
+            "link": "http://www.daviselectric.net",
+            "website": "www.daviselectric.net",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Davis-Electric-Logo-150x24.jpg",
+            "description": "Davis Electric provides excellent quality repairs and rebuilds on electric motors, pumps, controls, mining and industrial equipment 24 hours a day, seven days a week.  We specialize in keeping your downtime to a minimum."
+        }
+    ]
+}

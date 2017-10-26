@@ -1,0 +1,38 @@
+{
+    "businesses": [
+         {
+            "company": "Goodman-Hewitt Conveyors & Components",
+            "contact": "",
+            "address": "645 Floyd Wright Dr",
+            "city": "Belton",
+            "state": "SC",
+            "country": "",
+            "zip": "29627",
+            "phone1": "864-338-7793",
+            "phone2": "",
+            "fax": "864-338-8732",
+            "link": "http://www.goodman-hewitt.com",
+            "website": "www.goodman-hewitt.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Goodman-Hewitt-Logo-150x120.png",
+            "description": ""
+        },
+        {
+            "company": "Industrial Composites",
+            "contact": "",
+            "address": "373 Carol Ave",
+            "city": "Bridgeville",
+            "state": "PA",
+            "country": "",
+            "zip": "15107",
+            "phone1": "412-221-2662",
+            "phone2": "888-298-7868",
+            "fax": "412-221-0794",
+            "link": "http://www.industrial-composites.com",
+            "website": "www.industrial-composites.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Industrial-Composites-Logo-150x28.png",
+            "description": ""
+        }
+    ]
+}

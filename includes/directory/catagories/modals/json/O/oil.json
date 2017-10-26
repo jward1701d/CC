@@ -1,0 +1,56 @@
+{
+    "businesses": [
+         {
+            "company": "Analysts, Inc.",
+            "contact": "",
+            "address": "2441 W 205th St Suite C100",
+            "city": "Torrance",
+            "state": "CA",
+            "country": "",
+            "zip": "90501",
+            "phone1": "310-320-0070",
+            "phone2": "",
+            "fax": "310-320-0970",
+            "link": "http://www.analystsinc.com",
+            "website": "www.analystsinc.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Analysts-Inc-Logo-150x48.png",
+            "description": ""
+        },
+        {
+            "company": "Clark Testing",
+            "contact": "",
+            "address": "678 Mt Hore Rd",
+            "city": "Princeton",
+            "state": "WV",
+            "country": "",
+            "zip": "24739",
+            "phone1": "304-487-5840",
+            "phone2": "Dupo, IL: 618-286-9500",
+            "phone3": "Jefferson Hills, PA:412-387-1001",
+            "fax": "",
+            "link": "http://www.clarktesting.com",
+            "website": "www.clarktesting.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Clark-Testing-Logo68.png",
+            "description": "Nat’l and Int’l Coal Quality Verification Services"
+        },
+        {
+            "company": "Rish Equipment Company",
+            "contact": "",
+            "address": "6384 Airport Rd",
+            "city": "Bluefield",
+            "state": "WV",
+            "country": "",
+            "zip": "24701",
+            "phone1": "304-327-5124",
+            "phone2": "",
+            "fax": "304-327-8821",
+            "link": "http://www.rish.com",
+            "website": "www.rish.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/rish-equipment-co-logo-150x81.png",
+            "description": ""
+        }
+    ]
+}

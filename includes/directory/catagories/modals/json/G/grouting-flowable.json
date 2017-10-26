@@ -1,0 +1,21 @@
+{
+    "businesses": [
+         {
+            "company": "Howard Concrete Pumping",
+            "contact": "",
+            "address": "701 Millers Run Rd",
+            "city": "Cuddy",
+            "state": "PA",
+            "country": "",
+            "zip": "15031",
+            "phone1": "412-257-1800",
+            "phone2": "",
+            "fax": "412-257-8380",
+            "link": "http://www.howardconcretepumping.com",
+            "website": "www.howardconcretepumping.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Howard-Concrete-Pumping-Logo-150x71.png",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "businesses": [
+         {
+            "company": "Riegl USA",
+            "contact": "",
+            "address": "7035 Grand National Dr Ste 100",
+            "city": "Orlando",
+            "state": "FL",
+            "country": "",
+            "zip": "32819",
+            "phone1": "407-248-9927",
+            "phone2": "",
+            "fax": "407-248-2636",
+            "link": "http://www.rieglusa.com",
+            "website": "www.rieglusa.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Riegl-Logo-150x49.jpg",
+            "description": ""
+        },
+        {
+            "company": "Topcon",
+            "contact": "",
+            "address": "7400 National Dr",
+            "city": "Livermore",
+            "state": "CA",
+            "country": "",
+            "zip": "94551",
+            "phone1": "925-245-8300",
+            "phone2": "",
+            "fax": "",
+            "link": "http://www.topconpositioning.com",
+            "website": "www.topconpositioning.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Topcon-Logo-150x26.png",
+            "description": ""
+        },
+        {
+            "company": "Trimble Navigation",
+            "contact": "",
+            "address": "2555 N Coyote Dr Ste 115",
+            "city": "Tuscon",
+            "state": "AZ",
+            "country": "",
+            "zip": "85745",
+            "phone1": "520-792-0162",
+            "phone2": "",
+            "fax": " 520-792-0372",
+            "link": "http://www.trimble.com",
+            "website": "www.trimble.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/trimble_logo-150x33.png",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "businesses": [
+         {
+            "company": "Atlantic Magnetite",
+            "contact": "Adrien Prieto",
+            "address": "171 Market Square, #106",
+            "city": "Newington",
+            "state": "CT",
+            "country": "",
+            "zip": "06111",
+            "phone1": "888-586-4333",
+            "phone2": "",
+            "fax": "",
+            "link": "http://www.atlanticmagnetite.com",
+            "website": "www.atlanticmagnetite.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/LOGO-ATLANTIC-MAGNETITE-use-150x62.jpg",
+            "description": "Atlantic Magnetite is a company that is highly specialized in the mineral product processing field with an emphasis on the production of magnetite, used in plants for the cleaning of coal. We offer our services to advice and provide technical assistance to our clients in the use and application of this process, according to the specifications of each cleaning process. We provide high standards of quality, guarantee, opportunity and compliance and a great social responsibility that fully commits us to the development of our country."
+        },
+        {
+            "company": "Minelco, Inc.",
+            "contact": "",
+            "address": "1600 Scripps Center",
+            "city": "Cincinnatti",
+            "state": "OH",
+            "country": "",
+            "zip": "45202",
+            "phone1": "513-322-5530",
+            "phone2": "",
+            "fax": "513-322-5531",
+            "link": "",
+            "website": "",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Minelco-Logo-150x150.png",
+            "description": ""
+        }
+    ]
+}

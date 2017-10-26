@@ -1,0 +1,72 @@
+{
+    "businesses": [
+         {
+            "company": "JENNMAR-McSweeney’s, Inc.",
+            "contact": "Sandra Blackburn",
+            "address": "3840 County Road 15",
+            "city": "South Point",
+            "state": "OH",
+            "country": "",
+            "zip": "45680",
+            "phone1": "740-377-3354",
+            "phone2": "",
+            "fax": "740-377-3363",
+            "link": "http://www.mcsweeneysinc.com",
+            "website": "",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Jennmar-McSweeney-Logo-150x105.png",
+            "description": "<strong>McSweeney’s Inc.</strong> is a versatile, family owned corporation located in South Point, Ohio. We house our manufacturing plant and offices in our 25,000 square foot facility located on the original property that the company was founded on. The company was founded in 1967 by Larry McSweeney and has been built upon our experience in carbon steel forging. machining and fabrication.  Larry’s son, Joe, and his daughter, Sandra Blackburn, grew up with the business.  Joe is now the Chief Executive Officer / President and heads up production and sales.  Sandra Blackburn is Vice President and Office Manager.</br>Manufacturing products for the mining industry has been the largest market for us. Having been reared in a mining town and spending much of his early manhood as a miner, Mr. McSweeney has always worked to support the industry. Since inception, we have worked to make products that provide for safer and more efficient underground mining. This drive has allowed us to produce the most complete product line of drill steel in the industry offering “hands off” drilling, the safest way for underground operators to drill. We are currently the leading manufacturer of forged drill steel and hold 5 patents on our drilling systems.</br>Though mining has been a focus for years, we have always built upon our core competencies to bring new products to market. For over 20 years we have manufactured carbide plowing blades used for ground engagement and snow removal. We manufacture these blades to specifications for companies such as Caterpillar®, Roadtec®, and Sandvik® as well as provide standard blade sections for the open market.</br>For the past 14 years we have been producing products for the railroad industry. We forge various parts that are used for new build programs and repairs of freight cars. We are continually adding new products to this line to further increase our presence in this market.</br>With our modern CNC machine shop and welding department, we provide custom fabrication and machining services. From surgical instruments to torque shafts, we have the ability to provide solutions for various industries around our Tri-State area, across the U.S. and internationally. Though we are in constant change to maximize our abilities, one thing remains the same; we are still small enough to give our customers the attention they deserve. High quality control standards, with timely deliveries, by dedicated employees are what set us apart from the rest."
+        },
+         {
+            "company": "Petra Industrial Services",
+            "contact": "",
+            "address": "664 Lochgelly Rd",
+            "city": "Lochgelly",
+            "state": "WV",
+            "country": "",
+            "zip": "25866",
+            "phone1": "304-465-5695",
+            "phone2": "",
+            "fax": "304-465-5697",
+            "link": "",
+            "website": "",
+            "emailaddress": "",
+             "logo": "",
+            "description": ""
+        },
+         {
+            "company": "Princeton Machinery Service, Inc.",
+            "contact": "",
+            "address": "171 Athens Rd ",
+            "city": "Princeton",
+            "state": "WV",
+            "country": "",
+            "zip": "247401",
+            "phone1": "304-425-4991",
+            "phone2": "",
+            "fax": " 304-425-9145",
+            "link": "",
+            "website": "",
+            "emailaddress": "",
+             "logo": "",
+            "description": ""
+        },
+         {
+            "company": "WALCO Tool & Engineering",
+            "contact": "",
+            "address": "18954 Airport Rd",
+            "city": "Romeoville",
+            "state": "IL",
+            "country": "",
+            "zip": "60446",
+            "phone1": "800-808-9365",
+            "phone2": "",
+            "fax": "",
+            "link": "http://www.walcotool.com",
+            "website": "www.walcotool.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Walco-Tool-Logo-150x27.png",
+            "description": ""
+        }
+    ]
+}

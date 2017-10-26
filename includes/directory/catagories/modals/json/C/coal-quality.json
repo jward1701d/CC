@@ -1,0 +1,56 @@
+{
+    "businesses": [
+         {
+            "company": "Clark Testing",
+            "contact": "",
+            "address": "678 Mt Hore Rd",
+            "city": "Princeton",
+            "state": "WV",
+            "country": "",
+            "zip": "24739",
+            "phone1": "Princeton, WV: 304-487-5840 ",
+            "phone2": "Dupo, IL: 618-286-9500",
+            "phone3": "Jefferson Hills, PA:412-387-1001",
+             "fax": "",
+            "link": "http://www.clarktesting.com",
+            "website": "www.clarktesting.com",
+            "emailaddress": "",
+             "logo": "includes/directory/catagories/modals/logos/Clark-Testing-Logo68.png",
+            "description": "Nat’l and Int’l Coal Quality Verification Services."
+        },
+         {
+            "company": "Heath & Sherwod LTD",
+            "contact": "",
+            "address": "PO Box 340",
+            "city": "Kirkland Lake",
+            "state": "ON",
+            "country": "Canada",
+            "zip": "P2N 312",
+            "phone1": "705-567-5313",
+            "phone2": "888-467-2675",
+            "fax": "",
+            "link": "http://www.heathandsherwood64.com",
+            "website": "www.heathandsherwood64.com",
+            "emailaddress": "",
+             "logo": "",
+            "description": ""
+        },
+         {
+            "company": "Stock Equipment Company, Inc.",
+            "contact": "",
+            "address": "16490 Chillicothe Road",
+            "city": "Chargrin Falls",
+            "state": "OH",
+            "country": "",
+            "zip": "44023",
+            "phone1": "440-543-6000",
+            "phone2": "",
+            "fax": "440-543-5944",
+            "link": "http://www.stockequipment.com",
+            "website": "www.stockequipment.com",
+            "emailaddress": "",
+             "logo": "",
+            "description": ""
+        }
+    ]
+}
