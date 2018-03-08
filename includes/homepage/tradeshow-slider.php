@@ -9,7 +9,7 @@
                             <h4>2016 Shows Coming Soon</h4>
                         </div>
                          <div class="showGraphic col-xs-12 col-md-6">
-                            <img src="img/sticker-logo.png">
+                            <img src="http://via.placeholder.com/150x100">
                         </div>
                     </div>
                     

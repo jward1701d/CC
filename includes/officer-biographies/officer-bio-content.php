@@ -6,7 +6,7 @@
                     <h2 class="hidden-xs">Officer Biographies</h2>
                     <div id="david" class="row">
                         <div class="col-xs-1">
-                            <img class="img-circle" src="img/David2.jpg" alt="David">
+                            <img class="img-circle" src="http://via.placeholder.com/50x50" alt="David">
                         </div>
                         <div class="col-xs-11">
                             <h4>David Pinson</h4>
@@ -22,7 +22,7 @@
                 
                     <div id = "james" class="row">
                         <div class="col-xs-1">
-                            <img class="img-circle" src="img/James2.jpg" alt="David">
+                            <img class="img-circle" src="http://via.placeholder.com/50x50" alt="David">
                         </div>
                         <div class="col-xs-11">
                             <h4>James Hager</h4>

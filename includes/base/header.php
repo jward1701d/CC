@@ -7,7 +7,8 @@
                 <span class="glyphicon glyphicon-align-justify"></span>
             </button>
             <a class="navbar-brand" href="index.php">
-                <img src="img/header-logo.png" class="logo-img">
+            <img src="http://via.placeholder.com/200x60" class="logo-img">
+                <!--<img src="img/header-logo.png" class="logo-img"> -->
             </a>
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
@@ -33,7 +34,7 @@
                     </ul>
                 </li>
                 -->
-                <li class="dropdown">
+               <!-- <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Publication <span class="caret"></span></a>
                     <ul class="dropdown-menu dropdown-menu-arrow" role="menu">
                         <li><a href="current-issue.php">Current Issue</a></li>
@@ -42,7 +43,7 @@
                         <li><a href="spotlight.php">Business Spotlight</a></li>
                     </ul>
                 </li>
-                
+-->
                 <li><a href="directory.php">Business Directory</a></li>
                 <li><a href="tradeshows.php">Trade Shows</a></li>
                 
@@ -51,9 +52,9 @@
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Contact <span class="caret"></span></a>
                     <ul class="dropdown-menu dropdown-menu-arrow" role="menu">
                         <li><a href="contact-us.php">Contact Us</a></li>
-                        <li><a href="media-kit.php">Media Kit</a></li>
-                        <li><a href="marketing.php">Marketing & Multimedia</a></li>
-                        <li><a href="contact-us.php">Free Sticker/Issue</a></li>
+                        <!--<li><a href="media-kit.php">Media Kit</a></li>-->
+                        <!--<li><a href="marketing.php">Marketing & Multimedia</a></li>-->
+                       <!-- <li><a href="contact-us.php">Free Sticker/Issue</a></li>-->
                     </ul>
                 </li>
                 <!--

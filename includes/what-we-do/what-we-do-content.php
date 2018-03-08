@@ -5,7 +5,7 @@
                 <div class="col-sm-12">
                     <h2 class = "hidden-xs">What We Do</h2>
                     <div class="col-sm-2">
-                        <img class="img-responsive" src="img/home23.png" alt="home23">
+                        <img class="img-responsive" src="http://via.placeholder.com/100x100" alt="home23">
                     </div>
                     <div class="col-sm-8">
                         <p>Coalfield Connection is distributed at no charge to every mining operation (surface, underground and prep plant) in the U.S., many International and an ever growing list of vendors four times a year. We put your company’s information directly in the hands of the decision makers, purchasing managers and C-Suite officers for the mining industry along with their valuable supply partners. Coalfield Connection is fast becoming the go-to resource directory for goods and services in the mining industry.</p>

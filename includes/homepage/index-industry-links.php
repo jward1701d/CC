@@ -2,22 +2,22 @@
 <ul class="nav nav-tabs industry-links" role="tablist">
     <li class = "active">
         <a href="#tc" role="tab" data-toggle="tab">
-            <img class = "tab-img-1" src="img/coal.png" alt="coal">  Links
+            <img class = "tab-img-1" src="http://via.placeholder.com/50x50" alt="coal">  Links
         </a>
     </li>
     <li>
         <a href="#goverment" role="tab" data-toggle="tab">
-            <img class ="tab-img" src="img/coal.png" alt="coal"> Government
+            <img class ="tab-img" src="http://via.placeholder.com/50x50" alt="coal"> Government
         </a>
     </li>
     <li>
         <a href="#associations" role="tab" data-toggle="tab">
-            <img class ="tab-img" src="img/coal.png" alt="coal"> Associations
+            <img class ="tab-img" src="http://via.placeholder.com/50x50" alt="coal"> Associations
         </a>
     </li>
     <li>
         <a href="#educational" role="tab" data-toggle="tab">
-            <img class ="tab-img" src="img/coal.png" alt="coal"> Educational
+            <img class ="tab-img" src="http://via.placeholder.com/50x50" alt="coal"> Educational
         </a>
     </li>
 </ul>

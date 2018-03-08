@@ -3,7 +3,7 @@
         <div class="panel-body">
             <div class="row">
                 <div class="col-sm-6 col-sm-offset-3">
-                    <img class = "img-responsive" src="img/about-us.jpg" alt="about-us">
+                    <img class = "img-responsive" src="http://via.placeholder.com/350x150" alt="about-us">
                 
                 </div>
                 <div class="col-sm-8 col-sm-offset-2">

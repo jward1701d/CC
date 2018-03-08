@@ -12,9 +12,9 @@
                                        <div class="panel-body">
                                            <h4>David Pinson</h4>
                                                 <h5><em>Managing Partner</em></h5>
-                                                <p><span class = "glyphicon glyphicon-phone"></span> 606-434-1226</p>
-                                                <p><span class="glyphicon glyphicon-envelope"></span><a href="mailto:david@coalfieldconnection.com"> David@coalfieldconnection.com</a> </p>
-                                           <img class = "business-card" src="img/header-logo.png" alt="Coalfied Connection">
+                                                <p><span class = "glyphicon glyphicon-phone"></span> 555-555-5555</p>
+                                                <p><span class="glyphicon glyphicon-envelope"></span><a href="#"> David@coalfieldconnection.com</a> </p>
+                                           <img class = "business-card" src="http://via.placeholder.com/100x100" alt="Coalfied Connection">
                                         </div>
                                     </div>
                                 </div>
@@ -24,11 +24,11 @@
 										<div class="panel-body">
 											<h4>James Ward</h4>
                                                 <h5><em>Office Manager</em></h5>
-                                                <p><span class = "glyphicon glyphicon-phone"></span> 606-298-3773</p>
+                                                <p><span class = "glyphicon glyphicon-phone"></span> 555-555-5555</p>
                                            <p><span class = "glyphicon glyphicon-print"></span> 606-298-3156</p>
-                                                <p><span class="glyphicon glyphicon-envelope"></span><a href="mailto:jamesw@coalfieldconnection.com"> Jamesw@coalfieldconnection.com</a> </p>
-                                           <p><span class="glyphicon glyphicon-inbox"></span> PO Box 295 Inez, Ky 41224</p>
-                                           <img class = "business-card" src="img/header-logo.png" alt="Coalfied Connection">
+                                                <p><span class="glyphicon glyphicon-envelope"></span><a href="#"> Jamesw@coalfieldconnection.com</a> </p>
+                                           
+                                           <img class = "business-card" src="http://via.placeholder.com/100x100" alt="Coalfied Connection">
 										</div>
 									</div>
 								</div>

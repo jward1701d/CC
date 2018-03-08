@@ -1,3 +1,27 @@
+.webdesign img{
+  border: 1px solid rgb(0,0,0);
+}
+.no-pad img{
+  border: 1px solid rgb(0,0,0);
+}
+#about-us img {
+  border: 1px solid rgb(0,0,0);}
+#what-we-do img{
+  border: 1px solid rgb(0,0,0);
+}
+#officer-bio img{
+  border: 1px solid rgb(0,0,0);
+}
+.business-card{
+  margin-top: 10px;
+}
+.get-issue-logo{
+  margin: 10px auto !important;
+  border: 1px solid rgb(0,0,0);
+}
+.get-sticker-logo{
+  border: 1px solid rgb(0,0,0);
+}
 @media screen and (max-width: 320px) {
   /* line 2, E:/wamp/www/coalfield/css/nav */
   .navbar {
@@ -16,7 +40,7 @@
   /* line 14, E:/wamp/www/coalfield/css/nav */
   .logo-img {
     width: 60%;
-    margin: 5px; }
+    margin: 5px;}
 
   /* line 18, E:/wamp/www/coalfield/css/nav */
   .navbar-brand {
@@ -236,7 +260,7 @@
       background: none; }
  }
 
-@media screen and (min-width: 768px) and (max-width: 1095px) {
+@media screen and (min-width: 768px) and (max-width: 1024px) {
   /* line 259, E:/wamp/www/coalfield/css/nav */
   .navbar {
     min-height: 50px;
@@ -258,12 +282,12 @@
 
   /* line 272, E:/wamp/www/coalfield/css/nav */
   .logo-img {
-    width: 60%;
-    margin: 5px; }
+    width: 40%;/*60%;*/
+    margin: 15px; }
 
   /* line 276, E:/wamp/www/coalfield/css/nav */
   .navbar-brand {
-    float: none;
+    float: left;
     margin: 0;
     padding: 0;
     height: auto; }
@@ -339,7 +363,7 @@
   /* line 356, E:/wamp/www/coalfield/css/nav */
   .logo-img {
     width: 70%;
-    margin-top: -15px; }
+    /*margin-top: -15px;*/ }
 
   /* line 362, E:/wamp/www/coalfield/css/nav */
   .navbar-brand {
@@ -444,7 +468,7 @@
   /* line 462, E:/wamp/www/coalfield/css/nav */
   .logo-img {
     width: 100%;
-    margin: 5px; }
+    margin: 15px; }
 
   /* line 466, E:/wamp/www/coalfield/css/nav */
   .navbar-brand {
@@ -487,7 +511,9 @@
 
 /* line 1, E:/wamp/www/coalfield/css/body */
 html {
-  background: url('../img/bg.jpg'); }
+  /*background: url('../img/bg.jpg'); */
+  background: rgba(0,0,0,1);
+}
 
 /* line 5, E:/wamp/www/coalfield/css/body */
 body {
@@ -533,7 +559,7 @@ body {
     margin-bottom: 2px; }
  }
 
-@media screen and (min-width: 768px) and (max-width: 1095px) {
+@media screen and (min-width: 768px) and (max-width: 1024px) {
   /* line 43, E:/wamp/www/coalfield/css/header-slider */
   .carousal-container {
     background: url("../img/coalbanner3.jpg");
@@ -752,7 +778,7 @@ body {
 
   /* line 242, E:/wamp/www/coalfield/css/index-body */
   .webdesign {
-    margin-top: 40px; }
+    margin-top: 40px;}
  }
 
 @media screen and (min-width: 481px) and (max-width: 640px) {
@@ -828,7 +854,7 @@ body {
 
   /* line 337, E:/wamp/www/coalfield/css/index-body */
   .webdesign {
-    margin-top: 40px; }
+    margin-top: 40px;}
  }
 
 @media screen and (min-width: 641px) and (max-width: 767px) {
@@ -904,10 +930,10 @@ body {
 
   /* line 433, E:/wamp/www/coalfield/css/index-body */
   .webdesign {
-    margin-top: 40px; }
+    margin-top: 40px;}
  }
 
-@media screen and (min-width: 768px) and (max-width: 1095px) {
+@media screen and (min-width: 768px) and (max-width: 1024px) {
   /* line 439, E:/wamp/www/coalfield/css/index-body */
   .cc-sticker {
     width: 10%; }
@@ -949,7 +975,7 @@ body {
 
   /* line 481, E:/wamp/www/coalfield/css/index-body */
   .webdesign {
-    margin-top: 40px; }
+    margin-top: 40px;}
  }
 
 @media screen and (min-width: 1096px) and (max-width: 1210px) {
@@ -994,7 +1020,7 @@ body {
 
   /* line 529, E:/wamp/www/coalfield/css/index-body */
   .webdesign {
-    margin-top: 40px; }
+    margin-top: 40px;}
  }
 
 @media screen and (min-width: 1211px) and (max-width: 1920px) {
@@ -1069,12 +1095,14 @@ body {
 
   /* line 613, E:/wamp/www/coalfield/css/index-body */
   .webdesign {
-    margin-top: 100px; }
+    margin-top: 100px;}
 
   /* line 617, E:/wamp/www/coalfield/css/index-body */
   .advitisers img {
     margin: 5px 0 0 15px;
-    max-width: 300px; }
+    max-width: 300px;
+    border: 1px solid rgb(0,0,0);
+  }
 
   /* line 622, E:/wamp/www/coalfield/css/index-body */
   .industry-links {
@@ -1085,19 +1113,24 @@ body {
     text-align: center; }
  }
 
+ .assoc-hl img{
+   border: 1px solid rgb(0,0,0);
+ }
+
 @media screen and (max-width: 320px) {
   /* line 2, E:/wamp/www/coalfield/css/about-us */
   #about-us {
-    margin-top: 50px; }
+    margin-top: 60px;}/*50px; }
     /* line 4, E:/wamp/www/coalfield/css/about-us */
     #about-us img {
-      padding-bottom: 40px; }
+      padding-bottom: 40px;
+    border:1px solid rgb(0,0,0); }
  }
 
 @media screen and (min-width: 321px) and (max-width: 480px) {
   /* line 11, E:/wamp/www/coalfield/css/about-us */
   #about-us {
-    margin-top: 75px; }
+    margin-top: 100px;}/*75px; }
     /* line 13, E:/wamp/www/coalfield/css/about-us */
     #about-us img {
       padding-bottom: 40px; }
@@ -1115,17 +1148,17 @@ body {
 @media screen and (min-width: 641px) and (max-width: 767px) {
   /* line 30, E:/wamp/www/coalfield/css/about-us */
   #about-us {
-    margin-top: 85px; }
+    margin-top: 100px; }
     /* line 32, E:/wamp/www/coalfield/css/about-us */
     #about-us img {
       padding-bottom: 40px;
       padding-left: 40px; }
  }
 
-@media screen and (min-width: 768px) and (max-width: 1095px) {
+@media screen and (min-width: 768px) and (max-width: 1024px) {
   /* line 40, E:/wamp/www/coalfield/css/about-us */
   #about-us {
-    margin-top: 135px;
+    margin-top: 110px;
     margin-bottom: 40%; }
     /* line 43, E:/wamp/www/coalfield/css/about-us */
     #about-us img {
@@ -1145,7 +1178,7 @@ body {
 @media screen and (min-width: 1211px) and (max-width: 1920px) {
   /* line 62, E:/wamp/www/coalfield/css/about-us */
   #about-us {
-    margin-top: 80px;//101px;
+    margin-top: 100px;/*80px;/*101px;*/
     margin-bottom: 11%; }
     /* line 65, E:/wamp/www/coalfield/css/about-us */
     #about-us img {
@@ -1176,10 +1209,10 @@ body {
     margin-top: 100px; }
  }
 
-@media screen and (min-width: 768px) and (max-width: 1095px) {
+@media screen and (min-width: 768px) and (max-width: 1024px) {
   /* line 31, E:/wamp/www/coalfield/css/what-we-do */
   #what-we-do {
-    margin-top: 130px; }
+    margin-top: 110px; }
     /* line 33, E:/wamp/www/coalfield/css/what-we-do */
     #what-we-do h2 {
       text-decoration: underline;
@@ -1307,10 +1340,10 @@ body {
     margin-top: 50px; }
  }
 
-@media screen and (min-width: 768px) and (max-width: 1095px) {
+@media screen and (min-width: 768px) and (max-width: 1024px) {
   /* line 90, E:/wamp/www/coalfield/css/officer */
   #officer-bio {
-    margin-top: 135px;
+    margin-top: 110px;
     margin-bottom: 12%; }
     /* line 93, E:/wamp/www/coalfield/css/officer */
     #officer-bio h2 {
@@ -1717,10 +1750,10 @@ body {
       padding: 5px 10px; }
  }
 
-@media screen and (min-width: 768px) and (max-width: 1095px) {
+@media screen and (min-width: 768px) and (max-width: 1024px) {
   /* line 339, E:/wamp/www/coalfield/css/contact-us */
   #contact-us {
-    margin-top: 100px; }
+    margin-top: 110px; }
     /* line 341, E:/wamp/www/coalfield/css/contact-us */
     #contact-us a {
       text-decoration: none; }
@@ -2373,7 +2406,7 @@ body {
     left: 400px; }
  }
 
-@media screen and (min-width: 768px) and (max-width: 1095px) {
+@media screen and (min-width: 768px) and (max-width: 1024px) {
   /* line 201, E:/wamp/www/coalfield/css/directory */
   #directory {
     margin-top: 110px; }
@@ -2696,7 +2729,7 @@ body {
         box-shadow: 0 5px 5px #000; }
  }
 
-@media screen and (min-width: 768px) and (max-width: 1095px) {
+@media screen and (min-width: 768px) and (max-width: 1024px) {
   /* line 74, E:/wamp/www/coalfield/css/tradeshowspage */
   #tradepage {
     margin-top: 100px; }
@@ -2883,7 +2916,7 @@ body {
     height: auto; }
  }
 
-@media screen and (min-width: 768px) and (max-width: 1095px) {
+@media screen and (min-width: 768px) and (max-width: 1024px) {
   /* line 127, E:/wamp/www/coalfield/css/footer */
   #cc-footer {
     position: static;
